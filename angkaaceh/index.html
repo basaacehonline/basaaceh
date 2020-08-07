@@ -21,15 +21,15 @@
   function convertNumberToWords(amount) {
     var words = new Array();
     words[0] = '';
-    words[1] = 'One';
-    words[2] = 'Two';
-    words[3] = 'Three';
-    words[4] = 'Four';
-    words[5] = 'Five';
-    words[6] = 'Six';
-    words[7] = 'Seven';
-    words[8] = 'Eight';
-    words[9] = 'Nine';
+    words[1] = 'Sa';
+    words[2] = 'Dua';
+    words[3] = 'Tiga';
+    words[4] = 'Empat';
+    words[5] = 'Lima';
+    words[6] = 'Enam';
+    words[7] = 'Tujuh';
+    words[8] = 'Lapan';
+    words[9] = 'Sembilan';
     words[10] = 'Ten';
     words[11] = 'Eleven';
     words[12] = 'Twelve';
@@ -87,12 +87,12 @@
                 words_string += "Lakhs ";
             }
             if ((i == 5 && value != 0) || (i == 4 && value != 0 && n_array[i + 1] == 0)) {
-                words_string += "Thousand ";
+                words_string += "Ribu ";
             }
             if (i == 6 && value != 0 && (n_array[i + 1] != 0 && n_array[i + 2] != 0)) {
                 words_string += "Hundred and ";
             } else if (i == 6 && value != 0) {
-                words_string += "Hundred ";
+                words_string += "Ratus ";
             }
         }
         words_string = words_string.split("  ").join(" ");
