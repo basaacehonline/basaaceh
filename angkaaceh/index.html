@@ -130,9 +130,11 @@
                 words_string += "Reutoh Ribee ";
             }
             if ((i == 5 && value != 0) || (i == 4 && value != 0 && n_array[i + 1] == 0)) {
+              words[1] = 'Sa';
                 words_string += "Ribee ";
             }
             if (i == 6 && value != 0 && (n_array[i + 1] != 0 && n_array[i + 2] != 0)) {
+              words[1] = 'Sa';
                 words_string += "Reutoh ";
             } else if (i == 6 && value != 0) {
                 words_string += "Reutoh ";
