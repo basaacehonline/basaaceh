@@ -1,5 +1,6 @@
-|/v1598253139/a/24_qhpeuj.png      |a            |'a-'a          |'ab      |'ab-'ab    |FIELD6   |FIELD7   |FIELD8  |FIELD9  |FIELD10    |FIELD11  |FIELD12        |FIELD13|FIELD14|FIELD15  |FIELD16 |FIELD17|FIELD18    |
-|----------------------------------|-------------|---------------|---------|-----------|---------|---------|--------|--------|-----------|---------|---------------|-------|-------|---------|--------|-------|-----------|
+|Halaman pada url|kata
+
+|/v1598253139/a/24_qhpeuj.png      |a            |'a-'a          |'ab      |'ab-'ab    |
 |24s25.jpg                         |abaih        |               |         |           |         |         |        |        |           |         |               |       |       |         |        |       |           |
 |/v1598253149/a/25_a6e7w3.png25.jpg|ab'aj        |abang          |abat     |abdo       |abdoraoh |abee     |abeh    |abeudi  |abeujad    |abeuek   |abeueng-abeueng|       |       |         |        |       |           |
 |25s26.jpg                         |abeusi       |               |         |           |         |         |        |        |           |         |               |       |       |         |        |       |           |
