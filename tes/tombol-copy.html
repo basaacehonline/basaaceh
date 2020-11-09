@@ -12,9 +12,19 @@
 
 <div class="container">
   <h2>Button Styles</h2>
-  <input type="text" value="è" id="myInput">
-<button type="button" class="btn" onclick="myFunction()">Copy text</button>
   
+  
+<input type="text" value="Hello World" id="myInput">
+<button onclick="myFunction()">Copy text</button>
+    <script>
+function myFunction() {
+  var copyText = document.getElementById("myInput");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  alert("Copied the text: " + copyText.value);
+}
+</script>
   
   <button type="button" class="btn btn-default">Default</button>
   <button type="button" class="btn btn-primary">Primary</button>
@@ -24,6 +34,18 @@
   <button type="button" class="btn btn-danger">Danger</button>
   <button type="button" class="btn btn-link">Link</button>      
 </div>
+  
+  
+  
+  <script>
+function myFunction() {
+  var copyText = document.getElementById("myInput");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  alert("Copied the text: " + copyText.value);
+}
+</script>
 
 </body>
 </html>
