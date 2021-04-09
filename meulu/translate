@@ -1,0 +1,126 @@
+
+      
+
+
+      // eh ini saya tambahkan lagi, jika user klik start
+    if ( /^[Aa]r [A-Za-z0-9 ?!]+$/.exec(msg.text) ){
+       var teks = msg.text;
+       var teks = teks.trim();
+       var teks = teks.replace('ar ','');
+       
+var ts = LanguageApp.translate(teks, 'id', 'ar');  
+      msg.text = msg.text.replace('ar ','');
+      msg.text = msg.text.replace('Ar ','');
+      ts = ts.replace('Ar ','');
+       return tg.kirimPesan(msg.chat.id, '🇮🇩 <b>'+msg.text+'</b>\n\n🇸🇦 '+ts+'', 'HTML', true);
+      }
+      
+      
+       // english - indo 
+        //if ( /^[Ee][Nn] [A-Za-z0-9 ?!]+$/.exec(msg.text) ){   
+       //var teks = msg.text;
+       //var teks = teks.trim();
+       //var teks = teks.replace('En ','');     
+       //var teks = teks.replace('en ','');
+       //var teks = teks.replace('Id ','');     
+      // var teks = teks.replace('id','');    
+       //var ts = LanguageApp.translate(teks, 'id', 'en');  
+       //return tg.kirimPesan(msg.chat.id, '🇺🇸 '+teks+'\n\n\🇮🇩 <b>'+ts+'</b>', 'HTML', true);
+      //}
+ if ( /^[Ee][Nn][- ][Ii][Dd] [A-Za-z0-9 ?!]+$/.exec(msg.text) ){   
+       var teks = msg.text;
+       var teks = teks.trim();
+       var teks = teks.replace('En ','');     
+       var teks = teks.replace('en ','');
+       var teks = teks.replace('Id ','');     
+       var teks = teks.replace('id','');    
+       var ts = LanguageApp.translate(teks, 'en', 'id');  
+       return tg.kirimPesan(msg.chat.id, '🇺🇸 <b>'+teks+'</b>\n\n\🇮🇩 '+ts+'', 'HTML', true);
+      }
+           // indo - english
+ if ( /^[Ii][Dd][- ][Ee][Nn] [A-Za-z0-9 ?!]+$/.exec(msg.text) ){   
+       var teks = msg.text;
+       var teks = teks.trim();
+       var teks = teks.replace('En ','');     
+       var teks = teks.replace('en ','');
+       var teks = teks.replace('Id ','');     
+       var teks = teks.replace('id','');    
+       var ts = LanguageApp.translate(teks, 'id', 'en');  
+       return tg.kirimPesan(msg.chat.id, '🇮🇩 '+teks+'\n\n\n🇺🇸 <b>'+ts+'</b>', 'HTML', true);
+      }
+      
+
+      //jawa - id
+       if ( /^[Jj][Ww][- ][Ii][Dd] [A-Za-z0-9 ?!]+$/.exec(msg.text) ){
+       var teks = msg.text;
+       var teks = teks.trim();
+       var teks = teks.replace('jw ','');
+       var teks = teks.replace('Jw ',''); 
+       var teks = teks.replace('Id ','');     
+       var teks = teks.replace('id','');
+var ts = LanguageApp.translate(teks, 'jv', 'id');  
+       return tg.kirimPesan(msg.chat.id, 'Jawa : <b>'+teks+'</b>\n\n\🇮🇩 <b> '+ts+'</b>', 'HTML', true);
+      }
+      //Id - Jawa
+       if ( /^[Ii][Dd][- ][Jj][Ww] [A-Za-z0-9 ?!]+$/.exec(msg.text) ){
+       var teks = msg.text;
+       var teks = teks.trim();
+       var teks = teks.replace('jw ','');
+       var teks = teks.replace('Jw ',''); 
+       var teks = teks.replace('Id ','');     
+       var teks = teks.replace('id','');
+var ts = LanguageApp.translate(teks, 'id', 'jv');  
+       return tg.kirimPesan(msg.chat.id, '🇮🇩 <b> '+teks+'</b>\n\n\Jawa : <b>'+ts+'</b>', 'HTML', true);
+      }
+      
+      
+      
+      //rusia - id
+       if ( /^[Rr][Uu][- ][Ii][Dd] [A-Za-z0-9 \u0400-\u04FF]+$/.exec(msg.text) ){
+       var teks = msg.text;
+       var teks = teks.trim();
+       var teks = teks.replace('Ru ','');
+       var teks = teks.replace('ru ',''); 
+       var teks = teks.replace('Id ','');     
+       var teks = teks.replace('id','');
+var ts = LanguageApp.translate(teks, 'ru', 'id');  
+       return tg.kirimPesan(msg.chat.id, '🇷🇺 <b>'+teks+'</b>\n\n\🇮🇩 <b> '+ts+'</b>', 'HTML', true);
+      }
+      //Id - rusia
+       if ( /^[Ii][Dd][- ][Rr][Uu] [A-Za-z0-9 ?!]+$/.exec(msg.text) ){
+       var teks = msg.text;
+       var teks = teks.trim();
+       var teks = teks.replace('ru ','');
+       var teks = teks.replace('Ru ',''); 
+       var teks = teks.replace('Id ','');     
+       var teks = teks.replace('id','');
+var ts = LanguageApp.translate(teks, 'id', 'ru');  
+       return tg.kirimPesan(msg.chat.id, '🇮🇩 <b> '+teks+'</b>\n\n\🇷🇺<b>'+ts+'</b>', 'HTML', true);
+      }
+      
+      
+        
+      //arab - id
+       if ( /^[Aa][Rr][- ][Ii][Dd] [A-Za-z0-9 ء-ي ?!]+$/.exec(msg.text) ){
+       var teks = msg.text;
+       var teks = teks.trim();
+       var teks = teks.replace('Ar ','');
+       var teks = teks.replace('ar ',''); 
+       var teks = teks.replace('Id ','');     
+       var teks = teks.replace('id','');
+var ts = LanguageApp.translate(teks, 'ar', 'id');  
+       return tg.kirimPesan(msg.chat.id, '🇸🇦 <b>'+teks+'</b>\n\n\🇮🇩 <b> '+ts+'</b>', 'HTML', true);
+      }
+      //Id - rusia
+       if ( /^[Ii][Dd][- ][Aa][Rr] [A-Za-z0-9 ?!]+$/.exec(msg.text) ){
+       var teks = msg.text;
+       var teks = teks.trim();
+       var teks = teks.replace('Ar ','');
+       var teks = teks.replace('ar ',''); 
+       var teks = teks.replace('Id ','');     
+       var teks = teks.replace('id','');
+var ts = LanguageApp.translate(teks, 'id', 'ar');  
+       //return tg.kirimPesan(msg.chat.id, '🇮🇩 <b> '+teks+'</b>\n\n\🇸🇦<b>'+ts+'</b>', 'HTML', true);
+      return tg.kirimPesan(msg.chat.id, 'mmmmmm', 'HTML', true);
+    
+      }
