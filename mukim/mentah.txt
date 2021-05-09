@@ -1,0 +1,803 @@
+nama_kemukiman,nama_kecamatan,nama_kab_kota
+Kedai Bakongan,Bakongan,Aceh Selatan
+Ujong Padang,Bakongan,Aceh Selatan
+Asahan,Kluet Utara,Aceh Selatan
+Sejahtera,Kluet Utara,Aceh Selatan
+Kuala Ba\'U,Kluet Utara,Aceh Selatan
+Jaya,Kluet Selatan,Aceh Selatan
+Kandang,Kluet Selatan,Aceh Selatan
+Utama,Kluet Selatan,Aceh Selatan
+Padang Bakau,Labuhan Haji,Aceh Selatan
+Pawoh Apha,Labuhan Haji,Aceh Selatan
+Pisang Baru,Labuhan Haji,Aceh Selatan
+Ateuh,Meukek,Aceh Selatan
+Bahagia,Meukek,Aceh Selatan
+Teungoh,Meukek,Aceh Selatan
+Ujung,Meukek,Aceh Selatan
+Panton Luas,Samadua,Aceh Selatan
+Sedar,Samadua,Aceh Selatan
+Suaq,Samadua,Aceh Selatan
+Kasik Putih,Samadua,Aceh Selatan
+Sikulat,Sawang,Aceh Selatan
+Lhok Pawoh,Sawang,Aceh Selatan
+Trieng Meuduro,Sawang,Aceh Selatan
+Alue Paku,Sawang,Aceh Selatan
+Hilir,Tapaktuan,Aceh Selatan
+Hulu,Tapaktuan,Aceh Selatan
+Keude Trumon,Trumon,Aceh Selatan
+Kuta Tuha,Trumon,Aceh Selatan
+Buloh Seuma,Trumon,Aceh Selatan
+Terbangan,Pasi Raja,Aceh Selatan
+Rasian,Pasi Raja,Aceh Selatan
+Peulumat,Labuhan Hj. Timur,Aceh Selatan
+Keumumu,Labuhan Hj. Timur,Aceh Selatan
+Blang Keujeren,Labuhan Hj. Barat,Aceh Selatan
+Blang Baru,Labuhan Hj. Barat,Aceh Selatan
+Kuta Trieng,Labuhan Hj. Barat,Aceh Selatan
+Manggamat,Kluet Tengah,Aceh Selatan
+Perdamaian,Kluet Timur,Aceh Selatan
+Makmur,Kluet Timur,Aceh Selatan
+Seubadeh,Bakongan Timur,Aceh Selatan
+Krueng Luas,Trumon Timur,Aceh Selatan
+Beutong,Kota Bahagia,Aceh Selatan
+Ujong Tanoh,Kota Bahagia,Aceh Selatan
+Ladang Rimba,Trumon Tengah,Aceh Selatan
+Ngkeran,Lawe Alas,Aceh Tenggara
+Ladang Misik,Lawe Alas,Aceh Tenggara
+Biak Mentelang,Lawe Alas,Aceh Tenggara
+Penungkunen,Lawe Alas,Aceh Tenggara
+Sepakat,Lawe Sigala-Gala,Aceh Tenggara
+Lawe Tua,Lawe Sigala-Gala,Aceh Tenggara
+Sukadamai,Lawe Sigala-Gala,Aceh Tenggara
+Kute Tengah,Lawe Sigala-Gala,Aceh Tenggara
+Sekedang,Bambel,Aceh Tenggara
+Munthe,Bambel,Aceh Tenggara
+Beruh,Bambel,Aceh Tenggara
+Al-Whusta,Bambel,Aceh Tenggara
+Jaya Sakti,Babussalam,Aceh Tenggara
+Selian,Babussalam,Aceh Tenggara
+Dese,Babussalam,Aceh Tenggara
+Cibro,Badar,Aceh Tenggara
+Anugerah Jaya,Badar,Aceh Tenggara
+Kodrat Alas,Badar,Aceh Tenggara
+Lawe Desky,Babul Makmur,Aceh Tenggara
+Tanoh Alas,Babul Makmur,Aceh Tenggara
+Ukhat Peseluk,Babul Makmur,Aceh Tenggara
+Kembang Kertan,Darul Hasanah,Aceh Tenggara
+Darul Makmur,Darul Hasanah,Aceh Tenggara
+Seri Muda,Darul Hasanah,Aceh Tenggara
+Pelis,Lawe Bulan,Aceh Tenggara
+Perintis,Lawe Bulan,Aceh Tenggara
+Bunga Tanjong,Lawe Bulan,Aceh Tenggara
+Darul Hayat,Bukit Tusam,Aceh Tenggara
+Al Huda,Bukit Tusam,Aceh Tenggara
+Bekhu Dihe,Bukit Tusam,Aceh Tenggara
+Semadam,Semadam,Aceh Tenggara
+Salman,Semadam,Aceh Tenggara
+Istiqomah,Semadam,Aceh Tenggara
+Tenembak Alas,Babul Rahmah,Aceh Tenggara
+Babussalam,Babul Rahmah,Aceh Tenggara
+Kompas Jaya,Babul Rahmah,Aceh Tenggara
+Lawe Mencirim,Ketambe,Aceh Tenggara
+Tuah Negeri,Ketambe,Aceh Tenggara
+Selayakh,Ketambe,Aceh Tenggara
+Alas Maju,Deleng Pokhisen,Aceh Tenggara
+Lawe Kisam,Deleng Pokhisen,Aceh Tenggara
+Maddiri,Deleng Pokhisen,Aceh Tenggara
+Raje Bambel,Lawe Sumur,Aceh Tenggara
+Permata,Lawe Sumur,Aceh Tenggara
+Baitul Hikmah,Lawe Sumur,Aceh Tenggara
+Nurul Huda,Tanoh Alas,Aceh Tenggara
+Gaye Sendah,Tanoh Alas,Aceh Tenggara
+Pyung Mesikhat,Tanoh Alas,Aceh Tenggara
+Darul Arafah,Leuser,Aceh Tenggara
+Reformasi,Leuser,Aceh Tenggara
+Gukhu Mbelin,Leuser,Aceh Tenggara
+Pulo Baro,Darul Aman,Aceh Timur
+Rambong,Darul Aman,Aceh Timur
+Kuta Idi Cut,Darul Aman,Aceh Timur
+Pulo Blang,Darul Aman,Aceh Timur
+Pulo Pineung,Darul Aman,Aceh Timur
+Caleue,Darul Aman,Aceh Timur
+Pante Geulima,Julok,Aceh Timur
+Labuhan,Julok,Aceh Timur
+Indra Caya,Julok,Aceh Timur
+Julok Cut,Julok,Aceh Timur
+Kuta,Idi Rayeuk,Aceh Timur
+Teupin Batee,Idi Rayeuk,Aceh Timur
+Gureb Blang,Idi Rayeuk,Aceh Timur
+Birem Bayeun,Birem Bayeun,Aceh Timur
+Birem Barat,Birem Bayeun,Aceh Timur
+irem Timu,Birem Bayeun,Aceh Timur
+Tualang,Serbajadi,Aceh Timur
+Jering,Serbajadi,Aceh Timur
+Bunin,Serbajadi,Aceh Timur
+Kuta Bagok,Nurussalam,Aceh Timur
+Bugeng,Nurussalam,Aceh Timur
+Ulee Glee,Nurussalam,Aceh Timur
+Matang Panyang,Nurussalam,Aceh Timur
+Peureulak,Peureulak,Aceh Timur
+Rambong Payong,Peureulak,Aceh Timur
+Blang Simpo,Peureulak,Aceh Timur
+Bayeun,Rantau Selamat,Aceh Timur
+Rantau Panyang,Rantau Selamat,Aceh Timur
+Simpang Ulim,Simpang Ulim,Aceh Timur
+Blang Nie,Simpang Ulim,Aceh Timur
+Pucok Alue,Simpang Ulim,Aceh Timur
+Rantau Panjang,Ranto Peureulak,Aceh Timur
+Snb Baro,Ranto Peureulak,Aceh Timur
+Nurul A\'La,Ranto Peureulak,Aceh Timur
+Blang Seunong,Pantee Bidari,Aceh Timur
+Lhok Nibong,Pantee Bidari,Aceh Timur
+Paya Demam,Pantee Bidari,Aceh Timur
+Madat,Madat,Aceh Timur
+Bintah,Madat,Aceh Timur
+Lueng,Madat,Aceh Timur
+Matang Keupula,Madat,Aceh Timur
+Indra Makmu,Indra Makmu,Aceh Timur
+Blang Siguci,Idi Tunong,Aceh Timur
+Keumuneng,Idi Tunong,Aceh Timur
+Kuta Baro,Idi Tunong,Aceh Timur
+Dama Puteh,Banda Alam,Aceh Timur
+Peudawa Rayeuk,Peudawa,Aceh Timur
+Alue Lhok,Peureulak Timur,Aceh Timur
+Alue Nireh,Peureulak Timur,Aceh Timur
+Kuta Dayah,Peureulak Barat,Aceh Timur
+Tgk. Digeudham,Peureulak Barat,Aceh Timur
+Sungai Raya,Sungai Raya,Aceh Timur
+Simpang Jernih,Simpang Jernih,Aceh Timur
+Keude Dua,Darul Ihsan,Aceh Timur
+Lhok Tujoh,Darul Ihsan,Aceh Timur
+Ulee Gajah,Darul Falah,Aceh Timur
+Seuneubok Meuku,Idi Timur,Aceh Timur
+Peudawa Puntong,Idi Timur,Aceh Timur
+Buntul Reje,Peunaron,Aceh Timur
+Isaq,Linge,Aceh Tengah
+Singah Mata,Linge,Aceh Tengah
+Glung Prajah,Linge,Aceh Tengah
+Wihni Dusun Jamat,Linge,Aceh Tengah
+Silih Nara,Silih Nara,Aceh Tengah
+Bebesen,Bebesen,Aceh Tengah
+Pegasing,Pegasing,Aceh Tengah
+Bintang,Bintang,Aceh Tengah
+Nosar,Bintang,Aceh Tengah
+Ketol,Ketol,Aceh Tengah
+Kebayakan,Kebayakan,Aceh Tengah
+Ratawali,Kute Panang,Aceh Tengah
+Celala,Celala,Aceh Tengah
+Kota,Lut Tawar,Aceh Tengah
+Laut Tawar,Lut Tawar,Aceh Tengah
+Burni Reje Linge,Atu Lintang,Aceh Tengah
+Gedum Malik,Jagong Jeget,Aceh Tengah
+Musara Bies,Bies,Aceh Tengah
+Cahaya Harapan,Rusip Antara,Aceh Tengah
+Pameu,Rusip Antara,Aceh Tengah
+Ujong Kalak,Johan Pahlawan,Aceh Barat
+Balee Puteh,Johan Pahlawan,Aceh Barat
+Tgk. Chik Dirundeng,Johan Pahlawan,Aceh Barat
+Putroe Ijo,Johan Pahlawan,Aceh Barat
+Peureumeue,Kaway XVI,Aceh Barat
+Pasi Jeumpa,Kaway XVI,Aceh Barat
+Tanjong Meulaboh,Kaway XVI,Aceh Barat
+Mugo,Panton Reu,Aceh Barat
+Meuko,Panton Reu,Aceh Barat
+Babah Krueng Manggie,Panton Reu,Aceh Barat
+Tungkop,Sungai Mas,Aceh Barat
+Darul Ikhsan,Sungai Mas,Aceh Barat
+Kuala Bhee,Woyla,Aceh Barat
+Keuleumbah,Woyla,Aceh Barat
+Cot Murong,Woyla,Aceh Barat
+Pasie,Samatiga,Aceh Barat
+Mesjid Tuha,Samatiga,Aceh Barat
+Meuneumbok,Samatiga,Aceh Barat
+Krueng Tinggai,Samatiga,Aceh Barat
+Mesjid Baro,Samatiga,Aceh Barat
+Lhok Bubon,Samatiga,Aceh Barat
+Gunong Panah,Bubon,Aceh Barat
+Kuta Padang,Bubon,Aceh Barat
+Suak Pangkat,Bubon,Aceh Barat
+Arongan Deli,Arongan Lambalek,Aceh Barat
+Lambalek,Arongan Lambalek,Aceh Barat
+Meunuang Kinco,Pante Ceureumen,Aceh Barat
+Lango,Pante Ceureumen,Aceh Barat
+Manjeng,Pante Ceureumen,Aceh Barat
+Gunong Meuh,Pante Ceureumen,Aceh Barat
+Ranto Panyang,Meureubo,Aceh Barat
+Meureubo,Meureubo,Aceh Barat
+Lhok Malee,Wolya Barat,Aceh Barat
+Bakat,Wolya Barat,Aceh Barat
+Woyla Tunong,Woyla Timur,Aceh Barat
+Krueng Bhee,Woyla Timur,Aceh Barat
+Cot Jeumpa,Lhoong,Aceh Besar
+Blang Mee,Lhoong,Aceh Besar
+Lhoong,Lhoong,Aceh Besar
+Glee Bruek,Lhoong,Aceh Besar
+Lhoknga,Lhoknga,Aceh Besar
+Kueh,Lhoknga,Aceh Besar
+Lamlhom,Lhoknga,Aceh Besar
+Lampuuk,Lhoknga,Aceh Besar
+Reukih,Indrapuri,Aceh Besar
+Empee Ara,Indrapuri,Aceh Besar
+Jruek,Indrapuri,Aceh Besar
+Seulimeum,Seulimeum,Aceh Besar
+Lamkabeu,Seulimeum,Aceh Besar
+Lamteuba,Seulimeum,Aceh Besar
+Lampanah,Seulimeum,Aceh Besar
+Tanoh Abee,Seulimeum,Aceh Besar
+Montasik,Montasik,Aceh Besar
+Bukit Baro,Montasik,Aceh Besar
+Piyeung,Montasik,Aceh Besar
+Sibreh,Sukamakmur,Aceh Besar
+Lamlheu,Sukamakmur,Aceh Besar
+Aneuk Batee,Sukamakmur,Aceh Besar
+Sungai Limpah,Sukamakmur,Aceh Besar
+Lamreung,Darul Imarah,Aceh Besar
+Ulee Susu,Darul Imarah,Aceh Besar
+Lam Ara,Darul Imarah,Aceh Besar
+Daroy/Jeumpet,Darul Imarah,Aceh Besar
+Lam Pangeu,Peukan Bada,Aceh Besar
+Lam Teungoh,Peukan Bada,Aceh Besar
+Gurah,Peukan Bada,Aceh Besar
+Lambarueh,Peukan Bada,Aceh Besar
+Krueng Raya,Mesjid Raya,Aceh Besar
+Lamnga,Mesjid Raya,Aceh Besar
+Lamgarot,Ingin Jaya,Aceh Besar
+Lubok,Ingin Jaya,Aceh Besar
+Gani,Ingin Jaya,Aceh Besar
+Pagar Air,Ingin Jaya,Aceh Besar
+Lamjampok,Ingin Jaya,Aceh Besar
+Lamteungoh,Ingin Jaya,Aceh Besar
+Bung Cala,Kuta Baro,Aceh Besar
+Leupung,Kuta Baro,Aceh Besar
+Lamblang,Kuta Baro,Aceh Besar
+Ateuk,Kuta Baro,Aceh Besar
+Lamrabo,Kuta Baro,Aceh Besar
+Lambaro Angan,Darussalam,Aceh Besar
+Tungkop,Darussalam,Aceh Besar
+Siem,Darussalam,Aceh Besar
+Pulo Breuh Utara,Pulo Aceh,Aceh Besar
+Pulo Breuh Selatan,Pulo Aceh,Aceh Besar
+Pulo Nasi,Pulo Aceh,Aceh Besar
+Gunung Biram,Lembah Seulawah,Aceh Besar
+Saree,Lembah Seulawah,Aceh Besar
+Jantho,Kota Jantho,Aceh Besar
+Glee Yeung,Kuta Cot Glie,Aceh Besar
+Lamleuot,Kuta Cot Glie,Aceh Besar
+Samahani,Kuta Malaka,Aceh Besar
+Simpang Tiga,Simpang Tiga,Aceh Besar
+Lamkrak,Simpang Tiga,Aceh Besar
+Biluy,Darul Kamal,Aceh Besar
+Silang Cadek,Baitussalam,Aceh Besar
+Klieng,Baitussalam,Aceh Besar
+Ulee Kareng,Krueng Barona Jaya,Aceh Besar
+Pango,Krueng Barona Jaya,Aceh Besar
+Lam Ujong,Krueng Barona Jaya,Aceh Besar
+Leupung,Leupung,Aceh Besar
+Sungai Makmur,Blang Bintang,Aceh Besar
+Cot Saluran,Blang Bintang,Aceh Besar
+Meulayo,Blang Bintang,Aceh Besar
+Bintang Hu,Batee,Pidie
+Calong,Batee,Pidie
+Pandee,Batee,Pidie
+Tungkop,Batee,Pidie
+Reubee,Delima,Pidie
+Aree,Delima,Pidie
+Beuah,Delima,Pidie
+Bambong,Delima,Pidie
+Bangkeh,Geumpang,Pidie
+Aron,Geulumpang Tiga,Pidie
+Teupin Raya,Geulumpang Tiga,Pidie
+Glumpang Minyeuk,Geulumpang Tiga,Pidie
+Lambaro,Geulumpang Tiga,Pidie
+Caleue,Indra Jaya,Pidie
+Lhok Kaju,Indra Jaya,Pidie
+Garot/Tungkop,Indra Jaya,Pidie
+Bluek Grong-Grong,Indra Jaya,Pidie
+Gapui/Suwiek,Indra Jaya,Pidie
+Asan Kumbang,Kembang Tanjong,Pidie
+Arusan,Kembang Tanjong,Pidie
+Kampong Asan,Kembang Tanjong,Pidie
+Blang Gapu,Kembang Tanjong,Pidie
+Rheueng-Rheueng,Kembang Tanjong,Pidie
+Kuta Baro,Kembang Tanjong,Pidie
+Kuta Asan,Kota Sigli,Pidie
+Kuta Budee,Kota Sigli,Pidie
+Kota Sigli,Kota Sigli,Pidie
+Meutereum,Mila,Pidie
+Ilot,Mila,Pidie
+Andeue,Mila,Pidie
+Tgk Laweueng,Muara Tiga,Pidie
+Cure,Muara Tiga,Pidie
+Kalee,Muara Tiga,Pidie
+Yaman,Mutiara,Pidie
+Keumangan,Mutiara,Pidie
+Beureueh,Mutiara,Pidie
+Busu,Mutiara,Pidie
+Kunyet,Padang Tiji,Pidie
+Peudaya,Padang Tiji,Pidie
+Paloh,Padang Tiji,Pidie
+Beurabo,Padang Tiji,Pidie
+Gogo,Padang Tiji,Pidie
+Tanjong,Padang Tiji,Pidie
+Mesjid,Peukan Baro,Pidie
+Guci Rumpong,Peukan Baro,Pidie
+Bambi,Peukan Baro,Pidie
+Pinueng,Peukan Baro,Pidie
+Krueng Dayah,Peukan Baro,Pidie
+Krueng Seumideun,Peukan Baro,Pidie
+Gampong Lhang,Pidie,Pidie
+Keulibeut,Pidie,Pidie
+Asan,Pidie,Pidie
+Paloh,Pidie,Pidie
+Gampong Baro,Pidie,Pidie
+Teubeng,Pidie,Pidie
+Sanggeue,Pidie,Pidie
+Utue/Baloh,Pidie,Pidie
+Langga,Sakti,Pidie
+Kandang,Sakti,Pidie
+Cot Murong,Sakti,Pidie
+Leumpeum,Sakti,Pidie
+Mali,Sakti,Pidie
+Lameue,Sakti,Pidie
+Bakti,Sakti,Pidie
+Bunggie,Simpang Tiga,Pidie
+Lancang,Simpang Tiga,Pidie
+Iboih,Simpang Tiga,Pidie
+Gigieng,Simpang Tiga,Pidie
+Peukan,Simpang Tiga,Pidie
+Mangki,Simpang Tiga,Pidie
+Tungoe,Simpang Tiga,Pidie
+Pulo Mesjid,Tangse,Pidie
+Layan,Tangse,Pidie
+Tanjong Bungong,Tangse,Pidie
+Beungga,Tangse,Pidie
+Tiro,Tiro/Truseb,Pidie
+Truseb,Tiro/Truseb,Pidie
+Daya,Tiro/Truseb,Pidie
+Blang Keudah,Tiro/Truseb,Pidie
+Keumala Raya,Keumala,Pidie
+Keumala Dalam,Keumala,Pidie
+Titeue,Titeue,Pidie
+Tong Pudeng,Titeue,Pidie
+Usi,Mutiara Timur,Pidie
+Ujong Rimba,Mutiara Timur,Pidie
+Alue Batee,Mutiara Timur,Pidie
+Jeurat Manyang,Mutiara Timur,Pidie
+Gumpueng,Mutiara Timur,Pidie
+Adan,Mutiara Timur,Pidie
+Tiba,Mutiara Timur,Pidie
+Beureuleung,Grong-Grong,Pidie
+Memeuaneuk,Grong-Grong,Pidie
+Leutueng,Mane,Pidie
+Unoe,Glumpang Baro,Pidie
+Glumpang Payong,Glumpang Baro,Pidie
+Riwat,Glumpang Baro,Pidie
+Trueng Campli,Glumpang Baro,Pidie
+Alue Ie Puteh,Baktiya,Aceh Utara
+Pantee Breuh,Baktiya,Aceh Utara
+Matang Linya,Baktiya,Aceh Utara
+Krueng Geukuh,Dewantara,Aceh Utara
+Cot Murong,Dewantara,Aceh Utara
+Buloh Blang Ara,Kuta Makmur,Aceh Utara
+Keude Krueng,Kuta Makmur,Aceh Utara
+Beureughang,Kuta Makmur,Aceh Utara
+Matang Ubi,Lhoksukon,Aceh Utara
+Ara Bungkok,Lhoksukon,Aceh Utara
+Lhoksukon Barat,Lhoksukon,Aceh Utara
+Lhoksukon Teungoh,Lhoksukon,Aceh Utara
+Matang Kuli,Matang Kuli,Aceh Utara
+Pirak,Matang Kuli,Aceh Utara
+Seulemak,Matang Kuli,Aceh Utara
+Geulumpang VIII,Matang Kuli,Aceh Utara
+Mane,Muara Batu,Aceh Utara
+Bungkaih,Muara Batu,Aceh Utara
+Baroh,Meurah Mulia,Aceh Utara
+Teungoh,Meurah Mulia,Aceh Utara
+Tunong,Meurah Mulia,Aceh Utara
+Langgahan,Samudera,Aceh Utara
+Blang Mee,Samudera,Aceh Utara
+Madan,Samudera,Aceh Utara
+Seuneudon,Seunuddon,Aceh Utara
+Kuta Piadah,Seunuddon,Aceh Utara
+Pante Seuneudon,Seunuddon,Aceh Utara
+Aron,Syamtalira Aron,Aceh Utara
+Krueng Pase,Syamtalira Aron,Aceh Utara
+Blang Asan,Syamtalira Aron,Aceh Utara
+Syamtarail,Syamtalira Aron,Aceh Utara
+Mancang,Syamtalira Bayu,Aceh Utara
+Meuraksa,Syamtalira Bayu,Aceh Utara
+Kareung,Syamtalira Bayu,Aceh Utara
+Mbang,Syamtalira Bayu,Aceh Utara
+Matang Pangkat,Tanah Luas,Aceh Utara
+Teungoh,Tanah Luas,Aceh Utara
+Seuleumak Barat,Tanah Luas,Aceh Utara
+Jrat Mayang,Tanah Pasir,Aceh Utara
+Matang Panyang,Tanah Pasir,Aceh Utara
+Jambo Aye Utara,Tanah Jambo Aye,Aceh Utara
+Jambo Aye Teungoh,Tanah Jambo Aye,Aceh Utara
+Jambo Aye Kota,Tanah Jambo Aye,Aceh Utara
+Jambo Aye Barat,Tanah Jambo Aye,Aceh Utara
+Sawang Utara,Sawang,Aceh Utara
+Sawang Selatan,Sawang,Aceh Utara
+Keude Amplaih,Nisam,Aceh Utara
+Blang Dalam,Nisam,Aceh Utara
+Cot Batee,Nisam,Aceh Utara
+Bandar Baru,Cot Girek,Aceh Utara
+Alue Rampah,Cot Girek,Aceh Utara
+Beuradang,Cot Girek,Aceh Utara
+Lueng Angen,Langkahan,Aceh Utara
+Pintoe Rimba,Langkahan,Aceh Utara
+Rampah,Langkahan,Aceh Utara
+Sampoenit,Baktiya Barat,Aceh Utara
+Makmur,Baktiya Barat,Aceh Utara
+Buah,Baktiya Barat,Aceh Utara
+Pante Tunong,Paya Bakong,Aceh Utara
+Seuleumak,Paya Bakong,Aceh Utara
+Tgk Syik Paya Bakong,Paya Bakong,Aceh Utara
+Pante Bahagia,Paya Bakong,Aceh Utara
+Simpang Paya,Nibong,Aceh Utara
+Datu Nibong,Nibong,Aceh Utara
+Simpang Keuramat,Simpang Keuramat,Aceh Utara
+Buloh Raya Mancang,Simpang Keuramat,Aceh Utara
+Lapang,Lapang,Aceh Utara
+Teungku Di Banda,Lapang,Aceh Utara
+Pirak Timu,Pirak Timu,Aceh Utara
+Matangkuli,Pirak Timu,Aceh Utara
+Reudong Pase,Geuredong Pase,Aceh Utara
+Tgk. Dimanayang Mbang,Geuredong Pase,Aceh Utara
+Banda Baro,Banda Baro,Aceh Utara
+Lhok Weeng,Banda Baro,Aceh Utara
+Bate Pila,Nisam Antara,Aceh Utara
+Lhok Drien,Nisam Antara,Aceh Utara
+Laure\'E,Simeulue Tengah,Simeulue
+Blang Ujung,Simeulue Tengah,Simeulue
+Latel,Simeulue Tengah,Simeulue
+Along,Salang,Simeulue
+Alang,Salang,Simeulue
+Alang Tengah,Salang,Simeulue
+Bakudo Batu,Teupah Barat,Simeulue
+Batu Rundung,Teupah Barat,Simeulue
+Darul Ihksan,Teupah Barat,Simeulue
+Maskapai,Simeulue Timur,Simeulue
+Delog Sibao,Simeulue Timur,Simeulue
+Ujung Ganting,Simeulue Timur,Simeulue
+Kualo Tujuh,Simeulue Timur,Simeulue
+Tala Bano,Teluk Dalam,Simeulue
+Tete Bano,Teluk Dalam,Simeulue
+Sigulai,Simeulue Barat,Simeulue
+Teluk Arun,Simeulue Barat,Simeulue
+Sibigo,Simeulue Barat,Simeulue
+Rantai Raneub,Simeulue Barat,Simeulue
+Teupah,Teupah Selatan,Simeulue
+Batu Berlayar,Teupah Selatan,Simeulue
+Araban,Teupah Selatan,Simeulue
+Devayan,Teupah Selatan,Simeulue
+Nasrah,Alafan,Simeulue
+Leukon,Alafan,Simeulue
+Bano,Simeulue Cut,Simeulue
+Tengku Diujung,Simeulue Cut,Simeulue
+Delok Antengan,Teupah Tengah,Simeulue
+Delok Kulungan,Teupah Tengah,Simeulue
+Pulau Salapan,Pulau Banyak,Aceh Singkil
+Silatong,Simpang Kanan,Aceh Singkil
+Kuta Baru,Simpang Kanan,Aceh Singkil
+Pasar,Singkil,Aceh Singkil
+Kuta Simboling,Singkil,Aceh Singkil
+Rantau Gedang,Singkil,Aceh Singkil
+Pemuka,Singkil,Aceh Singkil
+Tanjong Mas,Gunung Meriah,Aceh Singkil
+Punaga,Gunung Meriah,Aceh Singkil
+Kota Bahagia,Kota Baharu,Aceh Singkil
+Gosong Telaga,Singkil Utara,Aceh Singkil
+Biskang,Danau Paris,Aceh Singkil
+Suro Baru,Suro,Aceh Singkil
+Singkohor,Singkohor,Aceh Singkil
+Kuala Baru,Kuala Baru,Aceh Singkil
+Haloban,Pulau Banyak Barat,Aceh Singkil
+Lima,Samalanga,Bireuen
+Tgk Chiek Di Pulo Baroh,Samalanga,Bireuen
+Tgk Chiek Di Matang,Samalanga,Bireuen
+Mesjid Raya,Samalanga,Bireuen
+Tanjongan,Samalanga,Bireuen
+Tufah,Jeunieb,Bireuen
+Lhok Kulam,Jeunieb,Bireuen
+Jeunib,Jeunieb,Bireuen
+Syuhada,Jeunieb,Bireuen
+Batee Cut Lem,Jeunieb,Bireuen
+Darussalam,Jeunieb,Bireuen
+Krueng,Peudada,Bireuen
+Blang Birah,Peudada,Bireuen
+Alue Rheng,Peudada,Bireuen
+Batee Kureng Peudada,Peudada,Bireuen
+Tgk.Dipaya,Peudada,Bireuen
+Pinto Batee,Peudada,Bireuen
+Kuta Jeumpa,Jeumpa,Bireuen
+Geulumpang Payong,Jeumpa,Bireuen
+Balee Labang,Jeumpa,Bireuen
+Blang Bladeh,Jeumpa,Bireuen
+Paloh,Jeumpa,Bireuen
+Matang Glumpang Baro,Peusangan,Bireuen
+Matang Panyang,Peusangan,Bireuen
+Glumpang Tujoh,Peusangan,Bireuen
+Tgk. Di Krueng,Peusangan,Bireuen
+Simpang Empat,Peusangan,Bireuen
+Banjir Asin,Peusangan,Bireuen
+Simpang Dua,Peusangan,Bireuen
+Cot Bada,Peusangan,Bireuen
+Tgk. Di Tanoh Mirah,Peusangan,Bireuen
+Suka Makmur,Makmur,Bireuen
+Suka Maju,Makmur,Bireuen
+Suka Damai,Makmur,Bireuen
+Suka Jaya,Makmur,Bireuen
+Gandapura Timu,Gandapura,Bireuen
+Bukit Rata,Gandapura,Bireuen
+Buket Antara,Gandapura,Bireuen
+Gandapura Barat,Gandapura,Bireuen
+Pandrah Timu,Pandrah,Bireuen
+Pandrah Selatan,Pandrah,Bireuen
+Pandrah Barat,Pandrah,Bireuen
+Juli Utara,Juli,Bireuen|Juli Barat,Juli,Bireuen
+Juli Timur,Juli,Bireuen
+Juli Selatan,Juli,Bireuen
+Jangka,Jangka,Bireuen
+Lamkuta,Jangka,Bireuen
+Banjir Asin Jangka,Jangka,Bireuen
+Bugak,Jangka,Bireuen
+Ulee Kuta,Jangka,Bireuen
+Tiga,Simpang Mamplam,Bireuen
+Tgk. Di Ie Rhop,Simpang Mamplam,Bireuen
+Tambue,Simpang Mamplam,Bireuen
+Plimbang,Peulimbang,Bireuen
+Po-Teumeureuhom,Peulimbang,Bireuen
+Batee Kureng,Peulimbang,Bireuen
+Bireuen,Kota Juang,Bireuen
+Geudong,Kota Juang,Bireuen
+Cot Kupula,Kota Juang,Bireuen
+Geulanggang Raya,Kota Juang,Bireuen
+Cot Batee,Kuala,Bireuen|Kuta Trieng,Kuala,Bireuen
+Lancok,Kuala,Bireuen
+Ujung Blang,Kuala,Bireuen
+Siblah Krueng,Peusangan Siblah Krueng,Bireuen
+Simpang Baro,Peusangan Siblah Krueng,Bireuen
+Tgk. Chiek Krueng Meuh,Peusangan Siblah Krueng,Bireuen
+Simpang Tanjong,Peusangan Selatan,Bireuen
+Paya Malem,Peusangan Selatan,Bireuen
+Keude Asan,Peusangan Selatan,Bireuen
+Tgk.Chiek Umar,Kuta Blang,Bireuen
+Tgk.Chiek Dimanyang,Kuta Blang,Bireuen
+Kuta Meusee,Kuta Blang,Bireuen
+Kuta Hom,Kuta Blang,Bireuen
+Guhang,Blang Pidie,Aceh Barat Daya
+Kuta Batee,Blang Pidie,Aceh Barat Daya
+Kuta Tinggi,Blang Pidie,Aceh Barat Daya
+Babah Lhok,Blang Pidie,Aceh Barat Daya
+Tangan-Tangan Rayeuk,Tangan-Tangan,Aceh Barat Daya
+Bineh Krueng,Tangan-Tangan,Aceh Barat Daya
+Ayah Gadeng,Manggeng,Aceh Barat Daya
+Blang Manggeng,Manggeng,Aceh Barat Daya
+Sejahtera,Manggeng,Aceh Barat Daya
+Durian Rampak,Susoh,Aceh Barat Daya
+Pinang,Susoh,Aceh Barat Daya
+Rawa,Susoh,Aceh Barat Daya
+Palak Kerambil,Susoh,Aceh Barat Daya
+Kuta Bahagia,Kuala Batee,Aceh Barat Daya
+Sikabu,Kuala Batee,Aceh Barat Daya
+Krueng Batee,Kuala Batee,Aceh Barat Daya
+Pante Rakyat,Babah Rot,Aceh Barat Daya
+Suak Beurembang,Lembah Sabil,Aceh Barat Daya
+Setia,Setia,Aceh Barat Daya
+Kuta Jeumpa,Jeumpa,Aceh Barat Daya
+Blang Perlombaan,Blang Kejeren,Gayo Lues
+Blang Pegayon,Blang Kejeren,Gayo Lues
+Ujung Baro,Blang Kejeren,Gayo Lues
+Waluh Kapung,Kuta Panjang,Gayo Lues
+Blang Sere,Kuta Panjang,Gayo Lues
+Suluh Utama,Rikit Gaib,Gayo Lues
+Suluh Jaya,Rikit Gaib,Gayo Lues
+Ingin Jaya,Terangon,Gayo Lues
+Suka Maju,Terangon,Gayo Lues
+Pintu Rime Gayo,Terangon,Gayo Lues
+Bujang Selamat,Terangon,Gayo Lues
+Pining,Pining,Gayo Lues
+Goh Lemu,Pining,Gayo Lues
+Cinta Maju,Blang Pegayon,Gayo Lues
+Senubung Jaya,Blang Pegayon,Gayo Lues
+Marpunge,Putri Betung,Gayo Lues
+Gumpang Raya,Putri Betung,Gayo Lues
+Sangir,Dabun Gelang,Gayo Lues
+Dah Kalang,Dabun Gelang,Gayo Lues
+Blang Jerango,Blang Jerango,Gayo Lues
+Air Jernih,Blang Jerango,Gayo Lues
+Tripe Jaya,Tripe Jaya,Gayo Lues
+Pasir Antara,Tripe Jaya,Gayo Lues
+Kenyaran,Pantan Cuaca,Gayo Lues
+Antara,Pantan Cuaca,Gayo Lues
+Keude Teunom,Teunom,Aceh Jaya
+Paya Baro,Teunom,Aceh Jaya
+Calang,Krueng Sabee,Aceh Jaya
+Krueng Sabe,Krueng Sabee,Aceh Jaya
+Lageun,Setia Bakti,Aceh Jaya
+Rigaih,Setia Bakti,Aceh Jaya
+Kulam Mutia,Sampoiniet,Aceh Jaya
+Pante Purba,Sampoiniet,Aceh Jaya
+Pante Cermin,Jaya,Aceh Jaya
+Keuluang,Jaya,Aceh Jaya
+Lamno,Jaya,Aceh Jaya
+Lamme,Jaya,Aceh Jaya
+Kuala Daya,Jaya,Aceh Jaya
+Panga Pasie,Panga,Aceh Jaya
+Panga Pucok,Panga,Aceh Jaya
+Lambeuso,Indra Jaya,Aceh Jaya
+Kuala Unga,Indra Jaya,Aceh Jaya
+Kuta Baro,Darul Hikmah,Aceh Jaya
+Lam Teungoh,Darul Hikmah,Aceh Jaya
+Pasie Teubee,Pasie Raya,Aceh Jaya
+Sarah Raya,Pasie Raya,Aceh Jaya
+Pulo Ie,Kuala,Nagan Raya
+Suak Sikha,Kuala,Nagan Raya
+Jeuram,Seunagan,Nagan Raya
+Parom,Seunagan,Nagan Raya
+Nigan,Seunagan,Nagan Raya
+Paya Udeung,Seunagan,Nagan Raya
+Kulu,Seunagan,Nagan Raya
+Blang Panyang,Seunagan Timur,Nagan Raya
+Keude Linteng,Seunagan Timur,Nagan Raya
+Paya,Seunagan Timur,Nagan Raya
+Blang Ara,Seunagan Timur,Nagan Raya
+Krueng Neuang,Beutong,Nagan Raya
+Pulo Raga,Beutong,Nagan Raya
+Blang Seumot,Beutong,Nagan Raya
+Bungong Taloe,Beutong,Nagan Raya
+Tripa Teungoh,Darul Makmur,Nagan Raya
+Blang Tripa,Darul Makmur,Nagan Raya
+Tripa Ateueh,Darul Makmur,Nagan Raya
+Seuneuam,Darul Makmur,Nagan Raya
+Ujong Raja,Darul Makmur,Nagan Raya
+Suka Makmue,Suka Makmue,Nagan Raya
+Blang Muling,Suka Makmue,Nagan Raya
+Kuala Baro,Kuala Pesisir,Nagan Raya
+Kuala Tuha,Kuala Pesisir,Nagan Raya
+Kuala Trang,Kuala Pesisir,Nagan Raya
+Tadu Ateuh,Tadu Raya,Nagan Raya
+Kula Tadu,Tadu Raya,Nagan Raya
+Beutong Ateuh,Beutong Ateuh Banggalang,Nagan Raya
+Kuta Nibong,Tripa Makmur,Nagan Raya
+Tripa Baroh,Tripa Makmur,Nagan Raya
+Manyak Payed,Manyak Payed,Aceh Tamiang
+Tualang Cut,Manyak Payed,Aceh Tamiang
+Raja Tuha,Manyak Payed,Aceh Tamiang
+Gunung Mesjid,Manyak Payed,Aceh Tamiang
+Mesjid,Bendahara,Aceh Tamiang
+Bandar Baru,Bendahara,Aceh Tamiang
+Bandar Khalifah,Bendahara,Aceh Tamiang
+Tengku Tinggi,Bendahara,Aceh Tamiang
+Tumpok Tengoh,Bendahara,Aceh Tamiang
+Upah Hulu,Bendahara,Aceh Tamiang
+Bendahara Hilir,Bendahara,Aceh Tamiang
+Telaga Meuku,Banda Mulia,Aceh Tamiang
+Telaga Meuku Dua,Banda Mulia,Aceh Tamiang
+Karang Bundar,Karang Baru,Aceh Tamiang
+Meudang Ara,Karang Baru,Aceh Tamiang
+Simpang Empat,Karang Baru,Aceh Tamiang
+Sekerak,Sekerak,Aceh Tamiang
+|Sekerak Hulu,Sekerak,Aceh Tamiang
+Tangsi Lama,Seruway,Aceh Tamiang
+Gedung Biara,Seruway,Aceh Tamiang
+Sungai Kuruk,Seruway,Aceh Tamiang
+Muka Sungai Kuruk,Seruway,Aceh Tamiang
+Kota Kuala Simpang,Kota Kuala Simpang,Aceh Tamiang
+Bukit Rata,Kejuruan Muda,Aceh Tamiang
+Sungai Liput,Kejuruan Muda,Aceh Tamiang
+Simpang Kiri,Tenggulun,Aceh Tamiang
+Kaloy,Tamiang Hulu,Aceh Tamiang
+Sangka Pane,Tamiang Hulu,Aceh Tamiang
+Alur Jambu,Bandar Pusaka,Aceh Tamiang
+Imam Balai,Rantau,Aceh Tamiang
+Rantau,Rantau,Aceh Tamiang
+Datu Derakal,Pintu Rime Gayo,Bener Meriah
+Tugu Rime Raya,Pintu Rime Gayo,Bener Meriah
+Mude Gunter,Permata,Bener Meriah
+Pilar Jaya,Permata,Bener Meriah
+Pegayon Antara,Permata,Bener Meriah
+Tawar Bengi,Permata,Bener Meriah
+Samar Kilang,Syiah Utama,Bener Meriah
+Pantan Seni,Syiah Utama,Bener Meriah
+Kute Teras,Bandar,Bener Meriah
+Janarata,Bandar,Bener Meriah
+Pemango Kute Derma,Bandar,Bener Meriah
+Gajah Mungkur,Bandar,Bener Meriah
+Kute Tengah,Bandar,Bener Meriah
+Teritit,Bukit,Bener Meriah
+Simpang Tiga,Bukit,Bener Meriah
+Redelong,Bukit,Bener Meriah
+Bur Ni Cempege,Wih Pesam,Bener Meriah
+Reje Ilang,Wih Pesam,Bener Meriah
+Negeri Antara,Wih Pesam,Bener Meriah
+Lampahan,Timang Gajah,Bener Meriah
+Bandar Lampahan,Timang Gajah,Bener Meriah
+Tunyang,Timang Gajah,Bener Meriah
+Bener Kelipah,Bener Kelipah,Bener Meriah
+Bener Selan,Bener Kelipah,Bener Meriah
+Tungkuh Tige,Mesidah,Bener Meriah
+Atu Mesjid,Mesidah,Bener Meriah
+Rerongga,Gajah Putih,Bener Meriah
+Manyang,Meureudu,Pidie Jaya
+Meureudu Dalam,Meureudu,Pidie Jaya
+Beuriweuh,Meureudu,Pidie Jaya
+Beuracan,Meureudu,Pidie Jaya
+Paya Seutuy,Ulim,Pidie Jaya
+Ulim Baroh,Ulim,Pidie Jaya
+Ulim Tunong,Ulim,Pidie Jaya
+Nangrhoe,Ulim,Pidie Jaya
+Blang Rheue,Ulim,Pidie Jaya
+Jangka Buya Baroh,Jangka Buya,Pidie Jaya
+Jangka Buya Barat,Jangka Buya,Pidie Jaya
+Ulee Gle Dalam,Bandar Dua,Pidie Jaya
+Ulee Gle Barat,Bandar Dua,Pidie Jaya
+Ulee Gle Timur,Bandar Dua,Pidie Jaya
+Ulee Gle Tunong,Bandar Dua,Pidie Jaya
+Jangka Buya Timur,Bandar Dua,Pidie Jaya
+Kuta Rentang,Meurah Dua,Pidie Jaya
+Kuta Baroh,Meurah Dua,Pidie Jaya
+Kuta Simpang,Meurah Dua,Pidie Jaya
+Nyong,Bandar Baru,Pidie Jaya
+Lueng Putu,Bandar Baru,Pidie Jaya
+Musa,Bandar Baru,Pidie Jaya
+Lancok,Bandar Baru,Pidie Jaya
+Langgien,Bandar Baru,Pidie Jaya
+Cubo,Bandar Baru,Pidie Jaya
+Jalan Rata,Bandar Baru,Pidie Jaya
+Tanoh Mirah,Bandar Baru,Pidie Jaya
+Pante Raja Barat,Pante Raja,Pidie Jaya
+Pante Raja Timur,Pante Raja,Pidie Jaya
+Peuduek Baroh,Trieng Gadeng,Pidie Jaya
+Peuduek Tunong,Trieng Gadeng,Pidie Jaya
+Trieng Gadeng,Trieng Gadeng,Pidie Jaya
+Peulandok,Trieng Gadeng,Pidie Jaya
+Pangwa,Trieng Gadeng,Pidie Jaya
+Putro Phang,Baiturrahman,Banda Aceh
+Baiturrahman,Baiturrahman,Banda Aceh
+Lamkuta,Kuta Alam,Banda Aceh
+Kuta Alam,Kuta Alam,Banda Aceh
+Meuraxa,Meuraxa,Banda Aceh
+Tgk Chik Lamjabat,Meuraxa,Banda Aceh
+Tgk Chih Abdul Rauf,Syiah Kuala,Banda Aceh
+Kayee Adang,Syiah Kuala,Banda Aceh
+Tgk Chik Dilamnyong,Syiah Kuala,Banda Aceh
+Lueng Bata,Lueng Bata,Banda Aceh
+Tgk Dianjong,Kuta Raja,Banda Aceh
+Banda Jaya,Banda Raya,Banda Aceh
+Lam Ara,Banda Raya,Banda Aceh
+Posblang,Jaya Baru,Banda Aceh
+Lambaroeh Banda,Jaya Baru,Banda Aceh
+Poteumerehom,Ulee Kareng,Banda Aceh
+Simpang Tujuh,Ulee Kareng,Banda Aceh
+Iboih,Sukakarya,Sabang
+Paya Raya,Sukakarya,Sabang
+Sabang,Sukakarya,Sabang
+Paya,Sukajaya,Sabang
+Balohan,Sukajaya,Sabang
+Cot Ba\' U,Sukajaya,Sabang|Ie Meulee,Sukajaya,Sabang
+Kandang,Muara Dua,Lhokseumawe
+Cunda,Muara Dua,Lhokseumawe
+Lhokseumawe Selatan,Banda Sakti,Lhokseumawe
+Lhokseumawe Utara,Banda Sakti,Lhokseumawe
+Tengoh,Blang Mangat,Lhokseumawe
+Mangat Makmu,Blang Mangat,Lhokseumawe
+Meuraksa,Blang Mangat,Lhokseumawe
+Paloh Timur,Muara Satu,Lhokseumawe
+Paloh Barat,Muara Satu,Lhokseumawe
+Seuneubok Antara,Langsa Timur,Langsa
+Langsa Lama,Langsa Lama,Langsa
+Langsa Baroh,Langsa Barat,Langsa
+Langsa Tunong,Langsa Baro,Langsa
+Langsa Kuta,Langsa Kota,Langsa
+Langsa Teungoh,Langsa Kota,Langsa
+Kombih,Simpang Kiri,Subulussalam
+Belegen,Simpang Kiri,Subulussalam
+Penanggalan,Penanggalan,Subulussalam
+Binanga,Rundeng,Subulussalam
+Kuala Kepeng,Rundeng,Subulussalam
+Pasir Belo,Sultan Daulat,Subulussalam
+Batu-Batu,Sultan Daulat,Subulussalam
+Longkib,Longkib,Subulussalam
