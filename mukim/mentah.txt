@@ -536,7 +536,8 @@ Gandapura Barat,Gandapura,Bireuen
 Pandrah Timu,Pandrah,Bireuen
 Pandrah Selatan,Pandrah,Bireuen
 Pandrah Barat,Pandrah,Bireuen
-Juli Utara,Juli,Bireuen|Juli Barat,Juli,Bireuen
+Juli Utara,Juli,Bireuen
+Juli Barat,Juli,Bireuen
 Juli Timur,Juli,Bireuen
 Juli Selatan,Juli,Bireuen
 Jangka,Jangka,Bireuen
@@ -554,7 +555,8 @@ Bireuen,Kota Juang,Bireuen
 Geudong,Kota Juang,Bireuen
 Cot Kupula,Kota Juang,Bireuen
 Geulanggang Raya,Kota Juang,Bireuen
-Cot Batee,Kuala,Bireuen|Kuta Trieng,Kuala,Bireuen
+Cot Batee,Kuala,Bireuen
+Kuta Trieng,Kuala,Bireuen
 Lancok,Kuala,Bireuen
 Ujung Blang,Kuala,Bireuen
 Siblah Krueng,Peusangan Siblah Krueng,Bireuen
@@ -777,7 +779,8 @@ Paya Raya,Sukakarya,Sabang
 Sabang,Sukakarya,Sabang
 Paya,Sukajaya,Sabang
 Balohan,Sukajaya,Sabang
-Cot Ba\' U,Sukajaya,Sabang|Ie Meulee,Sukajaya,Sabang
+Cot Ba\' U,Sukajaya,Sabang
+Ie Meulee,Sukajaya,Sabang
 Kandang,Muara Dua,Lhokseumawe
 Cunda,Muara Dua,Lhokseumawe
 Lhokseumawe Selatan,Banda Sakti,Lhokseumawe
