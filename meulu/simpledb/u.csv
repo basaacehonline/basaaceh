@@ -1,0 +1,503 @@
+|uai,اوواي
+|,uaian (urian),اووايان
+|,uak,اووق
+|,uakan,اووقن
+|,uak-uak,اووق٢
+|,uan,اوون
+|,uanda,اووندا
+|,uap,اووڤ
+|,uar,اووار
+|,uar-uar,اووار٢
+|,uba,اوبا
+|,ubah,اوبه
+|,ubahan,اوبهن
+|,ubahsuai,اوبهسواي
+|,ubahsuaian,اوبهسواين
+|,ubai,اوباي
+|,ubai-ubai,اوباي٢
+|,ubal,اوبل
+|,ubal-ubal,اوبل٢
+|,uban,اوبن
+|,ubanan,اوبنن
+|,ubang,اوبڠ
+|,ubar,اوبر
+|,ubat,اوبت
+|,ubatan,اوبتن
+|,ubat-ubatan,اوبت ـ اوبتن
+|,ubaya (hubaya-hubaya),اوباي
+|,ubel,اوبل
+|,ubel-ubel,اوبل٢
+|,uber,اوبر
+|,ubi,اوبي
+|,ubi-ubian,اوبي ـ اوبين
+|,ubin,اوبين
+|,ubit,اوبيت
+|,ubrak,اوبرق
+|,ubrak-abrik,اوبرق ـ ابريق
+|,ububan,اوبوبن
+|,ubun,اوبون
+|,ubun-ubun,اوبون٢
+|,ubur,اوبور
+|,ubur-ubur,اوبور٢
+|,ucang (uncang),اوچڠ
+|,ucap,اوچڤ
+|,ucapan,اوچڤن
+|,ucaptama,اوچڤتام
+|,ucek,اوچق
+|,uci,اوچي
+|,uci-uci,اوچي٢
+|,ucis,اوچيس
+|,ucok,اوچوق
+|,ucu,اوچو
+|,ucul,اوچول
+|,ucus,اوچوس
+|,uda,اودا
+|,udah,اوده
+|,udak,اودق
+|,udam,اودم
+|,udang,اودڠ
+|,udani,اوداني
+|,udap,اودڤ
+|,udap-udapan,اودڤ ـ اودڤن
+|,udar,اودر
+|,udara,اودارا
+|,udarakasa,اوداراکاس
+|,udat,اودت
+|,udeh,اوديه
+|,udek,اودق
+|,udeng,اودڠ
+|,udeng-udeng,اودڠ ٢
+|,udet,اودت
+|,udi,اودي
+|,udik,اوديق
+|,udo,اودو
+|,udu,اودو
+|,uduh,اودوه
+|,uduk (air sembahyang),وضوء
+|,uduk (sj nasi),اودوق
+|,udul,اودول
+|,udulan,اودولن
+|,udul-udulan,اودول ـ اودولن
+|,udut,اودوت
+|,udutan,اودوتن
+|,ufti,اوفتي
+|,ufuk,اوفوق
+|,ugahari,اوݢاهاري
+|,ugal,اوݢل
+|,ugal-ugalan,اوݢل ـ اوݢلن
+|,ugam,اوݢم
+|,ugama (agama),اوݢام
+|,ugut,اوݢوت
+|,ugut-mengugut,اوݢوت ـ مڠاوݢوت
+|,ugutan,اوݢوتن
+|,uik,اوءيق
+|,uir,اوءير
+|,uir-uir,اوءير٢
+|,uis (kuis),اوءيس
+|,uit,اوءيت
+|,uja,اوجا
+|,ujan,اوجن
+|,ujana,اوجان
+|,ujang,اوجڠ
+|,ujat,اوجر
+|,ujaran,اوجرن
+|,ujar-ujaran,اوجر ـ اوجرن
+|,uji,اوجي
+|,ujian,اوجين
+|,ujrah,اجرة
+|,ujrat,اجرة
+|,uju,اوجو
+|,ujub,عجب
+|,ujud (tujuan),اوجود
+|,ujud (wujud),وجود
+|,ujul,اوجول
+|,ujung,اوجوڠ
+|,ujur (uzur),اوجور
+|,ukab,عقاب
+|,ukas,اوکس
+|,ukhrawi,اخروي
+|,ukhwah,اخوه
+|,ukik,اوکيق
+|,ukir,اوکير
+|,ukiran,اوکيرن
+|,ukir-mengukir,اوکير ـ مڠاوکير
+|,ukir-ukiran,اوکير ـ اوکيرن
+|,uktab,عقتاب
+|,ukulele,اوکوليلي
+|,ukup,اوکوڤ
+|,ukupan,اوکوڤن
+|,ukur,اوکور
+|,ukuran,اوکورن
+|,ula,اولا
+|,ula-ula,اولا٢
+|,ulak,اولق
+|,ulak-ulak,اولق٢
+|,ulam,اولم
+|,ulaman,اولمن
+|,ulam-ulam,اولم٢
+|,ulam-ulaman,اولم ـ اولمن
+|,ulama,علماء
+|,ulan,اولن
+|,ulang,اولڠ
+|,ulang-alik,اولڠ ـ اليق
+|,ulang-aling,اولڠ ـ اليڠ
+|,ulangan,اولڠن
+|,ulang-ulang,اولڠ٢
+|,ulap,اولڤ
+|,ulap-ulap,اولڤ٢
+|,ular,اولر
+|,ularan,اولرن
+|,ular-ular,اولر٢
+|,ular-ularan,اولر ـ اولرن
+|,ulas,اولس
+|,ulasan,اولسن
+|,ulat,اولت
+|,ulayah (wilayah),اولاية
+|,ulayat (wilayah),اولاية
+|,ulekan,اولکن
+|,ulem,اولم
+|,uleman,اولمن
+|,ules,اولس
+|,ulet,اولت
+|,uli,اولي
+|,ulian,اولين
+|,uli-uli,اولي٢
+|,ulik,اوليق
+|,ulin,اولين
+|,uling,اوليڠ
+|,ulir,اولير
+|,ulit,اوليت
+|,ulna,اولنا
+|,ulser,اولسر
+|,ultimatum,اولتيماتوم
+|,ultra-,اولترا ـ 
+|,ultrabunyi,اولترابوپي
+|,ultrakonservatif,اولتراکونسرۏاتيف
+|,ultralembayung,اولترالمبايوڠ
+|,ultramoden,اولترامودن
+|,ultrasonik,اولتراسونيک
+|,ultrasonografi,اولتراسونوݢرافي
+|,ultraungu,اولتراءوڠو
+|,ultra vires,اولتراۏيريس
+|,uluh,اولوه
+|,uluh-ulai,اولوه ـ اولاي
+|,uluh-uluh,اولوه٢
+|,ululazmi,اولو العزم
+|,ulun,اولون
+|,ulung,اولوڠ
+|,ulung-ulung,اولوڠ٢
+|,ulup,اولوڤ
+|,uma,اوما
+|,umah,اومه
+|,umak,اومق
+|,uman,اومن
+|,umanah (amanah),اومنة
+|,umanat (amanah),اومنة
+|,umang,اومڠ
+|,umang-umang,اومڠ٢
+|,umapodi,اوماڤودي
+|,umarak,امراء
+|,umat,اومت
+|,umbai,اومباي
+|,umbalan,اومبالن
+|,umban (humban),اومبن
+|,umbang,اومبڠ
+|,umbang-ambing,اومبڠ ـ امبيڠ
+|,umbar,اومبر
+|,umbara (kembara),اومبارا
+|,umbi,اومبي
+|,umbi-umbian,اومبي ـ اومبين
+|,umbisi,اومبيسي
+|,umbra,اومبرا
+|,umbuk,اومبوق
+|,umbuk-umbi,اومبوق ـ اومبي
+|,umbuk-umbuk,اومبوق٢
+|,umbul,اومبول
+|,umbul-umbul,اومبول٢
+|,umbun,اومبون
+|,umbun-umbun,اومبون٢
+|,umbur,اومبور
+|,umbut,اومبوت
+|,umbut-umbut,اومبوت٢
+|,umi (ibu),امي
+|,umm,ام
+|,ummah,اومة
+|,ummi,امي
+|,umpak,اومڤق
+|,umpama,اومڤام
+|,umpamaan,اومڤاماءن
+|,umpamakan,اومڤاماکن
+|,umpan,اومڤن
+|,umpat,اومڤت
+|,umpatan,اومڤتن
+|,umpat-umpatan,اومڤت ـ اومڤتن
+|,umpat-mengumpat,اومڤت ـ مڠاومڤت
+|,umpau,اومڤاو
+|,umpet,اومڤت
+|,umpetan,اومڤتن
+|,umph,اومڤه
+|,umpil,اومڤيل
+|,umpuk,اومڤوق
+|,umpun (rumpun),اومڤون
+|,umrah,عمرة
+|,umu,اومو
+|,umuk,اوموق
+|,umulbuldan,ام البلدان
+|,umum,عموم
+|,umun,اومون
+|,umur,عمور
+|,umut,اوموت
+|,unam,اونم
+|,uncak,اونچق
+|,uncang,اونچڠ
+|,uncang-uncit,اونچڠ ـ اونچيت
+|,uncit,اونچيت
+|,uncue,اونچوي
+|,uncui,اونچوي
+|,unda,اوندا
+|,undak,اوندق
+|,undak-undakan,اوندق ـ اوندقن
+|,undan,اوندن
+|,undang,اوندڠ
+|,undangan,اوندڠن
+|,undang-undang,اوندڠ٢
+|,undi,اوندي
+|,undian,اوندين
+|,undil,اونديل
+|,unduk,اوندوق
+|,unduk-unduk,اوندوق٢
+|,undung,اوندوڠ
+|,undung-undung,اوندوڠ٢
+|,undur,اوندور
+|,undur-undur,اوندور٢
+|,ungah,اوڠه
+|,ungah-angih,اوڠه ـ اڠيه
+|,ungah-ungah,اوڠه٢
+|,ungam,اوڠم
+|,ungap (hungap),اوڠڤ
+|,ungap-ungap,اوڠڤ٢
+|,ungar,اوڠر
+|,unggal,اوڠݢل
+|,unggang,اوڠݢڠ
+|,unggang-unggit,اوڠݢڠ ـ اوڠݢيت
+|,unggas,اوڠݢس
+|,unggat,اوڠݢت
+|,unggat-unggit,اوڠݢت ـ اوڠکيت
+|,unggis,اوڠݢيس
+|,unggit (ungkit),اوڠݢيت
+|,ungguk (onggok),اوڠݢوق
+|,unggul,اوڠݢول
+|,unggul-unggul,اوڠݢول٢
+|,unggun,اوڠݢون
+|,unggunan,اوڠݢونن
+|,unggut,اوڠݢوت
+|,ungka,اوڠک
+|,ungkah,اوڠکه
+|,ungkai,اوڠکاي
+|,ungkak,اوڠکق
+|,ungkal,اوڠکل
+|,ungkang,اوڠکڠ
+|,ungkang-ungkang,اوڠکڠ٢
+|,ungkang-ungkit,اوڠکڠ ـ اوڠکيت
+|,ungkap,اوڠکڤ
+|,ungkapan,اوڠکڤن
+|,ungkat,اوڠکت
+|,ungkau,اوڠکاو
+|,ungkil,اوڠکيل
+|,ungkir (mungkir),اوڠکير
+|,ungkit,اوڠکيت
+|,ungkit-mengungkit,اوڠکيت ـ مڠاوڠکيت
+|,ungkit-ungkit,اوڠکيت٢
+|,ungku,اوڠکو
+|,ungkul,اوڠکول
+|,ungkulan,اوڠکولن
+|,ungkur (pungkur),اوڠکور
+|,ungsi,اوڠسي
+|,ungti,اوڠتي
+|,ungu,اوڠو
+|,unguh,اوڠوه
+|,uni,اوني
+|,uniform,اونيفورم
+|,unik,اونيک
+|,unilateral,اونيلاترل
+|,unilateralisme,اونيلاترليسمى
+|,uniporem,اونيڤورم
+|,uniseks,اونيسيکس
+|,unisel,اونيسيل
+|,unit,اونيت
+|,unisel,اونيسيل
+|,unitarisme,اونيتاريسمى
+|,universal,اونيۏرسل
+|,universalitet,اونيۏرساليتيت
+|,universil,اونيۏرسيل
+|,universitas,اونيۏرسيتس
+|,universitet,اونيۏرسيتيت
+|,universiti,اونيۏرسيتي
+|,unjam,اونجم
+|,unjap,اونجڤ
+|,unjuk,اونجوق
+|,unjukan,اونجوقن
+|,unjun,اونجون
+|,unjung,اونجوڠ
+|,unjur,اونجور
+|,unjuran,اونجورن
+|,unjut,اونجوت
+|,unsat,اونست
+|,unsat-unsat,اونست٢
+|,unsur,عنصور
+|,unsuri,عنصوري
+|,unta,اونتا
+|,untai,اونتاي
+|,untaian,اونتاين
+|,untak,اونتق
+|,untak-anti,اونتق ـ انتي
+|,untal,اونتل
+|,untang,اونتڠ
+|,untang-anting,اونتڠ ـ انتيڠ
+|,until,اونتيل
+|,unting,اونتيڠ
+|,unting-unting,اونتيڠ٢
+|,untir,اونتير
+|,untuk,اونتوق
+|,untung,اونتوڠ
+|,untung-untung,اونتوڠ٢
+|,untung-untungan,اونتوڠ ـ اونتوڠن
+|,untut,اونتوت
+|,unyai,اوپاي
+|,unyi (huni),اوپي
+|,upa-,اوڤا ـ 
+|,upacara,اوڤاچارا
+|,upaduta,اوڤادوتا
+|,upah,اوڤه
+|,upahan,اوڤهن
+|,upak,اوڤق
+|,upam,اوڤم
+|,upaman,اوڤمن
+|,upan,اوڤن
+|,upar,اوڤر
+|,upas,اوڤس
+|,upat,اوڤت
+|,upau (pau),اوڤاو
+|,upaya,اوڤاي
+|,upet,اوڤت
+|,upeti (ufti),اوڤتي
+|,upholsteri,اوڤهولستري
+|,upiah,اوڤياه
+|,upih,اوڤيه
+|,upih-upih,اوڤيه٢
+|,upik,اوڤيق
+|,upsilon,اوڤسيلون
+|,ura,اورا
+|,ura-ura,اورا٢
+|,urah,اوره
+|,urai,اوراي
+|,uran,اورن
+|,uran-uran,اورن٢
+|,urang,اورڠ
+|,urang-aring,اورڠ ـ اريڠ
+|,uranit,اورانيت
+|,uranium,اورانيوم
+|,urap,اورڤ
+|,urapan,اورڤن
+|,urap-urapan,اورڤ ـ اورڤن
+|,uras,اورس
+|,urat,اورت
+|,urat-urat,اورت٢
+|,uraturia,اوراتوريا
+|,urbanisasi,اوربانيساسي
+|,urdi (rodi),اوردي
+|,urea,اوريا
+|,uremia,اوريميا
+|,ureter,اوريتر
+|,ureterektomi,اوريتيريکتومي
+|,ureta,اوريترا
+|,uretritis,اوريتريتيس
+|,uri,اوري
+|,urian,اوريين
+|,uribang,اوريبڠ
+|,urik,اوريق
+|,urin,اورين
+|,uring,اوريڠ
+|,uring-uring,اوريڠ٢
+|,uring-uringan,اوريڠ ـ اوريڠن
+|,urinometer,اورينوميتر
+|,urip,اوريڤ
+|,uris,اوريس
+|,urit,اوريت
+|,urita,اوريتا
+|,uritan,اوريتن
+|,urna (warna),اورنا
+|,urologi,اورولوݢي
+|,urtikaria,اورتيکاريا
+|,uruk,اوروق
+|,urung,اوروڠ
+|,urup,اوروڤ
+|,urup-urup,اوروڤ٢
+|,urup-urupan,اوروڤ ـ اوروڤن
+|,urus,اوروس
+|,urusan,اوروسن
+|,urus-urus,اوروس٢
+|,urut,اوروت
+|,urutan,اوروتن
+|,usah,اوسه
+|,usahkan,اوسهکن
+|,usaha,اوسها
+|,usahawan,اوسهاون
+|,usai,اوساي
+|,usak,اوسق
+|,usali,اوسالي
+|,usalli,اصلي
+|,usam,اوسم
+|,usang,اوسڠ
+|,usap,اوسڤ
+|,usar,اوسر
+|,user,اوسر
+|,user-user,اوسر٢
+|,user-useran,اوسر ـ اوسرن
+|,usia,اوسيا
+|,usik,اوسيق
+|,usikan,اوسيقن
+|,usik-mengusik,اوسيق ـ مڠاوسيق
+|,usil,اوسيل
+|,usilan,اوسيلن
+|,usir,اوسير
+|,usiran,اوسيرن
+|,usis (ucis),اوسيس
+|,uskup,اوسکوڤ
+|,uslub,اسلوب
+|,usrah,اسره
+|,usta,اوستا
+|,ustaz,استاذ
+|,ustazah,استاذه
+|,usuk,اوسوق
+|,usul,اصول
+|,usuluddin,اصول الدين
+|,usung,اوسوڠ
+|,usungan,اوسوڠن
+|,usur,اوسور
+|,usus,اوسوس
+|,usut,اوسوت
+|,usut-usut,اوسوت٢
+|,uswah,اسوة
+|,usyur,عشر
+|,utama,اوتام
+|,utar,اوتر
+|,utar-utar,اوتر٢
+|,utara,اوتارا
+|,utas,اوتس
+|,uterektomi,اوتيريکتومي
+|,uterus,اوتروس
+|,utih,اوتيه
+|,utilitarian,اوتيليتاريان
+|,utilitarianisme,اوتيليتاريانيسمى
+|,utiliti,اوتيليتي
+|,utit,اوتيت
+|,utopia,اوتوڤيا
+|,utuh,اوتوه
+|,utus,اوتوس
+|,utusan,اوتوسن
+|,uvula,اوۏولا
+|,uzlah,عزلة
+|,uzlat,عزلة
+|,uzur,عذور
+|,
