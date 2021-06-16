@@ -1,0 +1,5380 @@
+|keabadian,کأبادين
+|,keabaian,کأباين
+|,keterabaian,کتراباين
+|,keabnormalan,کأبنورملن
+|,keabsahan,کأبسهن
+|,keabstrakan,کأبسترکن
+|,keabu-abuan,کأبو ـ ابوان
+|,keadaan,کأداءن
+|,keberadaan,کبراداءن
+|,keadaban,کأدبن
+|,keadilan,کعاديلن
+|,keafdalan,کأفضلن
+|,keafiatan,کعافيتن
+|,keagaan,کأݢاءن
+|,keagamaan,کأݢاماءن
+|,keagenan,کأݢينن
+|,keagresifan,کأݢريسيفن
+|,keagungan,کأݢوڠن
+|,keahlian,کأهلين
+|,keaiban,کعاءيبن
+|,keairan,کأءيرن
+|,keajaiban,کعجاءيبن
+|,keajukan,کأجوقن
+|,keakanan,کأکنن
+|,keakasan,کعکسن
+|,keakhiran,کأخيرن
+|,keterakhiran,کتراخيرن
+|,keakhiratan,کأخيرتن
+|,keakraban,کأقربن
+|,keberaksaraan,کبراکساراءن
+|,keaktifan,کأکتيفن
+|,keakuan,کأکوان
+|,keakuran,کأکورن
+|,kealahan,کألهن
+|,kealaman,کعالمن
+|,kealiman,کعاليمن
+|,kealkalian,کألکالين
+|,kealpaan,کألڤاءن
+|,keamanan,کأمانن
+|,keamatan,کأمتن
+|,keamerikaan,کأميريکاءن
+|,keampuhan,کأمڤوهن
+|,keampunan,کأمڤونن
+|,keanak-anakan,کأنق ـ انقن
+|,keterancaman,کترانچمن
+|,keandalan,کأندلن
+|,keterandalan,کتراندلن
+|,keanehan,کأنيهن
+|,keanekaan,کأنيکاءن
+|,keanggotaan,کأڠݢوتاءن
+|,keanggunan,کأڠݢونن
+|,keangkatan,کأڠکتن
+|,keberangkatan,کبراڠکتن
+|,keangkuhan,کأڠکوهن
+|,keanjalan,کأنجلن
+|,keantarabangsaan,کأنتارابڠساءن
+|,keantikan,کأنتيکن
+|,keapungan,کأڤوڠن
+|,kearaban,کعربن
+|,kepengarahan,کڤڠارهن
+|,kearcaan,کأرچاءن
+|,kearifan,کعاريفن
+|,kearkiban,کأرکيبن
+|,keasidan,کأسيدن
+|,keasinan,کأسينن
+|,keasingan,کأسيڠن
+|,keterasingan,کتراسيڠن
+|,keaslian,کأصلين
+|,keasmaraan,کأسماراءن
+|,keasyik-asyikan,کعاشيق ـ عاشيقن
+|,keasyikan,کعاشيقن
+|,ke atas,کأتس
+|,keteraturan,کتراتورن
+|,keawetan,کأويتن
+|,keayahan,کأيهن
+|,keayapan,کأيڤن
+|,keayuan,کأيوان
+|,keazaban,کعذابن
+|,keazalian,کأزلين
+|,keazaman,کعزمن
+|,kebabaran,کبابرن
+|,kebabilan,کبابيلن
+|,keterbabitan,کتربابيتن
+|,keterbacaan,کترباچاءن
+|,kebacaran,کباچرن
+|,kebaculan,کباچولن
+|,kepelbagaian,کڤلباݢاين
+|,kebagasan,کباݢسن
+|,kebagian,کباݢين
+|,kebagusan,کباݢوسن
+|,kebahagiaan,کبهاݢياءن
+|,kebaharuan,کبهاروان
+|,kebahasaan,کبهاساءن
+|,keberbahayaan,کبربهاياءن
+|,kebaikan,کباءيقن
+|,kebajikan,کباجيقن
+|,kebakaran,کباکرن
+|,kebakhilan,کبخيلن
+|,kebaktian,کبقتين
+|,kebakuan,کباکوان
+|,kebalighan,کبالغن
+|,kebalikan,کباليقکن
+|,keterbalikan,کترباليقن
+|,kebandaran,کباندرن
+|,kebangatan,کباڠتن
+|,kebanggaan,کبڠݢاءن
+|,kebangkitan,کبڠکيتن
+|,kebangsaan,کبڠساءن
+|,kebangsawanan,کبڠساونن
+|,kebangunan,کباڠونن
+|,kebanjiran,کبنجيرن
+|,kebankrapan,کبڠکرڤن
+|,kebantutan,کبنتوتن
+|,kebanyakan,کباپقن
+|,kebapaan,کباڤاءن
+|,kebaqaan,کبقاءن
+|,kebarangkalian,کبارڠکالين
+|,kebaratan,کبارتن
+|,kebarat-baratan,کبارت ـ بارتن
+|,kebaruan,کباروان
+|,kebasahan,کباسهن
+|,kebasah-basahan,کباسه ـ باسهن
+|,kebata-bataan,کباتا ـ باتاءن
+|,keterbatasan,کترباتسن
+|,kesebatian,کسباتين
+|,kebatilan,کباطلن
+|,kebatinan,کباطينن
+|,ke bawah,کباوه
+|,kebayakan,کبايقن
+|,kebayuan,کبايوان
+|,kebebalan,کببلن
+|,kebebangan,کببڠن
+|,kebebasan,کبيبسن
+|,kebecokan,کبيچوقن
+|,kebegaran,کبيݢرن
+|,kebejatan,کبجتن
+|,kebekuan,کبکوان
+|,kebelaan,کبلاءن
+|,kebelakangan,کبلاکڠن
+|,kebelakangkan,کبلاکڠکن
+|,keterbelakangan,کتربلاکڠن
+|,kebelanda-belandaan,کبلندا ـ بلنداءن
+|,kesebelas,کسبلس
+|,kesebelasan,کسبلسن
+|,kebelauan,کبلاون
+|,kebelengguan,کبلڠݢوان
+|,kebenaran,کبنرن
+|,kebencanaan,کبنچاناءن
+|,kebenci,کبنچي
+|,kebencian,کبنچين
+|,kebendaan,کبنداءن
+|,kebengisan,کبڠيسن
+|,kebengkalan,کبڠکلن
+|,kebengkengan,کبيڠکيڠن
+|,kebeningan,کبنيڠن
+|,kebentok,کبنتوق
+|,kebentur,کبنتور
+|,kebenturan,کبنتورن
+|,kebenuaan,کبنواءن
+|,keberahian,کبراهين
+|,keberangan,کبيرڠن
+|,keberanian,کبرانين
+|,keberatan,کبرتن
+|,keberesan,کبيريسن
+|,keberkatan,کبرکتن
+|,kebernasan,کبرنس
+|,kebersihan,کبرسيهن
+|,kebesaran,کبسرن
+|,kebestarian,کبستارين
+|,kebetinaan,کبتيناءن
+|,kebetulan,کبتولن
+|,kebiadaban,کبيادبن
+|,kebiaran,کبيارن
+|,keterbiaran,کتربيارن
+|,kebiasaan,کبياساءن
+|,keterbiasaan,کتربياساءن
+|,kebidanan,کبيدنن
+|,kebijakan,کبيجقن
+|,kebijaksanaan,کبيجقساناءن
+|,kebilangan,کبيلڠن
+|,kebimbangan,کبيمبڠن
+|,kebinasaan,کبيناساءن
+|,kebinatangan,کبيناتڠن
+|,kebingaran,کبيڠرن
+|,kebingitan,کبيڠيتن
+|,kebingungan,کبيڠوڠن
+|,kebirahan,کبيرهن
+|,kebiruan,کبيروان
+|,kebiru-biruan,کبيرو ـ بيروان
+|,kebisaan,کبيساءن
+|,kebisingan,کبيسيڠن
+|,kebisuan,کبيسوان
+|,kebiusan,کبيوسن
+|,kebobrokan,کبوبروقن
+|,kebocoran,کبوچورن
+|,kebodohan,کبودوهن
+|,kebodoh-bodohan,کبودوه ـ بودوهن
+|,kebogelan,کبوݢيلن
+|,kebohongan,کبوهوڠن
+|,kebolehan,کبوليهن
+|,kebombaan,کبومباءن
+|,kebomohan,کبوموهن
+|,kebongkakan,کبوڠکقن
+|,kebongkaran,کبوڠکرن
+|,keborosan,کبوروسن
+|,kebosanan,کبوسنن
+|,kebotakan,کبوتقن
+|,keboyakan,کبويقن
+|,kebuasan,کبواسن
+|,kebuayaan,کبواياءن
+|,kebudakan,کبودقن
+|,kebudak-budakan,کبودق ـ بودقن
+|,kebudayaan,کبوداياءن
+|,kebudimanan,کبوديمنن
+|,kebugaran,کبوݢرن
+|,kebujangan,کبوجڠن
+|,keterbukaan,کتربوکاءن
+|,kebukuan,کبوکوان
+|,kebulatan,کبولتن
+|,kesebuluan,کسبولوان
+|,kebulur,کبولور
+|,kebuluran,کبولورن
+|,kebulur-kebelai,کبولور ـ کبلاي
+|,kebumiputeraan,کبوميڤوتراءن
+|,kebungaan,کبوڠاءن
+|,kebungkaman,کبوڠکمن
+|,kebuntuan,کبونتوان
+|,keburu,کبورو
+|,keburukan,کبوروقن
+|,kebusukan,کبوسوقن
+|,kebutaan,کبوتاءن
+|,kebutuhan,کبوتوهن
+|,kebuyutan,کبويوتن
+|,kecabaian,کچاباين
+|,kecabaran,کچابرن
+|,kecabulan,کچابولن
+|,kecaburan,کچابورن
+|,kecacatan,کچاچتن
+|,kecairan,کچاءيرن
+|,kecakapan,کچاکڤن
+|,kecamatan,کچامتن
+|,kecambah,کچمبه
+|,kecamukan,کچاموقن
+|,kecanduan,کچندوان
+|,kecanggihan,کچڠݢيهن
+|,kecanggungan,کچڠݢوڠن
+|,kecantikan,کچنتيقن
+|,kecapaian,کچاڤاين
+|,kecapikan,کچاڤيقن
+|,kecederaan,کچدراءن
+|,kecekalan,کچکلن
+|,kecekapan,کچکڤن
+|,kecekatan,کچکاتن
+|,kecelaan,کچلاءن
+|,kecelakaan,کچلاکاءن
+|,kecelaruan,کچلاروان
+|,kecelikan,کچليقن
+|,keceloparan,کچلوڤرن
+|,kecemaran,کچمرن
+|,kecemasan,کچمسن
+|,kecemburuan,کچمبوروان
+|,kecemerkapan,کچمرکڤن
+|,kecemerlangan,کچمرلڠن
+|,kecempelung,کچمڤلوڠ
+|,kecenaan,کچيناءن
+|,kecendekiaan,کچندکياءن
+|,kecendekiawanan,کچندکياونن
+|,kecenderungan,کچندروڠن
+|,kecepatan,کچڤتن
+|,kecerahan,کچرهن
+|,kecercaan,کچرچاءن
+|,kecerdasan,کچردسن
+|,kecerdikan,کچرديقن
+|,kecerewetan,کچريويتن
+|,kecergasan,کچرݢسن
+|,keceriaan,کچرياءن
+|,kecerlangan,کچرلڠن
+|,kecermatan,کچرمتن
+|,ketercernaan,کترچرناءن
+|,kecerobohan,کچروبوهن
+|,kecerunan,کچرونن
+|,kecetekan,کچيتيقن
+|,keciciran,کچيچيرن
+|,kecinaan,کچيناءن
+|,kecintaan,کچينتاءن
+|,kecitraan,کچيتراءن
+|,kecocokan,کچوچوقن
+|,kecoklatan,کچوکلتن
+|,kecomelan,کچوميلن
+|,kecomotan,کچوموتن
+|,kecondongan,کچوندوڠن
+|,kecongkakan,کچوڠکقن
+|,kecopetan,کچوڤيتن
+|,kecuaian,کچواين
+|,kecuakan,کچواقن
+|,kecukupan,کچوکوڤن
+|,kecundang,کچوندڠ
+|,kecupetan,کچوڤتن
+|,kecuraman,کچورمن
+|,kecurangan,کچورڠن
+|,kecurian,کچورين
+|,kecurigaan,کچوريݢاءن
+|,kedadak,کدادق
+|,kedaerahan,کداءيرهن
+|,kedahagaan,کدهاݢاءن
+|,kedahsyatan,کدهشتن
+|,kedahuluan,کدهولوان
+|,keterdahuluan,کتردهولوان
+|,kedaifan,کضعيفن
+|,kedalaman,کدالمن
+|,kedaluan,کدالو
+|,kedamaian,کداماين
+|,keterdamparan,کتردمڤرن
+|,kedampingan,کدمڤيڠن
+|,kedangkalan,کدڠکلن
+|,kedapatan,کداڤتن
+|,kedaraan,کداراءن
+|,kedatangan,کداتڠن
+|,kedataran,کداترن
+|,kedatuan,کداتوان
+|,kedaulatan,کداولتن
+|,kedayaan,کداياءن
+|,kedayusan,کدايوسن
+|,keterdedahan,کترددهن
+|,kedegilan,کدݢيلن
+|,kedekadenan,کديکادينن
+|,kedekatan,کدکتن
+|,kedempet,کديمڤيت
+|,kedendaman,کدندمن
+|,kedengaran,کدڠرن
+|,kedengkian,کدڠکين
+|,kederasan,کدرسن
+|,kederauan,کدراوان
+|,kederhakaan,کدرهاکاءن
+|,kederiaan,کدرياءن
+|,kedermawanan,کدرماونن
+|,kedesaan,کديساءن
+|,keterdesakan,کتردسقن
+|,kedewaan,کديواءن
+|,kedewasaan,کديواساءن
+|,kedewataan,کديواتاءن
+|,kedewian,کديوين
+|,kediaman,کديامن
+|,kependidikan,کڤنديديقن
+|,kediktatoran,کديکتاتورن
+|,kedinamikan,کديناميکن
+|,kedinasan,کدينسن
+|,kedinginan,کديڠينن
+|,kedirian,کديرين
+|,kedodoran,کدودورن
+|,kedogmatikan,کدوݢمتيکن
+|,kedogolan,کدوݢولن
+|,kedoktoran,کدوکتورن
+|,kedongengan,کدوڠيڠن
+|,kedongkolan,کدوڠکولن
+|,keterdorongan,کتردوروڠن
+|,kedua,کدوا
+|,keduaan,کدواءن
+|,kedua-dua,کدوا ـ دوا
+|,kedudukan,کدودوقن
+|,kependudukan,کڤندودوقن
+|,kedukaan,کدوکاءن
+|,kedukacitaan,کدوکاچيتاءن
+|,kedukunan,کدوکونن
+|,kedunguan,کدوڠوان
+|,keduniaan,کدونياءن
+|,keduniawian,کدنياوين
+|,kedurjanaan,کدورجاناءن
+|,kedustaan,کدوستاءن
+|,kedutaan,کدوتاءن
+|,kedwibahasaan,کدويبهاساءن
+|,kedwicekatan,کدويچکتن
+|,kedwilogaman,کدويلوݢمن
+|,kedwiseksualan,کدويسيکسوالن
+|,keefektifan,کأيفيکتيفن
+|,keefisienan,کأيفيسيئنن
+|,keegoan,کأيݢوان
+|,keekonomian,کأيکونومين
+|,keekonomisan,کأيکونوميسن
+|,keeksentrikan,کأيکسينتريکن
+|,keeksklusifan,کأيکسکلوسيفن
+|,keeksotikan,کأيکسوتيکن
+|,keekstreman,کأيکستريمن
+|,keelastikan,کأيلستيکن
+|,keelektrikan,کأيليکتريکن
+|,keelokan,کأيلوقن
+|,keemasan,کأمسن
+|,keempat,کأمڤت
+|,keempat-empat,کأمڤت ـ امڤت
+|,keempohan,کأيمڤوهن
+|,keempukan,کأمڤوقن
+|,keenakan,کأينقن
+|,keenam,کأنم
+|,keenam-enam,کأنم ـ انم
+|,keengganan,کأڠݢنن
+|,keentengan,کأينتيڠن
+|,keeratan,کأرتن
+|,keberertian,کبرارتين
+|,keesaan,کأساءن
+|,keesokan,کأيسوقن
+|,kefahaman,کفهمن
+|,kesefahaman,کسفهمن
+|,kefakiran,کفقيرن
+|,kefalsafahan,کفلسفهن
+|,kefanaan,کفناءن
+|,kefanatikan,کفاناتيکن
+|,kefasihan,کفصيحن
+|,kefasiqan,کفاسقن
+|,kefeudalan,کفيودلن
+|,kefleksibelan,کفليکسيبلن
+|,keformalan,کفورملن
+|,kefoya-foyaan,کفويا ـ فوياءن
+|,kegadis-gadisan,کݢاديس ـ ݢاديسن
+|,kegadisan,کݢاديسن
+|,kegaduhan,کݢادوهن
+|,kegagahan,کݢاݢهن
+|,kegagalan,کݢاݢلن
+|,kegagapan,کݢاݢڤن
+|,kegalauan,کݢالاوان
+|,kegamaman,کݢاممن
+|,kegamatan,کݢامتن
+|,keganasan,کݢانسن
+|,keganjilan,کݢنجيلن
+|,kebergantungan,کبرݢنتوڠن
+|,ketergantungan,کترݢنتوڠن
+|,kegapaan,کݢاڤاءن
+|,kegarangan,کݢارڠن
+|,kegasangan,کݢاسڠن
+|,kegatalan,کݢاتلن
+|,kegawatan,کݢاوتن
+|,kegedikan,کݢديقن
+|,kegegeran,کݢيݢيرن
+|,kegelabahan,کݢلبهن
+|,kegelandangan,کݢلندڠن
+|,kegelapan,کݢلڤن
+|,kegelap-gelapan,کݢلڤ ـ ݢلڤن
+|,kegelian,کݢلين
+|,kegeligaan,کݢليݢاءن
+|,kegelinciran,کݢلينچيرن
+|,kegelisahan,کݢليسهن
+|,kegelitaan,کݢليتاءن
+|,kegelodakan,ݢلودقن
+|,kegelojohan,کݢلوجوهن
+|,kegemaran,کݢمرن
+|,kegemasan,کݢمسن
+|,kegembiraan,کݢمبيراءن
+|,kegemilangan,کݢميلڠن
+|,kegemparan,کݢمڤرن
+|,kegemukan,کݢموقن
+|,kegemuruhan,کݢموروهن
+|,kegenangan,کݢنڠن
+|,kegendalaan,کݢندالاءن
+|,kegenitan,کݢنيتن
+|,kegeniusan,کݢينيوسن
+|,kegentaran,کݢنترن
+|,kegentingan,کݢنتيڠن
+|,kegeraman,کݢرمن
+|,kegerejaan,کݢريجاءن
+|,kegeringan,کݢريڠن
+|,kegersangan,کݢرسڠن
+|,kegeruhan,کݢروهن
+|,kegerunan,کݢرونن
+|,ketergesaan,کترݢساءن
+|,ketergesa-gesaan,کترݢسا ـ ݢساءن
+|,kegetiran,کݢتيرن
+|,keghaiban,کغاءيبن
+|,keghairahan,کغيرهن
+|,keghaliban,کغاليبن
+|,kegiatan,کݢياتن
+|,kegigian,کݢيݢين
+|,kegigihan,کݢيݢيهن
+|,kegilaan,کݢيلاءن
+|,kegila-gilaan,کݢيلا ـ ݢيلاءن
+|,kegiliran,کݢيليرن
+|,kegirangan,کݢيرڠن
+|,kegirang-girangan,کݢيرڠ ـ ݢيرڠن
+|,kegoblokan,کݢوبلوقن
+|,kegoncangan,کݢونچڠن
+|,kegondokan,ݢوندوقن
+|,kegopohan,کݢوڤوهن
+|,kegoyahan,کݢويهن
+|,kegoyangan,کݢويڠن
+|,kegramatisan,کݢراماتيسن
+|,kepeguaman,کڤݢوامن
+|,kegugupan,کݢوݢوڤن
+|,keguguran,کݢوݢورن
+|,kebergunaan,کبرݢوناءن
+|,kegunaan,کݢوناءن
+|,kepenggunaan,کڤڠݢوناءن
+|,kegundah-gulanaan,کݢونده ـ ݢولاناءن
+|,kegundahan,کݢوندهن
+|,keguruan,کݢوروان
+|,kegusaran,کݢوسرن
+|,kehabisan,کهابيسن
+|,kehabukan,کهابوقن
+|,keterhadan,کترحدن
+|,keterhadaman,کترهضمن
+|,kehadiran,کحاضيرن
+|,kehairan-hairanan,کحيران ـ حيرانن
+|,kehairanan,کحيرانن
+|,kehaiwanan,کحيوانن
+|,kehakikian,کحقيقين
+|,kehakiman,کحاکيمن
+|,kehalalan,کحلالن
+|,kehalobaan,کهلوباءن
+|,kehalusan,کهالوسن
+|,kehambaan,کهمباءن
+|,kehambaran,کهمبرن
+|,kehamilan,کحاميلن
+|,kehamisan,کهاميسن
+|,kehampaan,کهمڤاءن
+|,kehampiran,کهمڤيرن
+|,kehancingan,کهنچيڠن
+|,kehancuran,کهنچورن
+|,kehandalan,کهندلن
+|,kehangatan,کهاڠتن
+|,kehangitan,کهاڠيتن
+|,kehangusan,کهاڠوسن
+|,kehantuan,کهنتوان
+|,kehanyiran,کهاپيرن
+|,kehanyutan,کهاپوتن
+|,keharfiahan,کحرفيهن
+|,keharmonian,کهرمونين
+|,kehartawanan,کهرتاونن
+|,keharuan,کهاروان
+|,keterharuan,کترهاروان
+|,keharuman,کهارومن
+|,keharusan,کهاروسن
+|,keberhasilan,کبرحاصيلن
+|,kehasilan,کحاصيلن
+|,kehasratan,کحسرتن
+|,kehausan,کهاءوسن
+|,kehebatan,کهيبتن
+|,kehebohan,کهيبوهن
+|,kehematan,کهيمتن
+|,kehendak,کهندق
+|,keheningan,کهنيڠن
+|,keberhentian,کبرهنتين
+|,keherotan,کهيروتن
+|,keheterogenan,کهيتروݢنن
+|,kehibaan,کهيباءن
+|,kehibukan,کهيبوقن
+|,kehidung-hidungan,کهيدوڠ ـ هيدوڠن
+|,kehidupan,کهيدوڤن
+|,kehijauan,کهيجاوان
+|,kehijau-hijauan,کهيجاو ـ هيجاوان
+|,kehilangan,کهيلڠن
+|,kehimpitan,کهيمڤيتن
+|,kehinaan,کهيناءن
+|,kehingaran,کهيڠرن
+|,kehiperaktifan,کهيڤراکتيفن
+|,kehipersensitifan,کهيڤرسينسيتيفن
+|,kehitaman,کهيتمن
+|,kehitam-hitaman,کهيتم ـ هيتمن
+|,kehodohan,کهودوهن
+|,kehomogenan,کهوموݢينن
+|,kehomoseksualan,کهوموسيکسوالن
+|,kehonaran,کهونرن
+|,kehormat,کحرمت
+|,kehormatan,کحرمتن
+|,kehujanan,کهوجنن
+|,kehujungan,کهوجوڠن
+|,kehukuman,کحکومن
+|,kehuru-haraan,کهورو ـ هاراءن
+|,kehutanan,کهوتنن
+|,keiblisan,کأيبليسن
+|,keibuan,کأيبوان
+|,keihsanan,کأحسانن
+|,keterikatan,کترايکتن
+|,keikhlasan,کأخلاصن
+|,keikliman,کأقليمن
+|,keikraban,کأقربن
+|,keilmiahan,کعلميهن
+|,keilmuan,کعلموان
+|,keimaman,کأمامن
+|,keimanan,کأيمانن
+|,keimbangan,کأيمبڠن
+|,keseimbangan,کسأيمبڠن
+|,keimunan,کأيمونن
+|,keindahan,کأيندهن
+|,keinderaan,کأيندراءن
+|,keindividuan,کأينديۏيدوان
+|,keindividualan,کأينديۏيدوالن
+|,keindonesiaan,کأيندونيسياءن
+|,keindukan,کأيندوقن
+|,keinggerisan,کأيڠݢريسن
+|,keinginan,کأيڠينن
+|,keingkaran,کأيڠکرن
+|,keinsafan,کأنصافن
+|,keinsanan,کأنسانن
+|,keinstitusian,کأينستيتوسين
+|,keintelektualan,کأينتليکتوالن
+|,keintensifan,کأينتينسيفن
+|,keintiman,کأينتيمن
+|,keirasan,کأيرسن
+|,keislaman,کإسلامن
+|,keisomeran,کأيسومرن
+|,keistimewaan,کأيستيميواءن
+|,keitlakkan,کأطلاقکن
+|,keizinan,کأيذينن
+|,kejadian,کجادين
+|,kejaga-jagaan,کجاݢا ـ جاݢاءن
+|,kesejagatan,کسجاݢتن
+|,kejaguhan,کجاݢوهن
+|,kejahatan,کجاهتن
+|,kejahilan,کجاهيلن
+|,kesejajaran,کسجاجرن
+|,kejaksaan,کجقساءن
+|,kejakunan,کجاکونن
+|,kejalanan,کجالنن
+|,kesejalanan,کسجالنن
+|,kejalangan,کجالڠن
+|,keterjalinan,کترجالينن
+|,kejamakan,کجمعن
+|,keterjaminan,کترجامينن
+|,kejampian,کجمڤين
+|,kejandaan,کجنداءن
+|,kejanggalan,کجڠݢلن
+|,kejangkitan,کجاڠکيتن
+|,kejantanan,کجنتنن
+|,kejantan-jantanan,کجنتن ـ جنتنن
+|,kejantinaan,کجنتيناءن
+|,keberjasaan,کبرجاساءن
+|,kejasmanian,کجسمانين
+|,kejatian,کجاتين
+|,kesejatian,کسجاتين
+|,kejatuhan,کجاتوهن
+|,kejauhan,کجاءوهن
+|,kejawaan,کجاواءن
+|,kejayaan,کجاياءن
+|,kejegangan,کجݢڠن
+|,kejejalan,کججلن
+|,keterjejasan,کترججسن
+|,kejelasan,کجلسن
+|,kejelian,کجلين
+|,kejelikan,کجليقن
+|,kejelitaan,کجليتاءن
+|,kejemawaan,کجماواءن
+|,kejempolan,کجمڤولن
+|,kejemuan,کجموان
+|,kejenakaan,کجناکاءن
+|,kejenayahan,کجنايهن
+|,kejengkelan,کجيڠکيلن
+|,kejenteraan,کجنتراءن
+|,kejenuhan,کجنوهن
+|,kejerihan,کجريهن
+|,kejernihan,کجرنيهن
+|,kejijikan,کجيجيقن
+|,kejimatan,کجيمتن
+|,kejinakan,کجينقن
+|,kejingga-jinggaan,کجيڠݢا ـ جيڠݢاءن
+|,kejiranan,کجيرنن
+|,kejituan,کجيتوان
+|,kejiwaan,کجيواءن
+|,kesejiwaan,کسجيواءن
+|,kejohanan,کجوهنن
+|,kejombangan,کجومبڠن
+|,keterjualan,کترجوالن
+|,kejuangan,کجواڠن
+|,kejuaraan,کجواراءن
+|,kejuitaan,کجويتاءن
+|,kejujuran,کجوجورن
+|,kejulingan,کجوليڠن
+|,keterjuluran,کترجولورن
+|,kejumudan,کجمودن
+|,kejuruan,کجوروان
+|,kejurujualan,کجوروجوالن
+|,kejurulatihan,کجورولاتيهن
+|,kejururawatan,کجوروراوتن
+|,kejuruteraan,کجوروتراءن
+|,kaba,کاب
+|,kabab (kebab),کبب
+|,kabak,کابق
+|,kabaret,کاباريت
+|,kabau,کاباو
+|,kabel,کابل
+|,kabigan,کابيݢن
+|,kabil,کابيل
+|,kabilah,قبيله
+|,kabin,کابين
+|,kabinet,کابينيت
+|,kabir (besar),کبير
+|,kabir (tarik),کابير
+|,kabir-kabiran,کابير ـ کابيرن
+|,kabisat,کبيسة
+|,kabit,کابيت
+|,kaboi,کابوي
+|,kabriolet,کابريوليت
+|,kabu,کابو
+|,kabu-kabu,کابو٢
+|,kekabu,ککابو
+|,kabuki,کابوکي
+|,kabul,قبول
+|,kabuli,کبولي
+|,kabung,کابوڠ
+|,kabupaten,کابوڤاتين
+|,kabur,کابور
+|,kekaburan,ککابورن
+|,kekabur-kaburan,ککابور ـ کابورن
+|,kabus,کابوس
+|,kekabusan,ککابوسن
+|,kabut,کابوت
+|,kekabutan,ککابوتن
+|,kaca,کاچ
+|,kacak,کاچق
+|,kekacakan,ککاچقن
+|,kacam,کاچم
+|,kacan,کاچن
+|,kacang,کاچڠ
+|,kacang-kacang,کاچڠ٢
+|,kacang-kacangan,کاچڠ ـ کاچڠن
+|,kekacang,ککاچڠ
+|,kacapiring,کاچاڤيريڠ
+|,kacapuri,کاچاڤوري
+|,kacar,کاچر
+|,kacat,کاچت
+|,kacau,کاچاو
+|,kacau-balau,کاچاو ـ بالاو
+|,kacau-becah,کاچاو ـ بچه
+|,kacau-bicau,کاچاو ـ بيچاو
+|,kacau-bilau,کاچاو ـ بيلاو
+|,kacau-birau,کاچاو ـ بيراو
+|,kacauan,کاچاوان
+|,kekacauan,ککاچاوان
+|,kaci,کاچي
+|,kacek,کاچيق
+|,kacici,کاچيچي
+|,kacip,کاچيڤ
+|,kacir,کاچير
+|,kacoak,کاچواق
+|,kacu,کاچو
+|,kacuca,کاچوچا
+|,kacuk,کاچوق
+|,kacukan,کاچوقن
+|,kacung,کاچوڠ
+|,kad,کد
+|,kadal,کادل
+|,kadam (tempat sirih),کادم
+|,kadam (kaki),قدم
+|,kadang,کادڠ
+|,kadang-kadang,کادڠ٢
+|,kadangkala,کادڠکالا
+|,kadar,قدر
+|,kadaran,قدرن
+|,kadas,قدس
+|,kadaster,کادستر
+|,kadaver,کاداۏر
+|,kadbod,کدبود
+|,kademat,کدمت
+|,kader,کادر
+|,kadera,کدرا
+|,kadet,کاديت
+|,kadi,قاضي
+|,kadim,کاديم
+|,kadli,قدلي
+|,kadmium,کدميوم
+|,kado,کادو
+|,kaduk,کادوق
+|,kadut,کادوت
+|,kaedah,قاعده
+|,kaf,کاف
+|,kafal,کافل
+|,kafan (kapan),کافن
+|,kafarah,کفارة
+|,kafe,کافي
+|,kafein,کافيين
+|,kafeina,کافيينا
+|,kafeteria,کافيتيريا
+|,kafi,کافي
+|,kafilah,قافلة
+|,kafir,کافير
+|,kafir-mengafir,کافير ـ مڠافير
+|,kafir-mengkafirkan,کافير ـ مڠکافيرکن
+|,kekafiran,ککافيرن
+|,kafiri,کافيري
+|,kafling,کفليڠ
+|,kaftan,کفتن
+|,kagak,کاݢق
+|,kaget,کاݢيت
+|,kekagetan,ککاݢيتن
+|,kagok,کاݢوق
+|,kagum,کاݢوم
+|,kekaguman,ککاݢومن
+|,kah,که
+|,kahaf,کهف
+|,kahak,کاهق
+|,kahang,کاهڠ
+|,kahar,کاهر
+|,kahat,قحط
+|,kahin,کاهين
+|,kahrab,کهرب
+|,kahwa,قهوا
+|,kahwa-kahwa,کهوا٢
+|,kahwin,کهوين
+|,kahwin-mawin,کهوين ـ ماوين
+|,kaifiah,کيفية
+|,kaifiat,کيفية
+|,kail,کاءيل
+|,kail-kail,کاءيل٢
+|,kailan,کايلن
+|,kain,کاءين
+|,kaing,کاءيڠ
+|,kaing-kaing,کاءيڠ٢
+|,kais,کاءيس
+|,kaisar,قيصر
+|,kekaisaran,کقيصرن
+|,kait,کاءيت
+|,kaitan,کاءيتن
+|,kait-kait,کاءيت٢
+|,keberkaitan,کبرکاءيتن
+|,keterkaitan,کترکاءيتن
+|,kaizen,کايزن
+|,kajai,کاجاي
+|,kajang,کاجڠ
+|,kajangan,کاجڠن
+|,kajat (hajat),کاجت
+|,kajau,کاجاو
+|,kaji,کاجي
+|,kajian,کاجين
+|,kakah,کاکه
+|,kakak,کاکق
+|,kakaktua,کاکقتوا
+|,kakanda,ککندا
+|,kakang,کاکڠ
+|,kakap,کاکڤ
+|,kakaput,ککاڤوت
+|,kakar (kekar),کاکر
+|,kakas,کاکس
+|,kakawin,ککاوين
+|,kakek,کاکيق
+|,kakek-kakek,کاکيق٢
+|,kakemono,کاکيمونو
+|,kaki,کاکي
+|,kakis,کاکيس
+|,kakisan,کاکيسن
+|,kekakisan,ککاکيسن
+|,kakitangan,کاکيتاڠن
+|,kakofoni,کاکوفوني
+|,kakografi,کاکوݢرافي
+|,kakok,کاکوق
+|,kakologi,کاکولوݢي
+|,kaksa,کقسا
+|,kaktus,ککتوس
+|,kaku,کاکو
+|,kekakuan,ککاکوان
+|,kakus,کاکوس
+|,kal,کل
+|,kala,کالا
+|,keberkalaan,کبرکالاءن
+|,kalah,کاله
+|,kekalahan,ککالهن
+|,kalai,کالاي
+|,kalak,کالق
+|,kalakanji,کلاکنجي
+|,kalakian,کلاکيان
+|,kalam (kata),کلام
+|,kalam (pasir),کلم
+|,kalam (pena),قلم
+|,kalamdan,قلمدان
+|,kalamina,کلامينا
+|,kalamisani,کلاميساني
+|,kalamkari,کلمکاري
+|,kalamullah,کلام الله
+|,kalandar,کلندر
+|,kalang,کالڠ
+|,kalangan,کالڠن
+|,kalang-kabut,کالڠ ـ کابوت
+|,kalap,کالڤ
+|,kalar,کالر
+|,kalas,کالس
+|,kalat,کالت
+|,kalau,کالاو
+|,kalau-kalau,کالاو٢
+|,kalaupun,کالاوڤون
+|,kalbu,قلبو
+|,kaldu,کلدو
+|,kaleidoskop,کاليدوسکوڤ
+|,kalem,کالم
+|,kalendar,کاليندر
+|,kalender,کليندر
+|,kaleng,کاليڠ
+|,kalengan,کاليڠن
+|,kaleng-kalengan,کاليڠ ـ کاليڠن
+|,kali,کالي
+|,kalian,کالين
+|,kali-kali,کالي٢
+|,kaliber,کاليبر
+|,kalibut,کليبوت
+|,kalicau,کليچاو
+|,kalifornium,کاليفورنيوم
+|,kaligrafi,کاليݢرافي
+|,kalih,کاليه
+|,kalikanji (kalakanji),کليکنجي
+|,kalikasar,کليکاسر
+|,kalikausar (barang),کليکاوسر
+|,kalikausar (telaga),کليکاوثر
+|,kaliki,کاليکي
+|,kaliks,کاليکس
+|,kalimah,کلمه
+|,kalimantang,کليمنتڠ
+|,kalimat,کليمت
+|,kalimatullah,کلمة الله
+|,kalimatusyahadat,کلمة الشهادة
+|,kalimaya,کليماي
+|,kalimayah,کليمايه
+|,kalimpanang,کليمڤانڠ
+|,kalimut,کليموت
+|,kaling (kolang),کاليڠ
+|,kalingan,کاليڠن
+|,kalio,کاليو
+|,kalipso,کاليڤسو
+|,kalis,کاليس
+|,kekalisan,ککاليسن
+|,kalium,کاليوم
+|,kalkalah (qalqalah),قلقله
+|,kalkasar (kalikausar),کلکاسر
+|,kalkausar (kalikausar),کلکوثر
+|,kalkulator,کلکولاتور
+|,kalkulus,کلکولوس
+|,kalo,کالو
+|,kaloi,کالوي
+|,kalong,کالوڠ
+|,kalor,کالور
+|,kalori,کالوري
+|,kalorimeter,کالوريميتر
+|,kalorimetri,کلوريميتري
+|,kalowatan,کالوواتن
+|,kalsit,کلسيت
+|,kalsium,کلسيوم
+|,kalpat (kelepat),کلڤت
+|,kalu,کالو
+|,kalui,کالوي
+|,kalulus,کلولوس
+|,kalung,کالوڠ
+|,kalungan,کالوڠن
+|,kalus,کالوس
+|,kalut,کالوت
+|,kalut-kibut,کالوت ـ کيبوت
+|,kalut-malut,کالوت ـ مالوت
+|,kalut-marut,کالوت ـ ماروت
+|,kekalutan,ککالوتن
+|,kama,کام
+|,kamal,کمال
+|,kaman,کامن
+|,kamap,کامڤ
+|,kamar (bilik),کامر
+|,kamar (bulan),قمر
+|,kamarban,کامربن
+|,kamariah,قمرية
+|,kamat,قمة
+|,kambai,کمباي
+|,kamban,کامبن
+|,kambang,کامبڠ
+|,kambar,کامبر
+|,kambas,کمبس
+|,kambau,کمباو
+|,kambeh,کمبيه
+|,kambeli,کمبلي
+|,kambi,کمبي
+|,kambiang (kiambang),کمبياڠ
+|,kambih,کمبيه
+|,kambing,کمبيڠ
+|,kambing-kambing,کمبيڠ٢
+|,kambium,کمبيوم
+|,kambrat,کامبرت
+|,kambu,کامبو
+|,kambuh,کمبوه
+|,kambus,کمبوس
+|,kambut,کامبوت
+|,kamceng,کمچيڠ
+|,kameleon,کاميليون
+|,kameli (kambeli),کملي
+|,kamera,کاميرا
+|,kamfor,کمفور
+|,kamhar,کمهر
+|,kami,کامي
+|,kamiah,کمية
+|,kamikaze,کاميکازي
+|,kamil,کاميل
+|,kamilan,کاميلن
+|,kekamilan,ککاميلن
+|,kamir,کامير
+|,kamiran,کاميرن
+|,kamis,قميص
+|,kamisa,قميص
+|,kamit (kumat),کاميت
+|,kamkam,کمکم
+|,kamkha (kimkha),کمخا
+|,kamkorder,کمکوردر
+|,kampa,کامڤا
+|,kampah,کمڤه
+|,kampai,کمڤاي
+|,kampak (kapak),کمڤق
+|,kampang (kapang),کمڤڠ
+|,kampanye (kempen),کمڤپى
+|,kampas,کامڤس
+|,kampemen,کمڤمين
+|,kamper,کمڤر
+|,kampil,کمڤيل
+|,kampilan,کمڤيلن
+|,kampit,کامڤيت
+|,kampori,کمڤوري
+|,kampret,کمڤريت
+|,kampuh,کامڤوه
+|,kampung,کامڤوڠ
+|,kampungan,کامڤوڠن
+|,kekampungan,ککامڤوڠن
+|,kampus,کمڤوس
+|,kamsia,کمسيا
+|,kamsiah,کمسياه
+|,kamu,کامو
+|,kamus,قاموس
+|,kan,کن
+|,kana,کان
+|,kanaah (qanaah),قناعه
+|,kanaat,قناعة
+|,kanabis,کانابيس
+|,kanak,کانق
+|,kanak-kanak,کانق٢
+|,kekanak-kanakan,ککنق ـ کانقن
+|,kanal,کانل
+|,kanan,کانن
+|,kekananan,ککاننن
+|,kanbus (gambus),کنبوس
+|,kancah,کنچه
+|,kancang,کانچڠ
+|,kancap,کنچڤ
+|,kanceh,کنچيه
+|,kancih (kanceh),کنچيه
+|,kancil,کنچيل
+|,kancing,کانچيڠ
+|,kancung,کانچوڠ
+|,kancut,کنچوت
+|,kanda,کندا
+|,kanda-manda,کندا ـ مندا
+|,kandang,کاندڠ
+|,kandar,کندر
+|,kandaran,کندرن
+|,kandas,کندس
+|,kekandasan,ککندسن
+|,kandau,کنداو
+|,kandel,کندل
+|,kandela,کنديلا
+|,kandi,کاندي
+|,kandi-kandi,کاندي٢
+|,kandid,کنديد
+|,kandil,قنديل
+|,kandis,کنديس
+|,kandul,کندول
+|,kandung,کاندوڠ
+|,kandungan,کاندوڠن
+|,kanduri (kenduri),کندوري
+|,kandut,کندوت
+|,kang,کڠ
+|,kangar,کاڠر
+|,kangen,کاڠن
+|,kanggaru,کڠݢارو
+|,kangjeng,کڠجڠ
+|,kangka,کڠک
+|,kangkang,کڠکڠ
+|,kangkung,کڠکوڠ
+|,kangmas,کڠمس
+|,kangsa (gangsa),کڠسا
+|,kangsar,کڠسر
+|,kangsin,کڠسين
+|,kani,کاني
+|,kaniaya,کانياي
+|,kanibal,کانيبل
+|,kanibalisme,کانيباليسمى
+|,kanigara,کانيݢارا
+|,kanin,کانين
+|,kanisah,کنيسه
+|,kanister,کانيستر
+|,kanjal,کنجل
+|,kanjang,کنجڠ
+|,kanjar,کانجر
+|,kanjen (kangjeng),کنجن
+|,kanji,کنجي
+|,kanjus,کنجوس
+|,kanker,کنکر
+|,kano,کانو
+|,kanon,کانون
+|,kanopi,کانوڤي
+|,kanser,کنسر
+|,kanta,کنتا
+|,kantan,کنتن
+|,kantang,کانتڠ
+|,kantata,کنتاتا
+|,kanti,کنتي
+|,kantih,کنتيه
+|,kantin,کنتين
+|,kanto,کنتو
+|,kantonmen,کنتونمين
+|,kantor,کنتور
+|,kantu,کنتو
+|,kantuk,کنتوق
+|,kantung,کانتوڠ
+|,kanun,قانون
+|,kanvas,کنۏس
+|,kanyon,کنيون
+|,kaok,کاءوق
+|,kaolin,کاولين
+|,kaolinit,کاولينيت
+|,kaos,کاءوس
+|,kap,کڤ
+|,kapa,کاڤ
+|,kapa-kapa,کاڤ٢
+|,kapah,کاڤه
+|,kapai,کاڤاي
+|,kapak,کاڤق
+|,kapal,کاڤل
+|,kapalan,کاڤلن
+|,kapan,کاڤن
+|,kapan-kapan,کاڤن٢
+|,kapang,کاڤڠ
+|,kapangan,کاڤڠن
+|,kapar,کاڤر
+|,kaparan,کاڤرن
+|,kapas,کاڤس
+|,kapas-kapas,کاڤس٢
+|,kapasitans,کاڤاسيتنس
+|,kapasiti,کاڤاسيتي
+|,kapasitor,کاڤاسيتور
+|,kapel,کاڤيل
+|,kaper,کاڤر
+|,kapi,کاڤي
+|,kapilari,کاڤيلاري
+|,kapiran,کاڤيرن
+|,kapis,کاڤيس
+|,kapista,کاڤيستا
+|,kapit,کاڤيت
+|,kapitan,کاڤيتن
+|,kapita,کاڤيتا
+|,kapital,کاڤيتل
+|,kapitalis,کاڤيتاليس
+|,kapitalisme,کاڤيتاليسمى
+|,kapitalistik,کاڤيتاليستيک
+|,kapitan,کاڤيتن
+|,kapitulasi,کاڤيتولاسي
+|,kaplok,کڤلوق
+|,kapok,کاڤوق
+|,kapol,کاڤول
+|,kapri,کڤري
+|,kapsul,کڤسول
+|,kapsyen,کڤشن
+|,kapten,کڤتن
+|,kapu,کاڤو
+|,kapu-kapu,کاڤو٢
+|,kapucino,کاڤوچينو
+|,kapuh,کاڤوه
+|,kapuk,کاڤوق
+|,kapung (apung),کاڤوڠ
+|,kapur,کاڤور
+|,kara,کارا
+|,kara-kara,کارا٢
+|,karaf,کارف
+|,karabin,کارابين
+|,karah,کاره
+|,karak,کارق
+|,karakter,کارکتر
+|,karam,کارم
+|,kekaraman,ککارمن
+|,karamah,کرامه
+|,karamel,کاراميل
+|,karan,کارن
+|,karang,کارڠ
+|,karangan,کارڠن
+|,karang-karang,کارڠ٢
+|,karang-karangan,کارڠ ـ کارڠن
+|,karang-mengarang,کارڠ ـ مڠارڠ
+|,kepengarangan,کڤڠارڠن
+|,karantina (kuarantin),کارنتينا
+|,karaoke,کاراءوکي
+|,karap,کارڤ
+|,karapas,کاراڤس
+|,karapelai,کاراڤلاي
+|,karar,قرار
+|,karas,کارس
+|,karas-karas,کارس٢
+|,kekaras,ککارس
+|,karat,کارت
+|,karatan,کارتن
+|,karate,کاراتي
+|,karatedo,کاراتيدو
+|,karau,کاراو
+|,karavan,کاراۏن
+|,karbida,کربيدا
+|,karbin,کربين
+|,karbohidrat,کربوهيدرت
+|,karboksil,کربوکسيل
+|,karbolik,کربوليک
+|,karbon,کربون
+|,karbonat,کربونت
+|,karboniferus,کربونيفروس
+|,karbonik,کربونيک
+|,karbonil,کربونيل
+|,karbunkel,کربونکل
+|,karburetor,کربوريتور
+|,karcis,کرچيس
+|,kardamunggu,کرداموڠݢو
+|,kardigan,کرديݢن
+|,kardinal,کردينل
+|,kardiologi,کرديولوݢي
+|,kardiomiopati,کرديوميوڤاتي
+|,karditis,کرديتيس
+|,kardus,کردوس
+|,karel,کارل
+|,karenah,قرينه
+|,karengga,کارڠݢ
+|,karet,کاريت
+|,kargo,کرݢو
+|,kari,کاري
+|,kariah,قريه
+|,karib,قريب
+|,kekariban,کقريبن
+|,karibu,کاريبو
+|,karier,کاريئر
+|,karies,کاريس
+|,karih,کاريه
+|,karikatur,کاريکاتور
+|,karil,کاريل
+|,karim (murah hati),کريم
+|,karim (sj ikan),کاريم
+|,karing,کاريڠ
+|,kariogram,کارياوݢرم
+|,karipap,کاريڤڤ
+|,karisma,کاريسما
+|,karismatik,کاريسماتيک
+|,karkas,کرکس
+|,karkausar (kalikausar),کرکاوسر
+|,karkun,کرکون
+|,karma,کرما
+|,karmin,کرمين
+|,karnival,کرنيۏل
+|,karnivor,کرنيۏور
+|,karol,کارول
+|,karom,کاروم
+|,karotena,کاروتينا
+|,karotid,کاروتيد
+|,karped,کرڤيد
+|,karpel,کرڤيل
+|,karpus,کرڤوس
+|,karsinogen,کرسينوݢن
+|,karsinogenesis,کرسينوݢينيسيس
+|,karsinogenik,کرسينوݢينيک
+|,kart,کت
+|,kartel,کرتيل
+|,kartika,کرتيکا
+|,kartografi,کرتوݢرافي
+|,kartogram,کرتوݢرم
+|,karton,کرتون
+|,kartrij,کرتريج
+|,kartu,کرتو
+|,kartun,کرتون
+|,kartunis,کرتونيس
+|,kartus,کرتوس
+|,karu,کارو
+|,karu-karu,کارو٢
+|,karuai,کارواي
+|,karun,قارون
+|,karung,کاروڠ
+|,karunia (kurnia),کرونيا
+|,karut,کاروت
+|,karut-marut,کاروت ـ ماروت
+|,kekarutan,ککاروتن
+|,karwapalai,کرواڤالاي
+|,karya,کاريا
+|,karyawan,کارياون
+|,kekaryaan,ککارياءن
+|,karyaneka,کاريانيک
+|,karyawan,کارياون
+|,kas,کس
+|,kasa,کاس
+|,kasab,کاسب
+|,kasad,قصد
+|,kasah,کاسه
+|,kasai,کاساي
+|,kasak,کاسق
+|,kasak-kisik,کاسق ـ کيسيق
+|,kasak-kusut,کاسق ـ کوسوت
+|,kasam,کاسم
+|,kasang,کاسڠ
+|,kasanova,کاسانوۏا
+|,kasap,کاسڤ
+|,kasar,کاسر
+|,kekasaran,ککاسرن
+|,kasasi,کاساسي
+|,kasatmata,کاستمات
+|,kasau,کاساو
+|,kasdu,کسدو
+|,kasein,کاسين
+|,kaseinogen,کاسينوݢن
+|,kasemek (kesmak),کسمق
+|,kasep (kasip),کاسيڤ
+|,kaserol,کاسيرول
+|,kaset,کاسيت
+|,kasi,کاسي
+|,kasi-kasi,کاسي٢
+|,kasid,قاصد
+|,kasih,کاسيه
+|,kasihan,کاسيهن
+|,kasihankan,کاسيهنکن
+|,kasihkan,کاسيهکن
+|,kekasih,ککاسيه
+|,kekasihan,ککاسيهن
+|,kasim,کاسيم
+|,kasima,کاسيما
+|,kasino,کاسينو
+|,kasip,کاسيڤ
+|,kasir,کاسير
+|,kasisang,کسيسڠ
+|,kaskas,کسکس
+|,kasmaran,کسمارن
+|,kasmutik,کسموتيق
+|,kasok,کاسوک
+|,kasolit,کاسوليت
+|,kaspe,کسڤي
+|,kasrah,کسرة
+|,kasta,کستا
+|,kekastaan,ککستاءن
+|,kastam,کستم
+|,kastard,کستد
+|,kasteria (kesateria),کستريا
+|,kasti,کستي
+|,kastil,کستيل
+|,kastria (kesateria),کستريا
+|,kastroli,کسترولي
+|,kasturi,کستوري
+|,kasual,کاسوال
+|,kasuari,کاسواري
+|,kasur,کاسور
+|,kasus,کاسوس
+|,kasut,کاسوت
+|,kaswi,کسوي
+|,kasyaf,کشف
+|,kata,کات
+|,katakan,کاتاکن
+|,kata-kata,کات٢
+|,katabolisme,کاتابوليسمى
+|,katabolit,کاتابوليت
+|,katah,کاته
+|,katai,کاتاي
+|,katak,کاتق
+|,katakana,کاتاکانا
+|,katalase,کاتالاسى
+|,katalepsi,کاتاليڤسي
+|,katalisator,کاتاليساتور
+|,katalog,کاتالوݢ
+|,katam,کاتم
+|,katamaran,کاتامارن
+|,katang,کاتڠ
+|,katang-katang,کاتڠ٢
+|,katapel,کاتاڤيل
+|,katar,کاتر
+|,katarak,کاتارک
+|,katarsis,کاترسيس
+|,kate (katik),کاتي
+|,katedral,کاتدرل
+|,kategis,کاتݢيس
+|,kategori,کاتݢوري
+|,katek,کاتيق
+|,katel,کاتيل
+|,katelum,کاتلوم
+|,kater,کاتر
+|,katerer,کاترر
+|,katering,کاتريڠ
+|,kates,کاتيس
+|,katgut,کتݢوت
+|,kati,کاتي
+|,katib,کاتيب
+|,katibin,کاتيبين
+|,katifah,قطيفه
+|,katih,کاتيه
+|,katik,کاتيق
+|,katil,کاتيل
+|,katimaha,کاتيماها
+|,katimumul,کاتيمومول
+|,kation,کاتيون
+|,katir,کاتير
+|,katirah,کاتيره
+|,katod,کاتود
+|,katoptrik,کاتوڤتريک
+|,katuk,کاتوق
+|,katung,کاتوڠ
+|,katung-katung,کاتوڠ٢
+|,katup,کاتوڤ
+|,katupan,کاتوڤن
+|,katup-katup,کاتوڤ٢
+|,katut,کاتوت
+|,katwal,کاتوال
+|,kau,کاو
+|,kaudal,کاودل
+|,kaukab,کوکب
+|,kaul (rabuk),کاءول
+|,kaula (kawula),کاءولا
+|,kaum,قوم
+|,kaung,کاءوڠ
+|,kaunseling,کاءونسليڠ
+|,kaunselor,کاءونسلور
+|,kaunter,کاءونتر
+|,kaup,کاءوڤ
+|,kaus (busur),قوس
+|,kaus (kasut),کاءوس
+|,kausar,کوثر
+|,kausatif,کاوساتيف
+|,kaustik,کاوستيک
+|,kekaustikan,ککاوستيکن
+|,kausun,کاوسون
+|,kaut,کاءوت
+|,kavadi,کاۏادي
+|,kavalri,کاۏلري
+|,kaveat,کاۏيات
+|,kaviar,کاۏيار
+|,kawa,کاوا
+|,kawa-kawa,کاوا٢
+|,kawad,کاود
+|,kawah,کاوه
+|,kawal,کاول
+|,kawalan,کاولن
+|,kawan,کاون
+|,kawanan,کاونن
+|,kawang,کاوڠ
+|,kawanua,کاوانوا
+|,kawar,کاور
+|,kawasan,کاوسن
+|,kawat,کاوت
+|,kawi,کاوي
+|,kawibawan (wibawa),کاويباون
+|,kawik,کاويق
+|,kawula,کاوولا
+|,kaya (berharta),کاي
+|,kaya-kaya,کاي٢
+|,kaya-raya,کاي ـ راي
+|,kekayaan,ککاياءن
+|,kaya (makanan),کايا
+|,kayai,کاياي
+|,kayak,کايق
+|,kayan,کاين
+|,kayangan,کايڠن
+|,kayap,کايڤ
+|,kayau,کاياو
+|,kayu,کايو
+|,kayu-kayan,کايو ـ کاين
+|,kayu-kayu,کايو٢
+|,kayu-kayuan,کايو ـ کايوان
+|,kayuh,کايوه
+|,kayuhan,کايوهن
+|,kekayuhan,ککايوهن
+|,kayun,کايون
+|,kazab,کذاب
+|,kebab,کبب
+|,kebabal,کبابل
+|,kebah,کبه
+|,kebaji,کباجي
+|,kebal,کبل
+|,kekebalan,ککبلن
+|,kebam,کبم
+|,keban,کبن
+|,kebarung,کباروڠ
+|,kebas,کبس
+|,kebas-kebas,کبس٢
+|,kebas-kebus,کبس ـ کبوس
+|,kebas-tangas,کبس ـ تاڠس
+|,kebasi,کباسي
+|,kebat,کبت
+|,kebat-kebit,کبت ـ کبيت
+|,kebaya,کباي
+|,kebayak,کبايق
+|,kebayan,کباين
+|,kebayang,کبايڠ
+|,kebek,کيبيق
+|,kebel,کبل
+|,kebelai,کبلاي
+|,kebil,کبيل
+|,kebiri (kembiri),کبيري
+|,kebuk,کبوق
+|,kebuli (kabuli),کبولي
+|,kebun,کبون
+|,kebungan,کبوڠن
+|,kebur,کبور
+|,keburu,کبورو
+|,kebut,کبوت
+|,kecah (sibuk),کچه
+|,kecah-kecuh,کچه ـ کچوه
+|,kecah (selerak),کيچه
+|,kecah-becah,کيچه ـ بچه
+|,kecai,کچاي
+|,kecaian,کچاين
+|,kecak (cekak),کچق
+|,kecak (incang-incut),کيچق
+|,kecam,کچم
+|,kecaman,کچمن
+|,kecam-mengecam,کچم ـ مڠچم
+|,kecambah,کچمبه
+|,kecamuk,کچاموق
+|,kekecamukan,ککچاموقن
+|,kecandan (kecindan),کچندن
+|,kecap,کچڤ
+|,kecapan,کچڤن
+|,kecapi,کچڤي
+|,kecar (sj siput),کچر
+|,kecar (sj rojak),کيچر
+|,kecek,کيچيق
+|,keceng,کيچيڠ
+|,kecepek,کچيڤيق
+|,kecepung (kecimpung),کچڤوڠ
+|,kecer,کيچير
+|,kecewa,کچيوا
+|,kekecewaan,ککچيواءن
+|,keci,کيچي
+|,keciak,کچياق
+|,kecibak,کچيبق
+|,kecibeling,کچيبليڠ
+|,kecicak,کچيچق
+|,kecil,کچيل
+|,kecil-kecilan,کچيل ـ کچيلن
+|,kecil-kecilkan,کچيل ـ کچيلکن
+|,kecil-mengecil,کچيل ـ مڠچيل
+|,kekecilan,ککچيلن
+|,kecimpung,کچيمڤوڠ
+|,kecimus,کچيموس
+|,kecindan,کچيندن
+|,kecipak,کچيڤق
+|,kecipuk,کچيڤوق
+|,kecipung (kecimpung),کچيڤوڠ
+|,keciut,کچيوت
+|,kecoh,کيچوه
+|,kekecohan,ککيچوهن
+|,kecong,کيچوڠ
+|,kecu,کيچو
+|,kecuali,کچوالي
+|,kecualian,کچوالين
+|,kekecualian,ککچوالين
+|,kecubung,کچوبوڠ
+|,kecuh,کچوه
+|,kecuh-kecah,کچوه ـ کچه
+|,keculun,کچولون
+|,kecumik,کچوميق
+|,kecundang,کچوندڠ
+|,kekecundangan,ککچوندڠن
+|,kecung,کچوڠ
+|,kecup (kucup),کچوڤ
+|,kecur,کچور
+|,kecut,کچوت
+|,kekecutan,ککچوتن
+|,kepengecutan,کڤڠچوتن
+|,kedabu,کدابو
+|,kedada,کدادا
+|,kedadah,کداده
+|,kedadak,کدادق
+|,kedah,کده
+|,kedai,کداي
+|,kedaian,کداين
+|,kedak,کدق
+|,kedal,کدل
+|,kedaluwarsa,کدالوورسا
+|,kedamba,کدمبا
+|,kedampang,کدمڤڠ
+|,kedana,کدان
+|,kedang,کدڠ
+|,kedangan,کداڠا
+|,kedangkai,کدڠکاي
+|,kedangkang,کدڠکڠ
+|,kedangsa,کدڠسا
+|,kedap,کدڤ
+|,kedarah,کداره
+|,kedari,کداري
+|,kedau,کداو
+|,kedaung,کداءوڠ
+|,kedayan,کداين
+|,kedek,کيديق
+|,kedek-kedek,کيديق٢
+|,kedekai,کدکاي
+|,kedekak,کدکق
+|,kedeki,کدکي
+|,kedekik,کدکيق
+|,kedeking,کدکيڠ
+|,kedekut,کدکوت
+|,kedelai,کدلاي
+|,kedelam (kemendekam),کدلم
+|,kedeli (kedelai),کدلي
+|,kedemah,کدمه
+|,kedemat,کدمت
+|,kedemi,کدمي
+|,kedempung,کدمڤوڠ
+|,kedemut,کدموت
+|,kedengkang,کدڠکڠ
+|,kedengkik,کدڠکيق
+|,kedengking,کدڠکيڠ
+|,kedengkung (kedengkang),کدڠکوڠ
+|,kedenuk,کدنوق
+|,kedepung (kedempung),کدڤوڠ
+|,kedera (sj ikan),کدرا
+|,kedera (kerusi usungan),کديرا
+|,kederang,کدرڠ
+|,kedewas,کديواس
+|,kedi (pondan),کدي
+|,kedi (pembawa kayu golf),کيدي
+|,kedidi,کديدي
+|,kedih,کديه
+|,kedik,کديق
+|,kedikit,کديکيت
+|,kedip,کديڤ
+|,kedipan,کديڤن
+|,kedira (kedera),کديرا
+|,kediri,کديري
+|,kedit (kendit),کديت
+|,kediti (keliti),کديتي
+|,kedok,کدوق
+|,kedombak,کدومبق
+|,kedondong,کدوندوڠ
+|,kedongkok (pendongkok),کدوڠکوق
+|,kedu,کدو
+|,kedubang (gedubang),کدوبڠ
+|,keduduk,کدودوق
+|,keduk,کدوق
+|,kedul,کدول
+|,kedumba (kedamba),کدومبا
+|,kedunak,کدونق
+|,kedut,کدوت
+|,kedutan,کدوتن
+|,kedut-kedut,کدوت٢
+|,kekedutan,ککدوتن
+|,keembung,کأمبوڠ
+|,kehel,کيهيل
+|,kei (kek),کئي
+|,kejai,کجاي
+|,kejal,کجل
+|,kejam,کجم
+|,kekejaman,ککجمن
+|,kejamas,کجامس
+|,kejan,کجن
+|,kejang,کجڠ
+|,kejangan,کجڠن
+|,kekejangan,ککجڠن
+|,kejap,کجڤ
+|,kejapan,کجڤن
+|,kejar,کجر
+|,kejaran,کجرن
+|,kejat,کجت
+|,kejengkang,کجڠکڠ
+|,keji,کجي
+|,kejian,کجين
+|,kekejian,ککجين
+|,kejora,کجورا
+|,keju,کيجو
+|,kejuju,کجوجو
+|,kejur,کجور
+|,kejut,کجوت
+|,kejutan,کجوتن
+|,kekejutan,ککجوتن
+|,keterkejutan,کترکجوتن
+|,kek,کيک
+|,kekabu,ککابو
+|,kekacang,ککاچڠ
+|,kekah (monyet),ککه
+|,kekah (akikah),قيقه
+|,kekait,ککاءيت
+|,kekaki,ککاکي
+|,kekal,ککل
+|,kekekalan,کککلن
+|,kekalu,ککالو
+|,kekam,ککم
+|,kekanda,ککندا
+|,kekandi,ککندي
+|,kekang,ککڠ
+|,kekangan,ککڠن
+|,kekapal,ککاڤل
+|,kekapas,ککاڤس
+|,kekapis (kapis),ککاڤيس
+|,kekar,ککر
+|,kekara (kara),ککارا
+|,kekaras,ککارس
+|,kekas,ککس
+|,kekat,ککت
+|,kekau,ککاو
+|,kekawin (kakawin),ککاوين
+|,kekeh,کيکيه
+|,kekehan,کيکيهن
+|,kekek,کيکيق
+|,kekekan,کيکيقن
+|,kekel,کيکيل
+|,kekepuk,ککڤوق
+|,kekeruh,ککروه
+|,kekili,ککيلي
+|,kekisi,ککيسي
+|,kekok,کيکوق
+|,kekekokan,ککيکوقن
+|,kekoleh (koleh),ککوليه
+|,kekolong (kolong),ککولوڠ
+|,k-ekonomi,کي ـ ايکونومي
+|,kekorok,ککوروق
+|,kekot,کيکوت
+|,kekuda,ککودا
+|,kekudung (kudung),ککودوڠ
+|,kekuma (kuma-kuma),ککوما
+|,kekumus (kemukus),ککوموس
+|,kekunci,ککونچي
+|,kekunyit,ککوپيت
+|,kekura,ککورا
+|,kekwa,کيقوا
+|,kelab,کلب
+|,kelabang,کلابڠ
+|,kelabangan,کلابڠن
+|,kelabat,کلابت
+|,kelabau,کلاباو
+|,kelabu,کلابو
+|,kekelabuan,ککلابوان
+|,kekelabu-kelabuan,ککلابو ـ کلابوان
+|,kelabung,کلابوڠ
+|,kelabut,کلابوت
+|,keladak,کلادق
+|,keladan,کلادن
+|,keladau,کلاداو
+|,keladi,کلادي
+|,kelah (sj ikan; pengaduan),کله
+|,kelah (piknik),کيله
+|,kelahi,کلاهي
+|,kelain (lain),کلاءين
+|,kelak,کلق
+|,kelak-keluk,کلق ـ کلوق
+|,kelakanji (kalakanji),کلاکنجي
+|,kelakar,کلاکر
+|,kelakkeling,کلقکليڠ
+|,kelalang,کلالڠ
+|,kelalawar,کلالاور
+|,kelalut,کلالوت
+|,kelam,کلم
+|,kekelaman,ککلمن
+|,kelam-kabut,کلم ـ کابوت
+|,kelama,کلام
+|,kelamai,کلاماي
+|,kelambai,کلامباي
+|,kelambir,کلمبير
+|,kelambit,کلمبيت
+|,kelambu,کلمبو
+|,kelambur,کلمبور
+|,kelamin,کلامين
+|,kelamkari,کلمکاري
+|,kelampadang,کلمڤادڠ
+|,kelampi,کلمڤي
+|,kelampung,کلامڤوڠ
+|,kelamun,کلامون
+|,kelan (mengkelan),کلن
+|,kelana,کلان
+|,kelang (sj ikan),کلڠ
+|,kelang-kabut,کلڠ ـ کابوت
+|,kelang (bengkang-bengkok),کيلڠ
+|,kelang-kelok,کيلڠ ـ کيلوق
+|,kelanggara (kelenggara),کلڠݢارا
+|,kelangkang,کلاڠکڠ
+|,kelanit,کلانيت
+|,kelanjar,کلانجر
+|,kelantang,کلنتڠ
+|,kelanting,کلنتيڠ
+|,kelap,کلڤ
+|,kelap-kelip,کلڤ ـ کليڤ
+|,kelapa,کلاڤ
+|,kelapayang (kelapayang),کلاڤايڠ
+|,kelapung,کلاڤوڠ
+|,kelar,کلر
+|,kelara,کلارا
+|,kelarah,کلاره
+|,kelarai,کلاراي
+|,kelari,کلاري
+|,kelas,کلس
+|,kelasa,کلاس
+|,kelasak,کلاسق
+|,kelasi,کلاسي
+|,kelat,کلت
+|,kekelatan,ککلتن
+|,kelati,کلاتي
+|,kelawai,کلاواي
+|,kelawak,کلاوق
+|,kelawan (keluan),کلاون
+|,kelawar,کلاور
+|,kelawat,کلاوت
+|,kelayak (khalayak),کلايق
+|,kelayang,کلايڠ
+|,kelayar,کلاير
+|,kelayau,کلاياو
+|,kelayu,کلايو
+|,keldai,کلداي
+|,kelebak,کليبق
+|,kelebang,کليبڠ
+|,kelebat (kelibat),کليبت
+|,kelebek,کليبيق
+|,kelebet,کليبيت
+|,kelebi,کلبي
+|,kelebuk,کلبوق
+|,kelebur,کلبور
+|,keleburan,کلبورن
+|,kelebut,کلبوت
+|,keleceh,کليچيه
+|,kelecek,کليچيق
+|,kelecus,کلچوس
+|,keledang,کليدڠ
+|,keledar,کليدر
+|,keledek,کليديق
+|,keledi,کلدي
+|,keledut (kedut),کلدوت
+|,kelek,کيليق
+|,kelekan,کيليقن
+|,kelek-kelek,کيليق٢
+|,kelek-kelekan,کيليق ـ کيليقن
+|,kelekati,کلکاتي
+|,kelekatu,کلکاتو
+|,kelelap (kelalap),کللڤ
+|,kelelawar (kelawar),کللاور
+|,kelelawat,کللاوت
+|,kelelesa,کللسا
+|,kelelot,کليلوت
+|,kelemair (kelemayar),کلماءير
+|,kelemantang (kalimantang),کلمنتڠ
+|,kelemanyar (kelemayar),کلماپر
+|,kelemata,کلمات
+|,kelemayar,کلماير
+|,kelemayuh,کلمايوه
+|,kelembahang,کلمباهڠ
+|,kelembai,کلمباي
+|,kelembak,کلمبق
+|,kelemban,کليمبن
+|,kelemben (kelombeng),کلمبن
+|,kelembuai,کلمبواي
+|,kelembubu (halimbubu),کلمبوبو
+|,kelemek,کليميق
+|,kelemoyang,کلمويڠ
+|,kelempai,کلمڤاي
+|,kelempayan,کلمڤاين
+|,kelempenang,کلمڤنڠ
+|,kelempening,کلمڤنيڠ
+|,kelempeti,کلمڤتي
+|,kelemping,کلمڤيڠ
+|,kelempung,کلمڤوڠ
+|,kelemumur,کلمومور
+|,kelemot,کليموت
+|,kelemunting (kemunting),کلمونتيڠ
+|,kelencong,کلينچوڠ
+|,kelendara,کلندارا
+|,keleneng,کلينيڠ
+|,kelenggara,کلڠݢارا
+|,kelengkang (kelangkang),کلڠکڠ
+|,kelengkang (tempat kunci),کليڠکڠ
+|,kelengkeng,کليڠکيڠ
+|,kelengkiak,کلڠکياق
+|,kelengkuk (kelongkong),کلڠکوق
+|,kelengkung (kerongkong),کلڠکوڠ
+|,kelening,کلنيڠ
+|,kelenjar,کلنجر
+|,kelentang (bunyi),کلنتڠ
+|,kelentang-kelentung,کلنتڠ ـ کلنتوڠ
+|,kelentang (buah),کلينتڠ
+|,kelenteng (tokong),کلنتيڠ
+|,kelenteng (bunyi),کلينتيڠ
+|,kelintang,کلينتڠ
+|,kelentit,کلنتيت
+|,kelentom,کلينتوم
+|,kelentong,کلينتوڠ
+|,kelentugi,کلنتوݢي
+|,kelentung,کلنتوڠ
+|,kelenung,کلنوڠ
+|,kelenungan,کلنوڠن
+|,kelenut,کلنوت
+|,kelenyar (kelenjar),کلپر
+|,kelenyuk,کلپوق
+|,kelepai,کلڤاي
+|,kelepak (bunyi),کلڤق
+|,kelepak (terkulai),کليڤق
+|,kelepal (kerpai),کلڤل
+|,kelepar (gelepar),کلڤر
+|,kelepat,کلڤت
+|,kelepayang,کلڤايڠ
+|,kelepek,کليڤيق
+|,kelepet,کليڤيت
+|,kelepik,کلڤيق
+|,kelepir,کلڤير
+|,kelepit,کلڤيت
+|,kelepot,کليڤوت
+|,kelepuk,کلڤوق
+|,kelepung,کلڤوڠ
+|,kelepur (gelepur),کلڤور
+|,keler,کيلير
+|,kelereh,کليريه
+|,kelereng,کليريڠ
+|,kelesa (sj ikan),کلسا
+|,kelesa (malas),کليسا
+|,kelesah,کليسه
+|,keleseh,کليسيه
+|,keleseh-peseh,کليسيه ـ ڤيسيه
+|,kelesek,کليسيق
+|,keletah,کليته
+|,keletahan,کليتهن
+|,keletak,کلتق
+|,keletang,کلتڠ
+|,keletap,کلتڤ
+|,keletar,کلتر
+|,keletik (geletik),کلتيق
+|,keleting,کلتيڠ
+|,keletuk,کلتوق
+|,keletung,کلتوڠ
+|,kelewang,کليواڠ
+|,keleweh,کليويه
+|,kelewer,کليوير
+|,keli,کلي
+|,kelian,کليان
+|,keliar,کليار
+|,kelias (pelias),کلياس
+|,keliat (geliat),کليات
+|,kelibang,کليبڠ
+|,kelibang-kelibut,کليبڠ ـ کليبوت
+|,kelibat (gelibat),کليبت
+|,kelicap,کليچڤ
+|,kelici,کليچي
+|,kelicu (kicu),کليچو
+|,kelidai (kenidai),کليداي
+|,keliding,کليديڠ
+|,kelido,کليدو
+|,kelih,کليه
+|,kelik,کليق
+|,kelikah (khalikah),کليکه
+|,kelikat,کليکت
+|,kelikir,کليکير
+|,keliling,کليليڠ
+|,kelilip,کليليڤ
+|,kelim,کليم
+|,kelima,کليما
+|,kelimun,کليمون
+|,kelimut,کليموت
+|,kelinang,کلينڠ
+|,kelinci,کلينچي
+|,kelincir (gelincir),کلينچير
+|,kelindan,کليندن
+|,kelinding (gelinding),کلينديڠ
+|,keling,کليڠ
+|,kelingkam (kerikam),کليڠکم
+|,kelingkang,کليڠکڠ
+|,kelingsir (gelingsir),کليڠسير
+|,kelintang (kelentang),کلينتڠ
+|,kelintar,کلينتر
+|,kelintaran,کلينترن
+|,kelinting,کلينتيڠ
+|,kelintingan,کلينتيڠن
+|,kelip,کليڤ
+|,kelipan,کليڤن
+|,kelip-kelip,کليڤ٢
+|,kelipar (gelipar),کليڤر
+|,kelipuh (kelipuk),کليڤوه
+|,kelipuk,کليڤوق
+|,kelir,کلير
+|,keliru,کليرو
+|,kekeliruan,ککليروان
+|,kelis,کليس
+|,kelisa,کليسا
+|,kelisah,کليسه
+|,kelit,کليت
+|,keliti,کليتي
+|,kelitik,کليتيق
+|,keliut (keriut),کليوت
+|,keliwat (lewat),کليوات
+|,kelmarin,کلمارين
+|,kelobak,کلوبق
+|,kelobot,کلوبوت
+|,kelocak,کلوچق
+|,kelodak,کلودق
+|,kelodan,کلودن
+|,kelohok (gelohok),کلوهوق
+|,keloi,کلوي
+|,kelok,کيلوق
+|,kelokak (keloyak),کلوکق
+|,kelokok,کلوکوق
+|,kelola,کلولا
+|,kelolaan,کلولاءن
+|,keloloh,کلولوه
+|,kelolong,کلولوڠ
+|,kelomet (kelumit),کلوميت
+|,kelompang,کلومڤڠ
+|,kelompangan,کلومڤڠن
+|,kelompok,کلومڤوق
+|,kekelompokan,ککلومڤوقن
+|,kelompokan,کلومڤوقن
+|,kelompong,کلومڤوڠ
+|,kelon (elon),کلون
+|,kelona,کلونا
+|,kelonak,کلونق
+|,kelonek (kelonet),کلونيق
+|,keloneng,کلونيڠ
+|,kelonet,کلونيت
+|,kelong,کيلوڠ
+|,kelongkang,کلوڠکڠ
+|,kelongkong,کلوڠکوڠ
+|,kelongkongan,کلوڠکوڠن
+|,kelongsong,کلوڠسوڠ
+|,kelongsor (gelongsor),کلوڠسور
+|,kelonsong (kelongsong),کلونسوڠ
+|,kelontang,کلونتڠ
+|,kelontong,کلونتوڠ
+|,kelonyor,کلوپور
+|,kelopak,کلوڤق
+|,kelorah,کلوره
+|,kelorak,کلورق
+|,kelosok,کلوسوق
+|,kelotak,کلوتق
+|,kelotok (kelotak),کلوتوق
+|,keloyak,کلويق
+|,keloyang,کلويڠ
+|,kelu,کلو
+|,kekeluan,ککلوان
+|,keluai,کلواي
+|,keluak,کلواق
+|,keluan,کلوان
+|,keluang,کلواڠ
+|,keluangsa,کلواڠسا
+|,keluar,کلوار
+|,keluaran,کلوارن
+|,keluarga,کلوارݢ
+|,kekeluargaan,ککلوارݢاءن
+|,keluat,کلوات
+|,kelub (kelab),کلوب
+|,kelubi,کلوبي
+|,kelubu,کلوبو
+|,kelubung,کلوبوڠ
+|,keluburan,کلوبورن
+|,kelucuk (kelocak),کلوچوق
+|,keluh,کلوه
+|,keluhan,کلوهن
+|,kekeluhan,ککلوهن
+|,keluh-kesah,کلوه ـ کسه
+|,kelui (keloi),کلوي
+|,keluih,کلوءيه
+|,keluik,کلوءيق
+|,keluk,کلوق
+|,kelukub (kerukup),کلوکوب
+|,kelukup,کلوکوڤ
+|,keluli,کلولي
+|,kelulu,کلولو
+|,kelulus,کلولوس
+|,kelulut,کلولوت
+|,kelum,کلوم
+|,kelumbai,کلومباي
+|,kelumbung (kelubung),کلومبوڠ
+|,kelumit,کلوميت
+|,kelumpang,کلومڤڠ
+|,kelumun,کلومون
+|,kelun,کلون
+|,keluna,کلونا
+|,kelung,کلوڠ
+|,kelunut (kelenut),کلونوت
+|,kelupas,کلوڤس
+|,kelupur (gelupur),کلوڤور
+|,keluron,کلورون
+|,keluruk,کلوروق
+|,kelurut,کلوروت
+|,kelus,کلوس
+|,kelusuh,کلوسوه
+|,kelusuh-kelasah,کلوسوه ـ کلاسه
+|,kelusuk (gelosok),کلوسوق
+|,kelut,کلوت
+|,kelut-melut,کلوت ـ ملوت
+|,kelutum,کلوتوم
+|,keluyu,کلويو
+|,keluyuk,کلويوق
+|,keluyur,کلويور
+|,kelvin,کيلۏين
+|,kem,کيم
+|,kemab,کمب
+|,kemabal (kebabal),کمابل
+|,kemaga,کماݢ
+|,kemahang (kelembahang),کماهڠ
+|,kemal,کمل
+|,kemala (gemala),کمالا
+|,kemalai (gemalai),کمالاي
+|,kemalau,کمالاو
+|,kemam,کمم
+|,kemamang,کمامڠ
+|,keman,کمن
+|,kemanakan,کمانقن
+|,kemancar,کمنچر
+|,kemancung,کمنچوڠ
+|,kemandang (kumandang),کمندڠ
+|,kemang,کمڠ
+|,kemangi,کماڠي
+|,kemangur,کماڠور
+|,kemani,کماني
+|,kemantan,کمنتن
+|,kemanten,کمنتين
+|,kemantu,کمنتو
+|,kemap,کمڤ
+|,kemar (hemar),کيمر
+|,kemarahan,کماراهن
+|,kemarau,کماراو
+|,kemaruk,کماروق
+|,kemas,کمس
+|,kekemasan,ککمسن
+|,kemasan,کمسن
+|,kemas-kemas,کمس٢
+|,kematu,کماتو
+|,kemawan,کماون
+|,kemayuh,کمايوه
+|,kembabal (kebabal),کمبابل
+|,kembacang (embacang),کمباچڠ
+|,kembahang (kelembahang),کمباهڠ
+|,kembal,کمبل
+|,kembala (gembala),کمبالا
+|,kembali,کمبالي
+|,kembalian,کمبالين
+|,kekembalian,ککمبالين
+|,kemban,کمبن
+|,kembang,کمبڠ
+|,kembangan,کمبڠن
+|,kembang-kembut,کمبڠ ـ کمبوت
+|,kembar,کمبر
+|,kembaran,کمبرن
+|,kembara,کمبارا
+|,kembayat,کمبايت
+|,kembera,کمبرا
+|,kembiang,کمبياڠ
+|,kembili,کمبيلي
+|,kembiri,کمبيري
+|,kemboja,کمبوجا
+|,kembol,کيمبول
+|,kembola,کمبولا
+|,kembu,کمبو
+|,kembuk,کمبوق
+|,kembukan,کمبوقن
+|,kembung,کمبوڠ
+|,kembur,کمبور
+|,kemburan,کمبورن
+|,kemburuan,کمبوروان
+|,kembut,کمبوت
+|,kemdian (kemudian),کمديان
+|,kemeh,کميه
+|,kemeja,کميجا
+|,kemejan,کمجن
+|,kemeli (kambeli),کملي
+|,kemeling,کمليڠ
+|,kemelut,کملوت
+|,kemendalu (bendalu),کمندالو
+|,kemendang,کمندڠ
+|,kemendelam,کمندلم
+|,kemendikai (mendikai),کمنديکاي
+|,kemendir (kemendur),کمندير
+|,kemendit (kendit),کمنديت
+|,kemengu,کمڠو
+|,kemeniran,کمنيرن
+|,kementam,کمنتم
+|,kemenyan,کمپن
+|,kemesak,کمسق
+|,kemetot,کميتوت
+|,kemi,کمي
+|,kemih,کميه
+|,kemik,کميق
+|,kemilap (gemilap),کميلڤ
+|,kemilau (kilau),کميلاو
+|,kemili (kembili),کميلي
+|,kemin,کمين
+|,keminting,کمينتيڠ
+|,kemirau,کميراو
+|,kemiri,کميري
+|,kemis,کميس
+|,kemit,کميت
+|,kemoceng (kemucing),کموچيڠ
+|,kemofisiologi,کيموفيسيولوݢي
+|,kemoja (kemboja),کموجا
+|,kemosintesis,کيموسينتيسيس
+|,kemotaksis,کيموتکسيس
+|,kemoterapi,کيموتيرافي
+|,kemotropisme,کيموتروڤيسمى
+|,kemoyang (kelemoyang),کمويڠ
+|,kempa,کمڤا
+|,kempaan,کمڤاءن
+|,kempang,کمڤڠ
+|,kempang-kempis,کمڤڠ ـ کمڤيس
+|,kempas,کمڤس
+|,kempas-kempis,کمڤس ـ کمڤيس
+|,kempeitai,کيمڤيتاي
+|,kempelang,کمڤلڠ
+|,kempelangan,کمڤلڠن
+|,kempen,کيمڤين
+|,kempening (mempening),کمڤنيڠ
+|,kemperas,کمڤرس
+|,kempiluh,کمڤيلوه
+|,kempilur,کمڤيلور
+|,kempis,کمڤيس
+|,kempit,کمڤيت
+|,kempu,کمڤو
+|,kempuh,کمڤوه
+|,kempul,کمڤول
+|,kempun,کمڤون
+|,kempunan,کمڤونن
+|,kempung,کمڤوڠ
+|,kemu,کمو
+|,kemucing,کموچيڠ
+|,kemudi,کمودي
+|,kemudian,کمودين
+|,kemudu (mengkudu),کمودو
+|,kemuk,کموق
+|,kemuk-kemik,کموق ـ کميق
+|,kemukus,کموکوس
+|,kemul,کمول
+|,kemumu,کمومو
+|,kemuncak,کمونچق
+|,kemuncup,کمونچوڤ
+|,kemundir (kemendur),کموندير
+|,kemung,کموڠ
+|,kemungkus,کموڠکوس
+|,kemuning,کمونيڠ
+|,kemunting,کمونتيڠ
+|,kemuruk,کموروق
+|,kemut,کموت
+|,kemut-kemut,کموت٢
+|,kemutul,کموتول
+|,kemutun,کموتون
+|,ken,کين
+|,kena (sentuh),کنا
+|,kena-mengena,کنا ـ مڠنا
+|,kena (awak),کينا
+|,kenahang (kenohong),کناهڠ
+|,kenal,کنل
+|,kekenalan,ککنلن
+|,kenalan,کنلن
+|,kenal-mengenal,کنل ـ مڠنل
+|,kenan,کنن
+|,kenang,کنڠ
+|,kenangan,کنڠن
+|,kenang-kenangan,کنڠ ـ کنڠن
+|,kenanga,کناڠا
+|,kenantan (kinantan),کننتن
+|,kenapa,کناڤ
+|,kenari,کناري
+|,kenarus,کناروس
+|,kenas,کنس
+|,kencah (kincah),کنچه
+|,kencana,کنچان
+|,kencang,کنچڠ
+|,kekencangan,ککنچڠن
+|,kencang-kencung,کنچڠ ـ کنچوڠ
+|,kencar,کنچر
+|,kenceng,کينچيڠ
+|,kencing,کنچيڠ
+|,kencong,کينچوڠ
+|,kencung,کنچوڠ
+|,kencur,کنچور
+|,kendaga,کنداݢ
+|,kendak,کندق
+|,kendal,کندل
+|,kendala,کندالا
+|,kendali,کندالي
+|,kendalian,کندالين
+|,kendana,کندان
+|,kendang,کندڠ
+|,kendati,کنداتي
+|,kendatipun,کنداتيڤون
+|,kendeka,کنديکا
+|,kendelam (kemendelam),کندلم
+|,kendera,کندرا
+|,kenderaan,کندراءن
+|,kenderap,کندرڤ
+|,kenderi,کندري
+|,kendi,کندي
+|,kendil,کنديل
+|,kendiri,کنديري
+|,kekendirian,ککنديرين
+|,kendit,کنديت
+|,kendo,کيندو
+|,kendong,کيندوڠ
+|,kendongan,کيندوڠن
+|,kenduduk,کندودوق
+|,kendung,کندوڠ
+|,kendungan,کندوڠن
+|,kendur,کندور
+|,kekenduran,ککندورن
+|,kenduri,کندوري
+|,kenduri-kendara,کندوري ـ کندارا
+|,kenen,کينين
+|,kenerak,کنرق
+|,kenerian,کنريان
+|,kenes,کنيس
+|,keng,کيڠ
+|,kengkalung (kalung),کڠکالوڠ
+|,kengkang,کيڠکڠ
+|,kengkarung (bengkarung),کڠکاروڠ
+|,kengkatuk,کڠکاتوق
+|,kengkeng,کيڠکيڠ
+|,kengkiak (kiak-kiak),کڠکياق
+|,kengkiang (rengkiang),کڠکياڠ
+|,kengkunang,کڠکونڠ
+|,kengwa,کيڠوا
+|,kenidai,کنيداي
+|,kenik,کنيق
+|,kenikah,کنيکه
+|,kening,کنيڠ
+|,kenini,کنيني
+|,kenit,کنيت
+|,kenjah,کنجه
+|,kenjar,کنجر
+|,kenjing,کنجيڠ
+|,kenjur (kejur),کنجور
+|,kenkacang,کنکاچڠ
+|,kenohong,کنوهوڠ
+|,kental,کنتل
+|,kekentalan,ککنتلن
+|,kentalan,کنتلن
+|,kentala,کنتالا
+|,kentang,کنتڠ
+|,kentar,کنتر
+|,kentara,کنتارا
+|,kentas (gentas),کنتس
+|,kentung,کنتوڠ
+|,kentungan,کنتوڠن
+|,kentung-kentung,کنتوڠ٢
+|,kentut,کنتوت
+|,kentut-kentut,کنتوت٢
+|,kenung,کنوڠ
+|,kenur,کنور
+|,kenya,کيپا
+|,kenyal,کپل
+|,kekenyalan,ککپلن
+|,kenyalang,کپالڠ
+|,kenyam,کپم
+|,kenyang,کپڠ
+|,kekenyangan,ککپڠن
+|,kenyap (kecap),کپڤ
+|,kenyat,کپت
+|,kenyat-kenyit,کپت ـ کپيت
+|,kenyat-kenyut,کپت ـ کپوت
+|,kenyir,کپير
+|,kenyit,کپيت
+|,kenyitan,کپيتن
+|,kenyut,کپوت
+|,kenyutan,کپوتن
+|,keok,کيوق
+|,keong,کيوڠ
+|,kep,کيڤ
+|,kepada,کڤد
+|,kepah,کڤه
+|,kepai,کڤاي
+|,kepak (sayap),کڤق
+|,kepak (patah),کيڤق
+|,kepal,کڤل
+|,kepalan,کڤلن
+|,kepala,کڤالا
+|,kepalang,کڤالڠ
+|,kepam,کڤم
+|,kepang (sj tumbuhan),کڤڠ
+|,kepang (jalinan),کيڤڠ
+|,kepangan,کيڤڠن
+|,kepang-kepot,کيڤڠ ـ کيڤوت
+|,kepar,کڤر
+|,keparat,کڤارت
+|,kepari,کڤاري
+|,kepau,کڤاو
+|,kepaya,کڤاي
+|,kepayang,کڤايڠ
+|,kepayat,کڤايت
+|,kepecong,کڤيچوڠ
+|,kepelaga (kepulaga),کڤلاݢ
+|,kepeng,کيڤيڠ
+|,keperancak,کڤرنچق
+|,kepet,کيڤيت
+|,kepialu,کڤيالو
+|,kepiat,کڤيات
+|,kepik,کڤيق
+|,kepil,کڤيل
+|,kepilan,کڤيلن
+|,kepinding,کڤينديڠ
+|,keping,کڤيڠ
+|,kepingan,کڤيڠن
+|,kepingin,کڤيڠين
+|,kepinjal,کڤينجل
+|,kepinis,کڤينيس
+|,kepir (kelepir),کڤير
+|,kepiran,کڤيرن
+|,kepis,کڤيس
+|,kepit,کڤيت
+|,kepitan,کڤيتن
+|,kepiting,کڤيتيڠ
+|,kepleset,کڤليسيت
+|,kepoh,کيڤوه
+|,kepok,کيڤوق
+|,kepol,کڤول
+|,kepompong,کڤومڤوڠ
+|,kepong,کيڤوڠ
+|,kepot (kepang),کيڤوت
+|,keprak,کڤرق
+|,keprok,کڤروق
+|,kepruk,کڤروق
+|,kepudang,کڤودڠ
+|,kepuh,کڤوه
+|,kepuk,کڤوق
+|,kepuk-kepuk,کڤوق٢
+|,kepul,کڤول
+|,kepulan,کڤولن
+|,kepulaga,کڤولاݢ
+|,kepulesan (pules),کڤولسن
+|,kepundan,کڤوندن
+|,kepundung,کڤوندوڠ
+|,kepung,کڤوڠ
+|,kepungan,کڤوڠن
+|,kepur,کڤور
+|,kepurun,کڤورون
+|,kepuyu (puyu),کڤويو
+|,kepuyuh (puyuh),کڤويوه
+|,kera,کرا
+|,kerabang,کرابڠ
+|,kerabat,قرابة
+|,kekerabatan,کقرابتن
+|,kerabik (kerabit),کرابيق
+|,kerabit,کرابيت
+|,kerabu,کرابو
+|,keracak,کراچق
+|,keracang (kerajang),کراچڠ
+|,keracap,کراچڤ
+|,keraeng,کراءيڠ
+|,kerah,کره
+|,kerahan,کرهن
+|,kerah-kerahan,کره ـ کرهن
+|,kerahi,کراهي
+|,kerai,کراي
+|,kerajang,کراجڠ
+|,kerajat,کراجت
+|,kerak,کرق
+|,kerak-kerak,کرق٢
+|,kerak-kerik,کرق ـ کريق
+|,kerak-keruk,کرق ـ کروق
+|,kerakah,کراکه
+|,kerakal,کراکل
+|,kerakap,کراکڤ
+|,kerakeling (kelakkeling),کراکليڠ
+|,keram,کرم
+|,kerama,کراما
+|,keramas,کرامس
+|,keramat,کرامت
+|,kekeramatan,ککرامتن
+|,kerambil,کرمبيل
+|,kerambit,کرمبيت
+|,kerampagi (kerempagi),کرمڤاݢي
+|,kerampang,کرمڤڠ
+|,keramunting,کرامونتيڠ
+|,keran,کرن
+|,kerana,کران
+|,kerancang,کرنچڠ
+|,kerancak,کرنچق
+|,keranda,کرندا
+|,kerandang,کرندڠ
+|,kerandut,کرندوت
+|,kerang (sj tiram),کرڠ
+|,kerang-kerangan,کرڠ ـ کرڠن
+|,kerang-kerung,کرڠ ـ کروڠ
+|,kerang-kerup,کرڠ ـ کروڤ
+|,kerang (curang),کيرڠ
+|,kerang-keroh,کيرڠ ـ کروه
+|,kerang-kerut,کيرڠ ـ کروت
+|,kerangka,کرڠک
+|,kerangkai,کرڠکاي
+|,kerangkang (kelangkang),کرڠکڠ
+|,kerangkeng,کرڠکيڠ
+|,kerangkengan,کرڠکيڠن
+|,kerangking,کرڠکيڠ
+|,kerangkingan,کرڠکيڠن
+|,kerani,کراني
+|,keranjang,کرنجڠ
+|,keranji,کرنجي
+|,keranta,کرنتا
+|,kerantai,کرنتاي
+|,keranting,کرنتيڠ
+|,kerantu,کرنتو
+|,kerantung,کرنتوڠ
+|,keranyah,کراپه
+|,kerap,کرڤ
+|,kekerapan,ککرڤن
+|,kerap-kerap,کرڤ٢
+|,kerap-kerup,کرڤ ـ کروڤ
+|,kerapan,کراڤن
+|,kerapatan,کراڤتن
+|,kerapis,کراڤيس
+|,kerapu (keropas),کراڤو
+|,keras,کرس
+|,kekerasan,ککرسن
+|,keras-leras,کراس ـ لرس
+|,keras-makas,کرس ـ ماکس
+|,keras-mangkas,کرس ـ مڠکس
+|,kerasan,کراسن
+|,kerat,کرت
+|,keratan,کرتن
+|,keratabasa,کراتاباس
+|,keratang (kertang),کراتڠ
+|,keratau (kertau),کراتاو
+|,keratin,کيراتين
+|,kerating,کراتيڠ
+|,keraton,کراتون
+|,kerau (sj bakul),کراو
+|,kerau (buah),کيراو
+|,kerawai,کراواي
+|,kerawak,کراوق
+|,kerawang,کراوڠ
+|,kerawat,کراوت
+|,kerawit,کراويت
+|,kerayung,کرايوڠ
+|,kerbang,کربڠ
+|,kerbat,کربت
+|,kerbau,کرباو
+|,kerbuk,کربوق
+|,kercap,کرچڤ
+|,kercap-kercip,کرچڤ ـ کرچيڤ
+|,kercap-kercup,کرچڤ ـ کرچوڤ
+|,kercau,کرچاو
+|,kercing,کرچيڠ
+|,kercip (kercap),کرچيڤ
+|,kercit,کرچيت
+|,kercup (kercap),کرچوڤ
+|,kercut,کرچوت
+|,kerdak,کردق
+|,kerdam,کردم
+|,kerdam-kerdum,کردم ـ کردوم
+|,kerdan (aras),کردن
+|,kerdas (keredas),کردس
+|,kerdil,کرديل
+|,kekerdilan,ککرديلن
+|,kerdip,کرديڤ
+|,kerdipan,کرديڤن
+|,kerdum,کردوم
+|,kerdus (kardus),کردوس
+|,kerdut,کردوت
+|,kere (kerai),کري
+|,kerecak (keracak),کرچق
+|,kereceng (keceng),کريچيڠ
+|,keredak,کردق
+|,keredas,کردس
+|,kerek,کيريق
+|,kerekan,کيريقن
+|,kereket,کريکيت
+|,kerekot,کريکوت
+|,kerekup (kerukup),کرکوڤ
+|,kerem (keram),کرم
+|,keremak,کرمق
+|,keremangka,کرمڠک
+|,keremi,کرمي
+|,keremot (keremut),کريموت
+|,kerempagi,کرمڤاݢي
+|,kerempung,کرمڤوڠ
+|,keremunting (kemunting),کرمونتيڠ
+|,keremut,کرموت
+|,keren,کرين
+|,kerenah,کرينه
+|,kerenam,کرنم
+|,kerenan,کرنن
+|,kerencang,کرنچڠ
+|,kerencat (terencat),کرنچت
+|,kerencing (kerencang),کرنچيڠ
+|,kerencung,کرنچوڠ
+|,kereng,کرڠ
+|,kerengga,کرڠݢ
+|,kerenggamunggu,کرڠݢاموڠݢو
+|,kerengkam,کرڠکم
+|,kerengkek,کريڠکيق
+|,kerengkiang (rengkiang),کرڠکياڠ
+|,kerengseng,کريڠسيڠ
+|,kerentam (gerentam),کرنتم
+|,kerentat (rencat),کرنتت
+|,kerenting,کرنتيڠ
+|,kerenyau (kernyau),کرپاو
+|,kerenyot,کريپوت
+|,kerepai (kerpai),کرڤاي
+|,kerepak (kerpak),کرڤق
+|,kerepas (kerpas),کرڤس
+|,kerepek,کريڤيق
+|,kerepes,کريڤيس
+|,kerepot,کريڤوت
+|,kerepuh,کرڤوه
+|,keresang (kerongsang),کرسڠ
+|,keresek,کريسيق
+|,kereseng,کريسيڠ
+|,keresot,کريسوت
+|,keret,کيريت
+|,kereta,کريتا
+|,keretan,کريتن
+|,keretek,کريتيق
+|,keretot,کريتوت
+|,keretuk,کرتوق
+|,keretup,کرتوڤ
+|,keri (sabit),کري
+|,keri (tercicir),کيري
+|,keria,کريا
+|,keriak,کرياق
+|,kerian,کريان
+|,keriang,کرياڠ
+|,keriang-keriut,کرياڠ ـ کريوت
+|,keriap,کرياڤ
+|,keriat,کريات
+|,keriat-keriut,کريات ـ کريوت
+|,keriau,کرياو
+|,kerical,کريچل
+|,kericau,کريچاو
+|,kericik,کريچيق
+|,keridas,کريدس
+|,keridau,کريداو
+|,keridik,کريديق
+|,kerih,کريه
+|,kerik,کريق
+|,kerikan,کريقن
+|,kerikal,کريکل
+|,kerikam,کريکم
+|,kerikil,کريکيل
+|,kerinan,کرينن
+|,kerincing,کرينچيڠ
+|,kering,کريڠ
+|,kekeringan,ککريڠن
+|,kering-kelontang,کريڠ ـ کلونتڠ
+|,kering-kerontang,کريڠ ـ کرونتڠ
+|,kering-kontang,کريڠ ـ کونتڠ
+|,keringat,کريڠت
+|,keringatan,کريڠتن
+|,keringsing (geringsing),کريڠسيڠ
+|,kerinjal,کرينجل
+|,kerinjang,کرينجڠ
+|,kerinjing,کرينجيڠ
+|,kerintil,کرينتيل
+|,kerinting (keriting),کرينتيڠ
+|,kerip,کريڤ
+|,keris,کريس
+|,kerisi,کريسي
+|,kerisik,کريسيق
+|,kerisikan,کريسيقن
+|,kerisin (kerising),کريسين
+|,kerising,کريسيڠ
+|,kerit,کريت
+|,keritik,کريتيق
+|,keriting,کريتيڠ
+|,keriuk,کريوق
+|,keriut,کريوت
+|,kerja,کرجا
+|,kerjang,کرجڠ
+|,kerjantara,کرجنتارا
+|,kerjap,کرجڤ
+|,kerjasama,کرجاسام
+|,kerjaya,کرجاي
+|,kerkah,کرکه
+|,kerkak,کرکق
+|,kerkau,کرکاو
+|,kerkeling (kelakkeling),کرکليڠ
+|,kerki,کرکي
+|,kerkuh (kerukup),کرکوه
+|,kerkum,کرکوم
+|,kerkup,کرکوڤ
+|,kerlap,کرلڤ
+|,kerlik,کرليق
+|,kerling,کرليڠ
+|,kerlingan,کرليڠن
+|,kerlip,کرليڤ
+|,kerlipan,کرليڤن
+|,kerma (kerama),کرما
+|,kermah,کرمه
+|,kerman,کرمن
+|,kermi,کرمي
+|,kermian,کرميان
+|,kernai,کرناي
+|,kernam (kerenam),کرنم
+|,kernap,کرنڤ
+|,kernia (kurnia),کرنيا
+|,kernu,کرنو
+|,kernyam,کرپم
+|,kernyat,کرپت
+|,kernyat-kernyut,کرپت ـ کرپوت
+|,kernyau,کرپاو
+|,kernyih,کرپيه
+|,kernying,کرپيڠ
+|,kernyit,کرپيت
+|,kernyut,کرپوت
+|,kero,کيرو
+|,kerobak,کروبق
+|,kerobak-kerabik,کروبق ـ کرابيق
+|,kerobak-kerabit,کروبق ـ کرابيت
+|,kerobak-kerobek,کروبق ـ کروبيق
+|,kerobek,کروبيق
+|,kerobok,کروبوق
+|,kerocok,کروچوق
+|,kerodak,کرودق
+|,keroh,کيروه
+|,keroi,کروي
+|,kerokot,کروکوت
+|,keromong,کروموڠ
+|,keroncang,کرونچڠ
+|,keroncong,کرونچوڠ
+|,keroncongan,کرونچوڠن
+|,keroncor,کرونچور
+|,kerong,کيروڠ
+|,kerong-kerong,کيروڠ٢
+|,kerongkong (rongkong),کروڠکوڠ
+|,kerongkongan,کروڠکوڠن
+|,kerongsang,کروڠسڠ
+|,kerongsong (kelongsong),کروڠسوڠ
+|,keronsang (kerongsang),کرونسڠ
+|,kerontang (kering),کرونتڠ
+|,kerop,کيروڤ
+|,keropak,کروڤق
+|,keropas,کروڤس
+|,keropas-kerapis,کروڤس ـ کراڤيس
+|,keropeng,کروڤيڠ
+|,keropok,کروڤوق
+|,keropos,کروڤوس
+|,kerosang (kerongsang),کروسڠ
+|,kerosek,کروسيق
+|,kerosin,کيروسين
+|,kerosok,کروسوق
+|,kerosong,کروسوڠ
+|,kerotok,کروتوق
+|,kerotot,کروتوت
+|,keroyok,کرويوق
+|,keroyokan,کرويوقن
+|,kerpai,کرڤاي
+|,kerpak,کرڤق
+|,kerpas,کرڤس
+|,kerpasan,کرڤاسن
+|,kerpati,کرڤاتي
+|,kerpatil,کرڤاتيل
+|,kerpik,کرڤيق
+|,kerpis,کرڤيس
+|,kerpuk,کرڤوق
+|,kerpus,کرڤوس
+|,kersai,کرساي
+|,kersak,کرسق
+|,kersang,کرسڠ
+|,kersani,کرساني
+|,kersik,کرسيق
+|,kersing (kereseng),کرسيڠ
+|,kersip,کرسيڤ
+|,kersuk,کرسوق
+|,kersul,کرسول
+|,kertah,کرته
+|,kertak,کرتق
+|,kertang,کرتڠ
+|,kertap,کرتڤ
+|,kertas,کرتس
+|,kertatuk,کرتاتوق
+|,kertau,کرتاو
+|,kertik,کرتيق
+|,kerting,کرتيڠ
+|,kertip,کرتيڤ
+|,kertuk,کرتوق
+|,kertung,کرتوڠ
+|,kertup,کرتوڤ
+|,kertup-kertap,کرتوڤ ـ کرتڤ
+|,kertup-kertip,کرتوڤ ـ کرتيڤ
+|,kertus,کرتوس
+|,keruai,کرواي
+|,keruan,کروان
+|,kerubian,کروبيان
+|,kerubin,کروبين
+|,kerubung,کروبوڠ
+|,kerubut,کروبوت
+|,kerucut,کروچوت
+|,kerudung,کرودوڠ
+|,kerudut,کرودوت
+|,keruh,کروه
+|,kekeruhan,ککروهن
+|,keruh-keruh,کروه٢
+|,keruing,کروءيڠ
+|,keruit,کروءيت
+|,keruk,کروق
+|,kerukan,کروقن
+|,keruk-keruk,کروق ـ کروق
+|,kerukup,کروکوڤ
+|,kerukut,کروکوت
+|,kerul,کرول
+|,kerumit,کروميت
+|,kerumuk,کروموق
+|,kerumun,کرومون
+|,kerumunan,کرومونن
+|,kerumus,کروموس
+|,kerunas,کرونس
+|,kerung,کروڠ
+|,kerung-kerang,کروڠ ـ کرڠ
+|,kerungan,کروڠن
+|,keruntang,کرونتڠ
+|,keruntang-pungkang,کرونتڠ ـ ڤوڠکڠ
+|,kerunting,کرونتيڠ
+|,keruntul,کرونتول
+|,keruntum,کرونتوم
+|,keruntung,کرونتوڠ
+|,kerunyut,کروپوت
+|,kerunyutan,کروپوتن
+|,kerup,کروڤ
+|,keruping,کروڤيڠ
+|,kerusi,کروسي
+|,kerut,کروت
+|,kerutan,کروتن
+|,kerutak,کروتق
+|,kerutu (gerutu),کروتو
+|,kerutuk,کروتوق
+|,kerutung,کروتوڠ
+|,kerutup,کروتوڤ
+|,kerutus (kerutup),کروتوس
+|,kerutut,کروتوت
+|,kes,کيس
+|,kesa,کسا
+|,kesah,کسه
+|,kesak,کسق
+|,kesal,کسل
+|,kekesalan,ککسلن
+|,kesalan,کسلن
+|,kesam (kasam),کسم
+|,kesambi,کسمبي
+|,kesami,کسامي
+|,kesan,کسن
+|,keberkesanan,کبرکسنن
+|,kekesanan,ککسنن
+|,kesandung,کسندوڠ
+|,kesang,کسڠ
+|,kesangka,کسڠک
+|,kesangsang,کسڠسڠ
+|,kesap,کسڤ
+|,kesap-kesip,کسڤ ـ کسيڤ
+|,kesasar,کساسر
+|,kesat,کست
+|,kesatan,کستن
+|,kesateria,کساتريا
+|,kekesateriaan,ککساترياءن
+|,kesek (gesek),کيسيق
+|,kesel,کسل
+|,kesenai,کسناي
+|,keseng,کيسيڠ
+|,kesep (kesip),کيسيڤ
+|,keser,کيسير
+|,kesidang,کسيدڠ
+|,kesih (kesuh),کسيه
+|,kesik (kesuk),کسيق
+|,kesik-kesik,کسيق٢
+|,kesimbukan,کسيمبوقن
+|,kesinan,کسينن
+|,kesing,کسيڠ
+|,kesinga,کسيڠا
+|,kesip,کسيڤ
+|,kesiur,کسيور
+|,keskul,کسکول
+|,kesmak,کسمق
+|,kesmaran,کسمارن
+|,kesohor,کسوهور
+|,kesomplok,کسومڤلوق
+|,kesot,کيسوت
+|,kesotan,کيسوتن
+|,kesting,کستيڠ
+|,kesturi,کستوري
+|,kesu,کسو
+|,kesu-kesi,کسو ـ کسي
+|,kesuari,کسواري
+|,kesuh,کسوه
+|,kesuh-kesih,کسوه ـ کسيه
+|,kesuk,کسوق
+|,kesuk-kesik,کسوق ـ کسيق
+|,kesum,کسوم
+|,kesuma,کسوما
+|,kesumat,کسومت
+|,kesumba,کسومبا
+|,kesup,کسوڤ
+|,kesusu,کسوسو
+|,kesut,کسوت
+|,ketaban,کتابن
+|,ketagih (tagih),کتاݢيه
+|,ketah (kutaha),کته
+|,ketai,کتاي
+|,ketak,کتق
+|,ketakung,کتاکوڠ
+|,ketam,کتم
+|,ketambak,کتمبق
+|,ketampi,کتمڤي
+|,ketan,کتن
+|,ketang,کتڠ
+|,ketap,کتڤ
+|,ketapak,کتاڤق
+|,ketapang,کتاڤڠ
+|,ketapi,کتاڤي
+|,ketapik,کتاڤيق
+|,ketar,کتر
+|,ketara (kentara),کتارا
+|,keketaraan,ککتاراءن
+|,ketarap,کتارڤ
+|,ketat,کتت
+|,keketatan,ککتتن
+|,ketaton,کتاتون
+|,ketawa,کتاوا
+|,ketaya,کتايا
+|,ketayap,کتايڤ
+|,ketegar,کتݢر
+|,ketek (kera),کتيق
+|,ketek (kecil),کيتيق
+|,ketel,کيتيل
+|,ketela,کتيلا
+|,ketemu,کتمو
+|,ketemuan,کتموان
+|,keteng,کيتيڠ
+|,ketengan,کيتيڠن
+|,ketenggah,کتڠݢه
+|,ketenun,کتنون
+|,ketepeng,کتيڤيڠ
+|,ketepil,کتڤيل
+|,keteping,کتڤيڠ
+|,ketering,کتريڠ
+|,ketetel,کتيتيل
+|,keti,کتي
+|,keti-keti,کتي٢
+|,ketiak,کتياق
+|,ketial,کتيال
+|,ketiap,کتياڤ
+|,ketiau,کتياو
+|,ketiding,کتيديڠ
+|,ketik,کتيق
+|,ketikan,کتيقن
+|,ketika,کتيک
+|,ketil,کتيل
+|,ketilan,کتيلن
+|,ketilang,کتيلڠ
+|,ketimbung,کتيمبوڠ
+|,ketimpung (ketimbung),کتيمڤوڠ
+|,ketimun,کتيمون
+|,keting,کتيڠ
+|,ketingting,کتيڠتيڠ
+|,ketip,کتيڤ
+|,ketip-ketip,کتيڤ٢
+|,ketipung,کتيڤوڠ
+|,ketirah,کتيره
+|,ketis,کتيس
+|,ketitir,کتيتير
+|,ketitiran,کتيتيرن
+|,ketoka (ketuka),کتوک
+|,ketola,کتولا
+|,ketongkeng (tongkeng),کتوڠکيڠ
+|,ketopong,کتوڤوڠ
+|,ketoprak,کتوڤرق
+|,ketot,کيتوت
+|,ketu,کتو
+|,ketua,کتوا
+|,ketual (katwal),کتوال
+|,ketuat,کتوات
+|,ketuau,کتواو
+|,ketuban,کتوبن
+|,ketuha (ketua),کتوها
+|,ketuhar,کتوهر
+|,ketui,کتوءي
+|,ketuir,کتوءير
+|,ketuk,کتوق
+|,ketukan,کتوقن
+|,ketuk-ketuk,کتوق٢
+|,ketuka (setoka),کتوک
+|,ketul,کتول
+|,ketulan,کتولن
+|,ketum,کتوم
+|,ketumbak,کتومبق
+|,ketumbar,کتومبر
+|,ketumbe,کتومبى
+|,ketumbi (ketumbe),کتومبي
+|,ketumbit,کتومبيت
+|,ketumbu,کتومبو
+|,ketumbuk,کتومبوق
+|,ketun,کتون
+|,ketung,کتوڠ
+|,ketungging,کتوڠݢيڠ
+|,ketup,کتوڤ
+|,ketup-ketup,کتوڤ٢
+|,ketupat,کتوڤت
+|,ketupuk,کتوڤوق
+|,ketur,کتور
+|,ketus,کتوس
+|,ketut,کتوت
+|,ketutu,کتوتو
+|,ketutuh,کتوتوه
+|,kewalahan,کوالهن
+|,keweh,کيويه
+|,kha,خاء
+|,khabar,خبر
+|,khabarkan,خبرکن
+|,khabuli (kebuli),خبولي
+|,khadam,خدم
+|,khair,خير
+|,khairat,خيرات
+|,khakan,خقن
+|,khaki,خاکي
+|,khalaik (khalayak),خلاءيق
+|,khalak (cipta),خلق
+|,khalak (tebus talak),خلع
+|,khalambak (kelembak),خلمبق
+|,khalasi,خلاسي
+|,khalasyi,خلاشي
+|,khalayak,خلايق
+|,khali,خالي
+|,khalifah,خليفه
+|,kekhalifahan,کخليفهن
+|,khalifatullah,خليفة الله
+|,khalikah,خليقه
+|,khalil,خليل
+|,khalis,خليص
+|,khalkah (halkah),خلقه
+|,khalwah,خلوة
+|,khalwat,خلوة
+|,khamar,خمر
+|,khamir,خمير
+|,khamsin,خمسين
+|,khanah,خانه
+|,khanduri (kenduri),خندوري
+|,khanjar,خنجر
+|,kharab,خرب
+|,kharaj,خرج
+|,kharajat (kerajat),خراجة
+|,kharsani (kurasani),خرساني
+|,khas,خاص
+|,kekhasan,کخاصن
+|,khasah,خاصه
+|,khasiat,خاصيت
+|,khat,خط
+|,khatam,ختم
+|,khataman,ختمن
+|,khatan,ختن
+|,khatib,خطيب
+|,khatifah,خطيفه
+|,khatir (khuatir),خاطر
+|,khatulistiwa,خط الاستواء
+|,khauf,خوف
+|,khawatir (khuatir),خواطر
+|,khayal,خيال
+|,kekhayalan,کخيالن
+|,khayalan,خيالن
+|,khayali,خيالي
+|,khazanah,خزانه
+|,khemah,خيمه
+|,khenduri (kenduri),خندوري
+|,khi,خاي
+|,khianat,خيانت
+|,khidmat,خدمت
+|,kekhidmatan,کخدمتن
+|,khilaf,خلاف
+|,kekhilafan,کخلافن
+|,khilafah (khalifah),خلافة
+|,khilafiah,خلافيه
+|,khinzir,خنزير
+|,khisit,خيسيت
+|,khitan (khatan),ختان
+|,khittah,خطة
+|,khizanah (khazanah),خزانة
+|,khizanat (khazanah),خزانة
+|,khizid (khisit),خيزيد
+|,khizit (khisit),خيزيت
+|,khoja,خوجا
+|,khojah,خوجه
+|,khuatir,خواطير
+|,kekhuatiran,کخواطيرن
+|,khudu,خضوع
+|,khulak (khuluk),خلع
+|,khuldi,خلدي
+|,khuluk (tebus talak),خلع
+|,khuluk (pekerti),خلق
+|,khunsa,خنثى
+|,khurafat,خرافة
+|,khusmat (kesumat),خصمة
+|,khusus,خصوص
+|,kekhususan,کخصوصن
+|,khusyuk,خشوع
+|,kekhusyukan,کخشوعن
+|,khutbah,خطبه
+|,khuwatir (khuatir),خواطير
+|,ki,کي
+|,kia,کيا
+|,kia-kia,کيا٢
+|,kiah,کياه
+|,kiai,کياءي
+|,kiak,کياق
+|,kiak-kiak,کياق٢
+|,kial,کيال
+|,kialan,کيالن
+|,kial-kial,کيال٢
+|,kiam,قيام
+|,kiamat,قيامة
+|,kiambang,کيامبڠ
+|,kian,کيان
+|,kesekian,کسکيان
+|,kiang,کياڠ
+|,kiang-kiut,کياڠ ـ کيوت
+|,kiani,کياني
+|,kiap,کياڤ
+|,kias,قياس
+|,kiasan,قياسن
+|,kiasi,قياسي
+|,kiat,کيات
+|,kiaupau,کياوڤاو
+|,kibang,کيبڠ
+|,kibang-kibut,کيبڠ ـ کيبوت
+|,kibar,کيبر
+|,kibaran,کيبرن
+|,kibas,کيبس
+|,kibasan,کيبسن
+|,kibir,کيبير
+|,kiblat,قبلة
+|,kibriah,کبريه
+|,kibriak,کبرياء
+|,kibti,ڤبطي
+|,kicak,کيچق
+|,kicak-kicau,کيچق ـ کيچاو
+|,kicang,کيچڠ
+|,kicang-kecoh,کيچڠ ـ کيچوه
+|,kicang-kicu,کيچڠ ـ کيچو
+|,kicap,کيچڤ
+|,kicar,کيچر
+|,kicar-kicar,کيچر٢
+|,kicau,کيچاو
+|,kicauan,کيچاوان
+|,kici,کيچي
+|,kicu,کيچو
+|,kicut,کيچوت
+|,kidab,کيدب
+|,kida,کيدا
+|,kida-kida,کيدا٢
+|,kidal,کيدل
+|,kidang,کيدڠ
+|,kidemat,کيدمت
+|,kidul,کيدول
+|,kidung,کيدوڠ
+|,kidungan,کيدوڠن
+|,kifarah,کفارة
+|,kifarat,کفارة
+|,kifayah,کفاية
+|,kihanat,کهانة
+|,kijai,کيجاي
+|,kijang,کيجڠ
+|,kijil,کيجيل
+|,kijing,کيجيڠ
+|,kijip (kejap),کيجيڤ
+|,kikir,کيکير
+|,kekikiran,ککيکيرن
+|,kikiran,کيکيرن
+|,kikis,کيکيس
+|,kikisan,کيکيسن
+|,kikuk,کيکوق
+|,kila,کيلا
+|,kilah,کيله
+|,kilai,کيلاي
+|,kilala,کيلالا
+|,kilan,کيلن
+|,kilang,کيلڠ
+|,kilangan,کيلڠن
+|,kilangin,کيلاڠين
+|,kilap,کيلڤ
+|,kilar,کيلر
+|,kilas,کيلس
+|,kilat,کيلت
+|,kilatan,کيلتن
+|,kilau,کيلاو
+|,kilauan,کيلاوان
+|,kilau-kemilau,کيلاو ـ کميلاو
+|,kilau-kilauan,کيلاو ـ کيلاوان
+|,kilau-mengilau,کيلاو ـ مڠيلاو
+|,kili,کيلي
+|,kekili,ککيلي
+|,kili-kili,کيلي٢
+|,kilik,کيليق
+|,kilir,کيلير
+|,kiliran,کيليرن
+|,kilo,کيلو
+|,kiloan,کيلوان
+|,kilo-,کيلو ـ 
+|,kilobait,کيلوباءيت
+|,kilogram,کيلوݢرم
+|,kilohertz,کيلوهز
+|,kilokalori,کيلوکالوري
+|,kiloliter,کيلوليتر
+|,kilometer,کيلوميتر
+|,kilotan,کيلوتن
+|,kilovolt,کيلوۏولت
+|,kilowatt,کيلووات
+|,kilowatt-jam,کيلووات ـ جم
+|,kilt,کيلت
+|,kima,کيما
+|,kimah,کيمه
+|,kimantu,کيمنتو
+|,kimat (kimah),کيمت
+|,kimbang,کيمبڠ
+|,kimbul,کيمبول
+|,kimia,کيميا
+|,kimiawi,کيمياوي
+|,kimkha,کيمخا
+|,kimlo,کيملو
+|,kimono,کيمونو
+|,kimpa (kimpal),کيمڤا
+|,kimpal,کيمڤل
+|,kimpalan,کيمڤلن
+|,kimpul,کيمڤول
+|,kimput,کيمڤوت
+|,kinang,کينڠ
+|,kinantan,کيننتن
+|,kinayah,کنايه
+|,kinca,کينچا
+|,kincah,کينچه
+|,kincak,کينچق
+|,kincang,کينچڠ
+|,kincat (kincak),کينچت
+|,kincau,کينچاو
+|,kincir,کينچير
+|,kinciran,کينچيرن
+|,kincit,کينچيت
+|,kincung,کينچوڠ
+|,kincup,کينچوڤ
+|,kindap,کيندڤ
+|,kinematik,کينيماتيک
+|,kinesik,کينيسيک
+|,kinetik,کينيتيک
+|,kinetin,کينيتين
+|,kingka (kimkha),کيڠکا
+|,kingking,کيڠکيڠ
+|,kingkip,کيڠکيڤ
+|,kingkit,کيڠکيت
+|,kini,کيني
+|,kekinian,ککنين
+|,kining,کينيڠ
+|,kinja,کينجا
+|,kinjang,کينجڠ
+|,kinjat,کينجت
+|,kintal (kuintal),کينتل
+|,kinyang,کيپڠ
+|,kios,کيوس
+|,kip,کيڤ
+|,kipai,کيڤاي
+|,kipan,کيڤن
+|,kipang,کيڤڠ
+|,kipar,کيڤر
+|,kipas,کيڤس
+|,kipasan,کيڤسن
+|,kiprat,کيڤرت
+|,kipsiau,کيڤسياو
+|,kipu,کيڤو
+|,kir (dikir),کير
+|,kira,کيرا
+|,kiraan,کيراءن
+|,kira-kira,کيرا٢
+|,kira-kiraan,کيرا ـ کيراءن
+|,kirai,کيراي
+|,kirana,کيران
+|,kirap,کيرڤ
+|,kiras,کيرس
+|,kirau,کيراو
+|,kirbat,کيربت
+|,kiri,کيري
+|,kirik,کيريق
+|,kirim,کيريم
+|,kiriman,کيريمن
+|,kirip,کيريڤ
+|,kirmizi,کيرميزي
+|,kiru,کيرو
+|,kiruh,کيروه
+|,kirung,کيروڠ
+|,kiryah,کرية
+|,kiryat,کرية
+|,kisa,کيسا
+|,kisah,قيصه
+|,kisai,کيساي
+|,kisaian,کيساين
+|,kisar,کيسر
+|,kisaran,کيسرن
+|,kisas,قصاص
+|,kisi,کيسي
+|,kekisi,ککيسي
+|,kisi-kisi,کيسي٢
+|,kisip (kesip),کيسيڤ
+|,kisit,کيسيت
+|,kismat,قسمة
+|,kismet,قسمة
+|,kismis,کيسميس
+|,kisut,کيسوت
+|,kiswah,کسوه
+|,kit,کيت
+|,kita,کيت
+|,kekitaan,ککيتاءن
+|,kitab,کتاب
+|,kitabi,کتابي
+|,kitai,کيتاي
+|,kitang,کيتڠ
+|,kitang-kitang,کيتڠ٢
+|,kitar,کيتر
+|,kitaran,کيترن
+|,kiting,کيتيڠ
+|,kitiran,کيتيرن
+|,kiu,کيو
+|,kiub,کيوب
+|,kiuk,کيوق
+|,kiung,کيوڠ
+|,kiut,کيوت
+|,kiutan,کيوتن
+|,kiwi,کيوي
+|,kizib,کذب
+|,klac,کلچ
+|,klaras,کلارس
+|,klarinet,کلارينيت
+|,klasifikasi,کلاسيفيکاسي
+|,klasik,کلاسيک
+|,klasikal,کلاسيکل
+|,klausa,کلاوسا
+|,klaustrofobia,کلاءوستروفوبيا
+|,klavikel,کلاۏيکل
+|,kleng,کليڠ
+|,kleptomania,کليڤتومانيا
+|,kleptomaniak,کليڤتومانياک
+|,klien,کليئن
+|,klik,کليک
+|,klimaks,کليمکس
+|,klimatologi,کليماتولوݢي
+|,klimis,کليميس
+|,klimograf,کليموݢرف
+|,klinik,کلينيک
+|,klinikal,کلينيکل
+|,klinisian,کلينيسيان
+|,klinometer,کلينوميتر
+|,klinostat,کلينوستت
+|,klip,کليڤ
+|,klise,کليسي
+|,klitik,کليتيک
+|,kloaka,کلواک
+|,klobot,کلوبوت
+|,klon,کلون
+|,klorela,کلورلا
+|,klorida,کلوريدا
+|,klorin,کلورين
+|,klorofil,کلوروفيل
+|,klorofluorokarbon,کلوروفلوروکربون
+|,kloroform,کلوروفورم
+|,kloroprena,کلوروڤرنا
+|,kloropsia,کلوروڤسيا
+|,kloset,کلوسيت
+|,klover,کلوۏر
+|,klu,کلو
+|,knob (kenop),نوب
+|,knot,نوت
+|,koa,کوا
+|,koak,کواق
+|,koala,کوالا
+|,kobah,کوبه
+|,kobak,کوبق
+|,kobakan,کوبقن
+|,kobalamin,کوبالمين
+|,kobalt,کوبلت
+|,kobang (gobang),کوبڠ
+|,kobar,کوبر
+|,kobaran,کوبرن
+|,kobar-kabir,کوبر ـ کابير
+|,koboi,کوبوي
+|,kekoboi-koboian,ککوبوي ـ کوبوين
+|,kobok,کوبوق
+|,kobokan,کوبوقن
+|,koc,کوچ
+|,kocah,کوچه
+|,kocah-kacih,کوچه ـ کاچيه
+|,kocak,کوچق
+|,kocakan,کوچقن
+|,kocek,کوچيق
+|,kocekan,کوچيقن
+|,koci,کوچي
+|,kocoh,کوچوه
+|,kocoh-ganyah,کوچوه ـ ݢاپه
+|,kocok,کوچوق
+|,kocong,کوچوڠ
+|,kod,کود
+|,kodak,کودق
+|,kodein (kodeina),کوديئين
+|,kodeina,کوديئينا
+|,kodek,کوديق
+|,kodeks,کوديکس
+|,kodi,کودي
+|,kodian,کودين
+|,kodifikasi,کوديڤيکاسي
+|,kodikologi,کوديکولوݢي
+|,kodisil,کوديسيل
+|,kodok,کودوق
+|,kodok-kodok,کودوق٢
+|,koefisien,کوايفيسين
+|,koenzim,کواينزيم
+|,kofaktor,کوفکتور
+|,kognat,کوݢنت
+|,kognisi,کوݢنيسي
+|,kognitif,کوݢنيتيف
+|,koheren,کوهيرن
+|,kohesi,کوهيسي
+|,kohol,کوهول
+|,kohong,کوهوڠ
+|,koir,کواير
+|,koja,کوجا
+|,kojoh,کوجوه
+|,kojol,کوجول
+|,kok,کوق
+|,kokain (kokaina),کوکاءين
+|,kokaina,کوکاينا
+|,kokak,کوکق
+|,kokang,کوکڠ
+|,koki,کوکي
+|,kokila,کوکيلا
+|,koklea,کوکليا
+|,koko,کوکو
+|,kokok,کوکوق
+|,kokokan,کوکوقن
+|,kokol,کوکول
+|,kokosan,کوکوسن
+|,kokot,کوکوت
+|,kokpit,کوکڤيت
+|,kokrom,کوکروم
+|,koksiks,کوکسيکس
+|,koktel,کوکتيل
+|,kokun,کوکون
+|,kokurikulum,کوکوريکولوم
+|,kokus,کوکوس
+|,kol,کول
+|,kola,کولا
+|,kolaborasi,کولابوراسي
+|,kolaboratif,کولابوراتيف
+|,kolaborator,کولابوراتور
+|,kolah,کوله
+|,kolaj,کولج
+|,kolak,کولق
+|,kolak-kalik,کولق ـ کاليق
+|,kolam,کولم
+|,kolang,کولڠ
+|,kolang-kalik,کولڠ ـ کاليق
+|,kolang-kaling,کولڠ ـ کاليڠ
+|,kolar,کولر
+|,kolateral,کولاترل
+|,kole,کولي
+|,koleh,کوليه
+|,kekoleh,ککوليه
+|,koleh-koleh,کوليه٢
+|,kolej,کوليج
+|,kolek,کوليق
+|,koleksi,کوليکسي
+|,kolektif,کوليکتيف
+|,kolektivisme,کوليکتيۏيسمى
+|,kolembing,کولمبيڠ
+|,koleng,کوليڠ
+|,kolenkima,کولينکيما
+|,kolera,کوليرا
+|,kolesistektomi,کوليسيستيکتومي
+|,kolesom,کوليسوم
+|,kolesterin,کوليسترين
+|,kolesterol,کوليسترول
+|,kolitis,کوليتيس
+|,kolofon,کولوفون
+|,koloh,کولوه
+|,koloh-koloh,کولوه٢
+|,koloid,کولوءيد
+|,kolok,کولوق
+|,kolokan,کولوقن
+|,kolokasi,کولوکاسي
+|,kolokial,کولوکيال
+|,kolokium,کولوکيوم
+|,kolon,کولون
+|,kolonel,کولونل
+|,kolong,کولوڠ
+|,kekolong,ککولوڠ
+|,kolongan,کولوڠن
+|,kolong-kolong,کولوڠ٢
+|,koloni,کولوني
+|,kolonial,کولونيال
+|,kolonialis,کولونياليس
+|,kolonialisme,کولونياليسمى
+|,kolonis,کولونيس
+|,kolonisasi,کولونيساسي
+|,kolonisir,کولونيسير
+|,kolor,کولور
+|,koloran,کولورن
+|,kolorimeter,کولوريميتر
+|,kolorimetri,کولوريميتري
+|,kolostrum,کولوستروم
+|,kolot,کولوت
+|,kekolotan,ککولوتن
+|,kolum,کولوم
+|,kolumnis,کولومنيس
+|,koma,کوما
+|,koma-koma,کوما٢
+|,komak,کومق
+|,komak-kamik,کومق ـ کاميق
+|,komala (gemala),کومالا
+|,koman,کومن
+|,komandan,کومندن
+|,komander,کومندر
+|,komando,کومندو
+|,komat (kumat),کومت
+|,komat-kamit,کومت ـ کاميت
+|,kombala,کومبالا
+|,kombinasi,کومبيناسي
+|,kombo,کومبو
+|,komedi,کوميدي
+|,komen,کومين
+|,komeng,کوميڠ
+|,komensal,کومينسل
+|,komensalisme,کومينساليسمى
+|,komentar,کومينتر
+|,komentator,کومينتاتور
+|,komersial,کومرسيال
+|,komersialisasi,کومرسياليساسي
+|,komersialisme,کومرسياليسمى
+|,komersil (komersial),کومرسيل
+|,komes,کوميس
+|,komet,کوميت
+|,komidi,کوميدي
+|,komik,کوميک
+|,komisar,کوميسر
+|,komisen,کوميسين
+|,komisi,کوميسي
+|,komited,کوميتد
+|,komitmen,کوميتمن
+|,komkoma (koma-koma),کومکوما
+|,komoditi,کوموديتي
+|,komodo,کومودو
+|,komodor,کومودور
+|,komofit,کوموفيت
+|,komoi,کوموي
+|,kompa,کومڤا
+|,kompak,کومڤق
+|,kompang,کومڤڠ
+|,komparatif,کومڤاراتيف
+|,kompartmen,کومڤرتمن
+|,kompas,کومڤس
+|,kompaun,کومڤاءون
+|,kompelin,کومڤلين
+|,kompendium,کومڤينديوم
+|,kompeni,کومڤني
+|,kompensasi,کومڤينساسي
+|,komperang,کومڤرڠ
+|,kompeten,کومڤيتن
+|,kompetitif,کومڤيتيتيف
+|,kompleks,کومڤليکس
+|,kekompleksan,ککومڤليکسن
+|,kompleksiti,کومڤليکسيتي
+|,komplikasi,کومڤليکاسي
+|,komplit,کومڤليت
+|,komplot,کومڤلوت
+|,komplotan,کومڤلوتن
+|,kompok,کومڤوق
+|,kompol,کومڤول
+|,komponen,کومڤونن
+|,kompong,کومڤوڠ
+|,kompor,کومڤور
+|,kompos,کومڤوس
+|,komposer,کومڤوسر
+|,komposisi,کومڤوسيسي
+|,komposit,کومڤوسيت
+|,kompot,کومڤوت
+|,komprehensif,کومڤريهينسيف
+|,kompres,کومڤريس
+|,kompromi,کومڤرومي
+|,komputer,کومڤوتر
+|,komputerisasi,کومڤوتريساسي
+|,komrad,کومرد
+|,komunal,کومونل
+|,komunalisme,کوموناليسمى
+|,komunikasi,کومونيکاسي
+|,komunikatif,کومونيکاتيف
+|,kekomunikatifan,ککومونيکاتيفن
+|,komunikator,کومونيکاتور
+|,komunike,کومونيکي
+|,komunis,کومونيس
+|,komunisme,کومونيسمى
+|,komuniti,کومونيتي
+|,komutator,کوموتاتور
+|,komuter,کوموتر
+|,kon,کون
+|,konan,کونن
+|,koncah,کونچه
+|,koncet (kuncit),کونچيت
+|,konco,کونچو
+|,kondai (kundai),کونداي
+|,konda kondi,کونداکوندي
+|,kunde (kundai),کوندي
+|,kondem,کونديم
+|,kondensasi,کوندينساسي
+|,kondenser,کوندينسر
+|,kondil,کونديل
+|,kondisi,کونديسي
+|,kondo,کوندو
+|,kondom,کوندوم
+|,kondominium,کوندومينيوم
+|,kondotel,کوندوتيل
+|,kondritis,کوندريتيس
+|,konduit,کوندوءيت
+|,konduksi,کوندوکسي
+|,kekonduksian,ککوندوکسين
+|,konduksian,کوندوکسين
+|,konduktif,کوندوکتيف
+|,konduktor,کوندوکتور
+|,kondusif,کوندوسيف
+|,konek,کونيق
+|,koneng,کونيڠ
+|,konfederasi,کونفيدراسي
+|,konfeksi,کونفيکسي
+|,konferensi,کونفرينسي
+|,konfeti,کونفيتي
+|,konfigurasi,کونفيݢوراسي
+|,konflik,کونفليک
+|,konfrontasi,کونفرونتاسي
+|,konga,کوڠا
+|,kongenital,کونݢينيتل
+|,kongkalikung,کوڠکاليکوڠ
+|,kongkalingkung,کوڠکاليڠکوڠ
+|,kongkang,کوڠکڠ
+|,kongkek,کوڠکيق
+|,kongkiak,کوڠکياق
+|,kongkoan,کوڠکوان
+|,kongkol (sekongkol),کوڠکول
+|,kongkong,کوڠکوڠ
+|,kongkongan,کوڠکوڠن
+|,konglomerat,کڠݢلومرت
+|,kongres,کوڠݢريس
+|,kongruen,کوڠݢروءين
+|,kongsi,کوڠسي
+|,kongsian,کوڠسين
+|,konifer,کونيفر
+|,konjunktiva,کونجونکتيۏا
+|,konjunktivitis,کونجونکتيۏيتيس
+|,konklusif,کونکلوسيف
+|,konkologi,کونکولوݢي
+|,konkordans,کونکوردنس
+|,konkos,کونکوس
+|,konkrit,کوڠکريت
+|,kekonkritan,ککوڠکريتن
+|,konoid,کونوءيد
+|,konon,کونون
+|,kononkan,کونونکن
+|,konotasi,کونوتاسي
+|,konotatif,کونوتاتيف
+|,konsekuen,کونسيکوئن
+|,konsekuensi,کونسيکوئنسي
+|,konsensus,کونسينسوس
+|,konsentrasi,کونسينتراسي
+|,konsep,کونسيڤ
+|,konsepsi,کونسيڤسي
+|,konseptual,کونسيڤتوال
+|,konseptualisasi,کونسيڤتواليساسي
+|,konsert,کونسرت
+|,konsertina,کونسرتينا
+|,konserto,کونسرتو
+|,konservasi,کونسرۏاسي
+|,konservatif,کونسرۏاتيف
+|,konservatisme,کونسرۏاتيسمى
+|,konsesi,کونسيسي
+|,konsignasi,کونسيݢناسي
+|,konsisten,کونسيستن
+|,kekonsistenan,ککونسيستنن
+|,konsistensi,کونسيستنسي
+|,konsol,کونسول
+|,konsolidasi,کونسوليداسي
+|,konsonan,کونسونن
+|,konsortium,کونسورتيوم
+|,konspirasi,کونسڤيراسي
+|,konspirator,کونسڤيراتور
+|,konstabel,کونستابل
+|,konstantan,کونستنتن
+|,konstituen,کونستيتوئن
+|,konstitusi,کونستيتوسي
+|,konstitusionalisme,کونستيتوسيوناليسمى
+|,konstruksi,کونستروکسي
+|,konstruktif,کونستروکتيف
+|,konsul,کونسول
+|,konsulat,کونسولت
+|,konsultan,کونسولتن
+|,konsultansi,کونسولتنسي
+|,konsumerisme,کونسومريسمى
+|,kontak,کونتک
+|,kontal,کونتل
+|,kontal-kantil,کونتل ـ کنتيل
+|,kontaminasi,کونتاميناسي
+|,kontan,کونتن
+|,kontang,کونتڠ
+|,kekontangan,ککونتڠن
+|,kontangan,کونتڠن
+|,kontang-kanting,کونتڠ ـ کنتيڠ
+|,konteks,کونتيکس
+|,kontekstual,کونتيکستوال
+|,kontemplasi,کونتيمڤلاسي
+|,kontemporari,کونتيمڤوراري
+|,kontena,کونتينا
+|,konteng,کونتيڠ
+|,kontes,کونتيس
+|,kontet,کونتيت
+|,kontingensi,کونتينݢنسي
+|,kontinjen,کونتينجن
+|,kontinuiti,کونتينويتي
+|,kontinum,کونتينوم
+|,kontol,کونتول
+|,kontong,کونتوڠ
+|,kontot,کونتوت
+|,kontra,کونترا
+|,kontraban,کونترابن
+|,kontradiksi,کونتراديکسي
+|,kontrak,کونترک
+|,kontraksi,کونترکسي
+|,kontraktor,کونترکتور
+|,kontraktual,کونترکتوال
+|,kontralto,کونترلتو
+|,kontras,کونترس
+|,kontrasepsi,کونتراسيڤسي
+|,kontraseptif,کونتراسيڤتيف
+|,kontrastif,کونترستيف
+|,kontribusi,کونتريبوسي
+|,kontrol,کونترول
+|,kontrolir,کونترولير
+|,kontroversi,کونتروۏرسي
+|,kontroversial,کونتروۏرسيال
+|,kontur,کونتور
+|,kontusi,کونتوسي
+|,konvensi,کونۏينسي
+|,konvensional,کونۏينسيونل
+|,konvensyen,کونۏينشن
+|,konvoi,کونۏوي
+|,konvokesyen,کونۏوکيشن
+|,konvulsi,کونۏولسي
+|,konyan,کونيان
+|,konyol,کوپول
+|,konyong,کوپوڠ
+|,ko-op,کو ـ اوڤ
+|,koordinasi,کوءورديناسي
+|,koordinat,کوءوردينت
+|,koordinator,کوءورديناتور
+|,kop,کوڤ
+|,kopah,کوڤه
+|,kopak,کوڤق
+|,kopak-kapik,کوڤق ـ کاڤيق
+|,kopal,کوڤل
+|,kopek,کوڤيق
+|,kopeng,کوڤيڠ
+|,kopepod,کوڤيڤود
+|,koper,کوڤر
+|,koperal,کوڤرل
+|,koperasi,کوڤراسي
+|,koperatif,کوڤراتيف
+|,koperator,کوڤراتور
+|,kopet,کوڤيت
+|,kopi,کوڤي
+|,kopiah,کوڤياه
+|,kopitiam,کوڤيتيم
+|,koplet,کوڤليت
+|,kopok,کوڤوق
+|,kopor,کوڤور
+|,kopra,کوڤرا
+|,koprofit,کوڤروفيت
+|,kopula,کوڤولا
+|,kopulasi,کوڤولاسي
+|,kopyor,کوڤيور
+|,kor,کور
+|,korah,کوره
+|,korakoid,کوراکوءيد
+|,koran,کورن
+|,korapsi,کورڤسي
+|,korat,کورت
+|,korban,قربان
+|,kord,کود
+|,kordial,کورديال
+|,kordofon,کوردوفون
+|,korduroi,کوردوروي
+|,korek,کوريق
+|,korekan,کوريقن
+|,korek-korek,کوريق٢
+|,koreksi,کوريکسي
+|,koreksian,کوريکسين
+|,korektif,کوريکتيف
+|,korektor,کوريکتور
+|,korelasi,کوريلاسي
+|,koreng,کوريڠ
+|,korengan,کوريڠن
+|,koreng-moreng,کوريڠ ـ موريڠ
+|,koreografer,کوريوݢرافر
+|,koreografi,کوريوݢرافي
+|,kores (gores),کوريس
+|,koresponden,کوريسڤوندن
+|,korespondensi,کوريسڤوندنسي
+|,koret,کوريت
+|,kori,کوري
+|,koridor,کوريدور
+|,kornea,کورنيا
+|,kornet,کورنيت
+|,kornis,کورنيس
+|,korob,کوروب
+|,koroid,کوروءيد
+|,korok,کوروق
+|,kekorok,ککوروق
+|,korok-korok,کوروق٢
+|,korola,کورولا
+|,korona,کورونا
+|,koronari,کوروناري
+|,koronavirus,کوروناۏيروس
+|,koroner,کورونير
+|,korong,کوروڠ
+|,korporat,کورڤورت
+|,korpus,کورڤوس
+|,kospuskel,کورڤوسکل
+|,korsaj,کورسج
+|,korset,کورسيت
+|,korsi (kerusi),کورسي
+|,korteks,کورتيکس
+|,kortison,کورتيسون
+|,korundum,کوروندوم
+|,korup,کوروڤ
+|,korupsi,کوروڤسي
+|,korus,کوروس
+|,korvet,کورۏيت
+|,kos,کوس
+|,kosa,کوسا
+|,kosak,کوسق
+|,kosak-kasik,کوسق ـ کاسيق
+|,kosambi (kesambi),کوسمبي
+|,kosar,کوسر
+|,kosek,کوسيق
+|,kosekan,کوسيکن
+|,kosel,کوسيل
+|,kosen (kusyen),کوسين
+|,kosinus,کوسينوس
+|,kosmetik,کوسميتيک
+|,kosmetologi,کوسميتولوݢي
+|,kosmik,کوسميک
+|,kosmogoni,کوسموݢوني
+|,kosmografi,کوسموݢرافي
+|,kosmokimia,کوسموکيميا
+|,kosmologi,کوسمولوݢي
+|,kosmonaut,کوسموناءوت
+|,kosmopolitan,کوسموڤوليتن
+|,kekosmopolitanan,ککوسموڤوليتنن
+|,kosmos,کوسموس
+|,kosong,کوسوڠ
+|,kekosongan,ککوسوڠن
+|,kostum,کوستوم
+|,kot,کوت
+|,kota,کوتا
+|,kekotaan,ککوتاءن
+|,kekota-kotaan,ککوتا ـ کوتاءن
+|,kotah,کوته
+|,kotai,کوتاي
+|,kotak,کوتق
+|,kotak-katik,کوتق ـ کاتيق
+|,kotamara,کوتامارا
+|,kotej,کوتيج
+|,kotek,کوتيق
+|,kotel,کوتيل
+|,koteng,کوتيڠ
+|,koter (kotel),کوتير
+|,kotes,کوتيس
+|,kotiledon,کوتيليدون
+|,kotis (kutis),کوتيس
+|,kotok,کوتوق
+|,kotong,کوتوڠ
+|,kotor,کوتور
+|,kekotoran,ککوتورن
+|,kotoran,کوتورن
+|,kotrek (koterek),کوتريق
+|,kowe,کووي
+|,koya,کويا
+|,koyak,کويق
+|,kekoyakan,ککويقن
+|,koyam,کويم
+|,koyan,کوين
+|,koyok,کويوق
+|,koyote,کويوتي
+|,kraf,کرف
+|,kraker,کراکر
+|,krama (kromo),کراما
+|,kran (keran),کران
+|,kranberi,کرانبيري
+|,kranium,کرانيوم
+|,krapak,کراڤق
+|,kravat,کراۏت
+|,krayon,کرايون
+|,kreatif,کرياتيف
+|,kekreatifan,ککرياتيفن
+|,kreativiti,کرياتيۏيتي
+|,kredibiliti,کريديبيليتي
+|,kredit,کريديت
+|,kreditor,کريديتور
+|,krematorium,کريماتوريوم
+|,kren,کرين
+|,kreol,کريول
+|,kreosot,کريوسوت
+|,krep,کريڤ
+|,krepuskul,کريڤوسکول
+|,kresendo,کريسيندو
+|,kresol,کريسول
+|,kretin,کريتين
+|,kretinisme,کريتينيسمى
+|,kreton,کريتون
+|,krevas,کريۏس
+|,krew,کرو
+|,kriket,کريکيت
+|,krim,کريم
+|,krimer,کريمر
+|,kriminologi,کريمينولوݢي
+|,krimpap,کريمڤڤ
+|,kriobiologi,کريوبيولوݢي
+|,kriogen,کريوݢن
+|,kriogenik,کريوݢينيک
+|,kriolit,کريوليت
+|,kriologi,کريولوݢي
+|,krioskopi,کريوسکوڤي
+|,krioterapi,کريوتيراڤي
+|,kriptogam,کريڤتوݢم
+|,kriptografi,کريڤتوݢراڤي
+|,kriptogram,کريڤتوݢرم
+|,kripton,کريڤتون
+|,krisis,کريسيس
+|,kristal,کريستل
+|,kristalogi,کريستالوݢي
+|,kristaloid,کريستالوءيد
+|,kriteria,کريتيريا
+|,kritik,کريتيک
+|,kritikan,کريتيکن
+|,kritikal,کريتيکل
+|,kritis,کريتيس
+|,krocet,کروچيت
+|,kroisan,کرويسن
+|,kroket,کروکيت
+|,krom,کروم
+|,kromatografi,کروماتوݢرافي
+|,kromium,کروميوم
+|,kromo,کرومو
+|,kromosom,کروموسوم
+|,kroni,کروني
+|,kronik,کرونيک
+|,kronisme,کرونيسمى
+|,kronograf,کرونوݢرف
+|,kronologi,کرونولوݢي
+|,kronologis,کرونولوݢيس
+|,kronometer,کرونوميتر
+|,kru,کرو
+|,krupier,کروڤيئر
+|,krustasea,کروستاسيا
+|,krusye,کروشي
+|,kruton,کروتون
+|,ku,کو
+|,kuaci,کواچي
+|,kuadran,کوادرن
+|,kuadrat,کوادرت
+|,kuadriplegia,کوادريڤليݢيا
+|,kuah,کواه
+|,kuai,کواي
+|,kuai-kuai,کواي٢
+|,kuak,کواق
+|,kuak-kuak,کواق٢
+|,kual,کوال
+|,kuala,کوالا
+|,kualat,کوالت
+|,kuali,کوالي
+|,kualitatif,کواليتاتيف
+|,kualiti,کواليتي
+|,kualon,کوالون
+|,kuang,کواڠ
+|,kuangkuit,کواڠکوءيت
+|,kuanta (kuantum),کوانتا
+|,kuantifikasi,کوانتيفيکاسي
+|,kuantitatif,کوانتيتاتيف
+|,kuantiti,کوانتيتي
+|,kuantum,کوانتوم
+|,kuap,کواڤ
+|,kuar,کوار
+|,kuarantin,کوارنتين
+|,kuari,کواري
+|,kuarik,کواريق
+|,kuart,کوارت
+|,kuartermaster,کوارترمستر
+|,kuarters,کوارترس
+|,kuartet,کوارتيت
+|,kuarto,کوارتو
+|,kuarza,کوارزا
+|,kuarzit,کوارزيت
+|,kuas,کواس
+|,kuas-kais,کواس ـ کاءيس
+|,kuasa,کواس
+|,kekuasaan,ککواساءن
+|,kuat,قوات
+|,kekuatan,کقواتن
+|,kuat-kuat,قوات٢
+|,kuau,کواو
+|,kuaver,کواۏر
+|,kuaya,کوايا
+|,kuayah,کوايه
+|,kubah,قبة
+|,kubal (gubal),کوبل
+|,kubang,کوبڠ
+|,kubangan,کوبڠن
+|,kubarasa,کوباراس
+|,kubat (kubah),قبة
+|,kubik,کوبيق
+|,kubikel,کوبيکل
+|,kubin,کوبين
+|,kubing,کوبيڠ
+|,kubis,کوبيس
+|,kubisme,کوبيسمى
+|,kubit,کوبيت
+|,kuboid,کوبوءيد
+|,kubu,کوبو
+|,kubung,کوبوڠ
+|,kubur,قبور
+|,kuburan,قبورن
+|,kubus,کوبوس
+|,kucai,کوچاي
+|,kucam,کوچم
+|,kucar,کوچر
+|,kucar-bara,کوچر ـ بارا
+|,kucar-kacir,کوچر ـ کاچير
+|,kekucar-kaciran,ککوچر ـ کاچيرن
+|,kucil,کوچيل
+|,kucindan,کوچيندن
+|,kucing,کوچيڠ
+|,kucing-kucing,کوچيڠ٢
+|,kucing-kucingan,کوچيڠ ـ کوچيڠن
+|,kucir,کوچير
+|,kuco,کوچو
+|,kucung (kocong),کوچوڠ
+|,kucup,کوچوڤ
+|,kucupan,کوچوڤن
+|,kuda,کودا
+|,kuda-kuda,کودا٢
+|,kuda-kudaan,کودا ـ کوداءن
+|,kudai,کوداي
+|,kudal,کودل
+|,kudam (godam),کودم
+|,kudap,کودڤ
+|,kudap-kudap,کودڤ٢
+|,kudapan,کودڤن
+|,kudeta,کوديتا
+|,kudidi (kedidi),کوديدي
+|,kudil,کوديل
+|,kudis,کوديس
+|,kudisan,کوديسن
+|,kudrat,قدرة
+|,kudrati,قدرتي
+|,kudsi,قدسي
+|,kudu,کودو
+|,kudung,کودوڠ
+|,kekudung,ککودوڠ
+|,kudungan,کودوڠن
+|,kudup,کودوڤ
+|,kudus,قدوس
+|,kekudusan,کقدوسن
+|,kudut,کودوت
+|,kuek,کوءيق
+|,kuetiau,کوءيتياو
+|,kufu,کوفو
+|,kufuan,کوفوان
+|,kufur,کفور
+|,kekufuran,ککفورن
+|,kugah,کوݢه
+|,kugar,کوݢر
+|,kugiran,کوݢيرن
+|,kui,کوي
+|,kuih,کوءيه
+|,kuih-kuih,کوءيه٢
+|,kuih-muih,کوءيه ـ موءيه
+|,kuil,کوءيل
+|,kuilt,کوءيلت
+|,kuilu,کويلو
+|,kuing,کوءيڠ
+|,kuini,کويني
+|,kuinin,کوينين
+|,kuinina,کوينينا
+|,kuintal,کوءينتل
+|,kuintet,کوءينتيت
+|,kuir,کوءير
+|,kuis,کوءيس
+|,kuisan,کوءيسن
+|,kuit,کوءيت
+|,kuitan,کوءيتن
+|,kuiz,کوءيز
+|,kuja (koja),کوجا
+|,kujarat,کوجارت
+|,kujau (koja),کوجاو
+|,kujur,کوجور
+|,kujut,کوجوت
+|,kuk,کوق
+|,kukabura,کوکابورا
+|,kukai,کوکاي
+|,kukang,کوکڠ
+|,kukri,کوکري
+|,kuku,کوکو
+|,kukuh,کوکوه
+|,kekukuhan,ککوکوهن
+|,kukup,کوکوڤ
+|,kukur,کوکور
+|,kukuran,کوکورن
+|,kukus,کوکوس
+|,kukusan,کوکوسن
+|,kukut,کوکوت
+|,kula,کولا
+|,kulah,کوله
+|,kuah-kulah,کوله٢
+|,kulai,کولاي
+|,kulak,کولق
+|,kulak-kulak,کولق٢
+|,kulakasar,کولاکاسر
+|,kulambai (kelambai),کولمباي
+|,kulampair,کولمڤاءير
+|,kulan,کولن
+|,kulang,کولڠ
+|,kulansing,کولنسيڠ
+|,kulapuk,کولاڤوق
+|,kulari (kelari),کولاري
+|,kulasentana,کولاسنتان
+|,kulat,کولت
+|,kulau,کولاو
+|,kulawangsa,کولاوڠسا
+|,kulawarga,کولاورݢ
+|,kuli,کولي
+|,kulian,کولين
+|,kuliah,کليه
+|,kulik,کوليق
+|,kulik-kulik,کوليق٢
+|,kulikat (khalikah),کوليکت
+|,kulim,کوليم
+|,kulimambang,کوليممبڠ
+|,kulimat,کوليمت
+|,kulimbambang (kulimambang),کوليمبمبڠ
+|,kulimpapat,کوليمڤاڤت
+|,kulinari,کوليناري
+|,kulio,کوليو
+|,kulintang,کولينتڠ
+|,kulipis,کوليڤيس
+|,kulir,کولير
+|,kulit,کوليت
+|,kekulit,ککوليت
+|,kulkas,کولکس
+|,kulon,کولون
+|,kultur,کولتور
+|,kultus,کولتوس
+|,kulub,قولوب
+|,kuluk,قولوق
+|,kulum,کولوم
+|,kulum-kulum,کولوم٢
+|,kulup,کولوڤ
+|,kulur,کولور
+|,kuma,کوما
+|,kuma-kuma,کوما٢
+|,kumai,کوماي
+|,kumaian,کوماين
+|,kumal,کومل
+|,kumala (kemala),کومالا
+|,kuman,کومن
+|,kumandang,کومندڠ
+|,kumanga,کوماڠا
+|,kumango,کوماڠو
+|,kumat,کومت
+|,kumat-kamit,کومت ـ کاميت
+|,kumayan,کوماين
+|,kumba,کومبا
+|,kumbah,کومبه
+|,kumbahan,کومبهن
+|,kumbang,کومبڠ
+|,kumbar,کومبر
+|,kumbik,کومبيق
+|,kumbu,کومبو
+|,kumbuh,کومبوه
+|,kumi,کومي
+|,kumico,کوميچو
+|,kumin,کومين
+|,kumis,کوميس
+|,kumit,کوميت
+|,kumkuma (kuma-kuma),کومکوما
+|,kumlah,کومله
+|,kumpai,کومڤاي
+|,kumpal,کومڤل
+|,kumpar,کومڤر
+|,kumparan,کومڤرن
+|,kumpuan,کومڤوان
+|,kumpul,کومڤول
+|,kumpulan,کومڤولن
+|,kumuh,کوموه
+|,kumuhan,کوموهن
+|,kumul (kumal),کومول
+|,kumulatif,کومولاتيف
+|,kumulus,کومولوس
+|,kumur,کومور
+|,kumus,کوموس
+|,kumut,کوموت
+|,kun,کون
+|,kun fayakun,کن فيکون
+|,kunang,کونڠ
+|,kunang-kunang,کونڠ٢
+|,kunani,کوناني
+|,kunapa,کوناڤ
+|,kunarpa,کونرڤا
+|,kunau,کوناو
+|,kunca,کونچا
+|,kuncah (kunca),کونچه
+|,kunci,کونچي
+|,kunci-kunci,کونچي٢
+|,kuncir (kucir),کونچير
+|,kuncit,کونچيت
+|,kuncu (konco),کونچو
+|,kuncup,کونچوڤ
+|,kuncur,کونچور
+|,kundai,کونداي
+|,kundang,کوندڠ
+|,kundangan,کوندڠن
+|,kundi,کوندي
+|,kunduh,کوندوه
+|,kundur,کوندور
+|,kung,کوڠ
+|,kungfu,کوڠفو
+|,kungki,کوڠکي
+|,kungkuma (kuma-kuma),کوڠکوما
+|,kungkur,کوڠکور
+|,kungkuvak,کوڠکوۏک
+|,kuning,کونيڠ
+|,kekuningan,ککونيڠن
+|,kekuning-kuningan,ککونيڠ ـ کونيڠن
+|,kuningan,کونيڠن
+|,kunir,کونير
+|,kunit,کونيت
+|,kunjung,کونجوڠ
+|,kunjungan,کونجوڠن
+|,kunjung-mengunjungi,کونجوڠ ـ مڠونجوڠي
+|,kuno,کونو
+|,kekunoan,ککونوان
+|,kunta,کونتا
+|,kuntau,کونتاو
+|,kuntauan,کونتاوان
+|,kuntuan,کونتوان
+|,kuntul,کونتول
+|,kuntum,کونتوم
+|,kuntuman,کونتومن
+|,kuntung,کونتوڠ
+|,kunyah,کوپه
+|,kunyahan,کوپهن
+|,kunyit,کوپيت
+|,kunyit- kunyit,کوپيت٢
+|,kuorum,کووروم
+|,kuota,کووتا
+|,kup (kudeta),کوڤ
+|,kupak,کوڤق
+|,kupang,کوڤڠ
+|,kupas,کوڤس
+|,kupasan,کوڤسن
+|,kupel,کوڤل
+|,kupi,کوڤي
+|,kupil,کوڤيل
+|,kuping,کوڤيڠ
+|,kuplet,کوڤليت
+|,kupluk,کوڤلوق
+|,kupoi,کوڤوي
+|,kupon,کوڤون
+|,kupronikel,کوڤرونيکل
+|,kuprum,کوڤروم
+|,kupu,کوڤو
+|,kupuan,کوڤوان
+|,kupu-kupu,کوڤو٢
+|,kupuh,کوڤوه
+|,kupur,کوڤور
+|,kur,کور
+|,kura,کورا
+|,kura-kura,کورا٢
+|,kurai,کوراي
+|,kurambit (kerambit),کورمبيت
+|,kuran,کورن
+|,kurang,کورڠ
+|,kekurangan,ککورڠن
+|,kurang-kurang,کورڠ٢
+|,kurap,کورڤ
+|,kuras,کورس
+|,kurasani (kersani),کوراساني
+|,kuratif,کوراتيف
+|,kurator,کوراتور
+|,kurau,کوراو
+|,kurawal,کوراول
+|,kurbal,کوربل
+|,kurcaci,کورچاچي
+|,kurenah (kerenah),کورينه
+|,kuret,کوريت
+|,kuria,کوريا
+|,kurik,کوريق
+|,kurikulum,کوريکولوم
+|,kurio,کوريو
+|,kuripal,کوريڤل
+|,kuripan,کوريڤن
+|,kurir,کورير
+|,kuririk,کوريريق
+|,kuris,کوريس
+|,kurita,کوريتا
+|,kurium,کوريوم
+|,kurkum,کورکوم
+|,kurkuma,کورکوما
+|,kurkun (kerkum),کورکون
+|,kurma,کورما
+|,kurnia,کورنيا
+|,kurniaan,کورنياءن
+|,kurrat,قرة
+|,kursani (kersani),کورساني
+|,kursemangat,کورسماڠت
+|,kursi,کورسي
+|,kursif,کورسيف
+|,kursor,کورسور
+|,kursus,کورسوس
+|,kuruh,کوروه
+|,kurun,قرون
+|,kurung,کوروڠ
+|,kurungan,کوروڠن
+|,kurus,کوروس
+|,kekurusan,ککوروسن
+|,kus,کوس
+|,kusa,کوسا
+|,kusa-kusa,کوسا٢
+|,kusal,کوسل
+|,kusam,کوسم
+|,kekusaman,ککوسمن
+|,kusambi (kesambi),کوسمبي
+|,kusat,کوست
+|,kusat-mesat,کوست ـ مست
+|,kusatom,کوساتوم
+|,kusau,کوساو
+|,kusi,کوسي
+|,kusin,کوسين
+|,kusir,کوسير
+|,kusta,کوستا
+|,kusti,کوستي
+|,kusu,کوسو
+|,kusu-kusu,کوسو٢
+|,kusuk,کوسوق
+|,kusum,کوسوم
+|,kusut,کوسوت
+|,kekusutan,ککوسوتن
+|,kusut-kasau,کوسوت ـ کاساو
+|,kusut-masai,کوسوت ـ ماساي
+|,kusut- murut,کوسوت ـ موروت
+|,kusyen,کوشن
+|,kutaha,کوتاها
+|,kutang,کوتڠ
+|,kuteri,کوتري
+|,kuti,کوتي
+|,kuti-kuti,کوتي٢
+|,kutik,کوتيق
+|,kutikel,کوتيکل
+|,kutil,کوتيل
+|,kutilang (ketilang),کوتيلڠ
+|,kuting,کوتيڠ
+|,kutip,کوتيڤ
+|,kutipan,کوتيڤن
+|,kutis,کوتيس
+|,kutlet,کوتليت
+|,kutu,کوتو
+|,kutub,کوتوب
+|,kekutuban,ککوتوبن
+|,kutubkhanah,کتبخانه
+|,kutuk,کوتوق
+|,keterkutukan,کترکوتوقن
+|,kutukan,کوتوقن
+|,kutur,کوتور
+|,kuud,قعود
+|,kuwung,کوووڠ
+|,kuya,کويا
+|,kuyu,کويو
+|,kekuyuan,ککويوان
+|,kuyuh,کويوه
+|,kuyuk,کويوق
+|,kuyung,کويوڠ
+|,kuyup,کويوڤ
+|,kekuyupan,ککويوڤن
+|,kelabakan,کلابقکن
+|,kelaburan,کلابورن
+|,kelahiran,کلاهيرن
+|,keberlainan,کبرلاءينن
+|,kelainan,کلاءينن
+|,keterlajakan,کترلاجقن
+|,kelajuan,کلاجوان
+|,kelakian,کلاکين
+|,kelaki-lakian,کلاکي ـ لاکين
+|,kelakuan,کلاکوان
+|,kelalaian,کلالاين
+|,kelalian,کلالين
+|,kelaluan,کلالوان
+|,keterlaluan,کترلالوان
+|,kelamaan,کلاماءن
+|,kelambanan,کلمبنن
+|,kelambatan,کلمبتن
+|,kelampauan,کلمڤاوان
+|,keterlampauan,کترلمڤاوان
+|,kelancangan,کلنچڠن
+|,kelancaran,کلنچرن
+|,kelancungan,کلنچوڠن
+|,kelanggengan,کلڠݢڠن
+|,kelangkahan,کلڠکهن
+|,kelangsingan,کلڠسيڠن
+|,kelangsungan,کبرلڠسوڠن
+|,keberlangsungan,کلڠسوڠن
+|,keselanjaran,کسلنجرن
+|,keterlanjuran,کترلنجورن
+|,kelanjutan,کلنجوتن
+|,kelantaman,کلنتمن
+|,kelantangan,کلانتڠن
+|,kelapan,کلاڤن
+|,kelapan-lapan,کلاڤن ـ لاڤن
+|,kelapangan,کلاڤڠن
+|,kelaparan,کلاڤرن
+|,kelapukan,کلاڤوقن
+|,kelarasan,کلارسن
+|,keselarasan,کسلارسن
+|,kemelaratan,کملارتن
+|,keselarian,کسلارين
+|,kelarisan,کلاريسن
+|,kelarutan,کلاروتن
+|,keterlarutan,کترلاروتن
+|,kelasakan,کلاسقن
+|,kelasykaran,کلشکرن
+|,kelatahan,کلاتهن
+|,kelautan,کلاءوتن
+|,kepelautan,کڤلاءوتن
+|,kelawanan,کلاونن
+|,kelawasan,کلاوسن
+|,kelayakan,کلايقن
+|,kelayapan,کلايڤن
+|,kepelayaran,کڤلايرن
+|,kelayuan,کلايوان
+|,kelazatan,کلاذتن
+|,kelaziman,کلاچچڠيب+زيمن
+|,kelebaian,کلباين
+|,kelebam-lebaman,کلبم ـ لبمن
+|,kelebaran,کليبرن
+|,kelebatan,کلبتن
+|,kelebihan,کلبيهن
+|,keleburan,کلبورن
+|,kelecahan,کلچهن
+|,kelecakan,کليچقن
+|,kelecapan,کلچڤن
+|,keledoran,کليدورن
+|,kelegaan,کلݢاءن
+|,kelegapan,کلݢڤن
+|,kelekaan,کليکاءن
+|,kelelahan,کللهن
+|,kelelakian,کللاکين
+|,kelelasan,کللسن
+|,keleleran,کليليرن
+|,keleluasaan,کللواساءن
+|,kelemahan,کلمهن
+|,kelemasan,کلمسن
+|,kelembaman,کلمبمن
+|,kelembapan,کلمبڤن
+|,kelembikan,کلمبيقن
+|,kelembutan,کلمبوتن
+|,kelempuran,کلمڤورن
+|,kelenaan,کليناءن
+|,kelendutan,کلندوتن
+|,kelengahan,کليڠهن
+|,kelengaian,کلڠاين
+|,kelengangan,کلڠڠن
+|,kelengasan,کليڠسن
+|,kelengkapan,کلڠکڤن
+|,kelengkungan,کلڠکوڠن
+|,kelenguhan,کلڠوهن
+|,kelenturan,کلنتورن
+|,kelenyapan,کلپڤن
+|,kelepasan,کلڤسن
+|,kelepet,کليڤيت
+|,kelestarian,کلستارين
+|,kelesuan,کلسوان
+|,keletihan,کلتيهن
+|,kelewahan,کليواهن
+|,kelewat,کليوات
+|,kelewatan,کليواتن
+|,keliaran,کليارن
+|,keliatan,کلياتن
+|,keterlibatan,کترليبتن
+|,keliberalan,کليبرلن
+|,kelicikan,کليچيقن
+|,kelicinan,کليچينن
+|,kelihaian,کليهاين
+|,kelihatan,کليهتن
+|,kelikatan,کليکتن
+|,kelima,کليم
+|,kelima-lima,کليما ـ ليم
+|,kelimpahan,کليمڤهن
+|,kelimpah-mewahan,کليمڤه ـ ميوهن
+|,kelincahan,کلينچهن
+|,kelindungan,کليندوڠن
+|,kelintasan,کلينتسن
+|,kelipat,کليڤت
+|,kelipatan,کليڤتن
+|,kelipitan,کليڤيتن
+|,kelisanan,کليسنن
+|,kelisutan,کليسوتن
+|,keliutan,کليوتن
+|,kelobaan,کلوباءن
+|,kelogikan,کلوݢيکن
+|,kelonggaran,کلوڠݢرن
+|,kelowongan,کلوووڠن
+|,keluangan,کلواڠن
+|,keluasan,کلواسن
+|,kemeluatan,کملواتن
+|,kelucahan,کلوچهن
+|,kelucuan,کلوچوان
+|,keluhuran,کلوهورن
+|,kelukaan,کلوکاءن
+|,kelulusan,کلولوسن
+|,kelumpuhan,کلومڤوهن
+|,kelumrahan,کلومرهن
+|,kelunakan,کلونقن
+|,kelunturan,کلونتورن
+|,kelupaan,کلوڤاءن
+|,keluputan,کلوڤوتن
+|,kelurahan,کلورهن
+|,keluruhan,کلوروهن
+|,kelurusan,کلوروسن
+|,kelusuhan,کلوسوهن
+|,keluwesan,کلووسن
+|,kemaafan,کمعافن
+|,kemabukan,کمابوقن
+|,kemagnetan,کمݢنيتن
+|,kemahalan,کماهلن
+|,kemaharajalelaan,کمهاراجاليلاءن
+|,kemahasiswaan,کمهاسيسواءن
+|,kemahiran,کماهيرن
+|,kemahkotaan,کمهکوتاءن
+|,kemahuan,کماهوان
+|,kemajmukan,کمجموعن
+|,kemajuan,کماجوان
+|,kemakanan,کماکنن
+|,kemakbulan,کمڤبولن
+|,kemakmuran,کمعمورن
+|,kemakrufan,کمعروفن
+|,kemaksiatan,کمعصيتن
+|,kemalaikatan,کملائکتن
+|,kemalaman,کمالمن
+|,kemalangan,کمالڠن
+|,kemalapan,کمالڤن
+|,kemalaran,کمالرن
+|,kemalasan,کمالسن
+|,kemalaysiaan,کماليسياءن
+|,kemalingan,کماليڠن
+|,kemaluan,کمالوان
+|,kemalu-maluan,کمالو ـ مالوان
+|,kemampatan,کممڤتن
+|,ketermampatan,کترممڤتن
+|,kemampuan,کممڤوان
+|,kemancungan,کمنچوڠن
+|,kemandirian,کمنديرين
+|,kemandulan,کمندولن
+|,kemanfaatan,کمنفعتن
+|,kemangkatan,کمڠکتن
+|,kemangkinan,کمڠکينن
+|,ketermanguan,کترماڠوان
+|,kemanisan,کمانيسن
+|,kemanjaan,کمنجاءن
+|,kemanja-manjaan,کمنجا ـ منجاءن
+|,kemanjuran,کمنجورن
+|,kemantapan,کمنتقن
+|,kemanusiaan,کماءنسياءن
+|,kemapanan,کماڤنن
+|,kemaraan,کماراءن
+|,kemarah-marahan,کماره ـ مارهن
+|,kemarahan,کمارهن
+|,kemarakan,کمارقن
+|,kemartabatan,کمرتبتن
+|,kemasam-masaman,کماسم ـ ماسمن
+|,kemasaman,کماسمن
+|,kemasinan,کماسينن
+|,kemaslahatan,کمصلحتن
+|,kemasukan,کماسوقن
+|,kemasyarakatan,کمشارکتن
+|,kemasyghulan,کمشغولن
+|,kemasyhuran,کمشهورن
+|,kematangan,کماتڠن
+|,kematian,کماتين
+|,kemati-matian,کماتي ـ ماتين
+|,kemaujudan,کموجودن
+|,kemazhaban,کمذهبن
+|,kemegahan,کمݢهن
+|,kemekaran,کمکرن
+|,kemelankolian,کميلنکولين
+|,kemelaratan,کملارتن
+|,kemelayuan,کملايوان
+|,kemelesetan,کمليسيتن
+|,kemelikan,کميليقن
+|,kemenakan,کمنقن
+|,kemenangan,کمنڠن
+|,kemendakan,کمندقن
+|,kemengkalan,کمڠکلن
+|,kementahan,کمنتهن
+|,kementerengan,کمنتيريڠن
+|,kementerian,کمنترين
+|,kemenungan,کمنوڠن
+|,kemerahan,کميرهن
+|,kemerah-merahan,کميره ـ ميرهن
+|,kemerdekaan,کمرديکاءن
+|,kemerduan,کمردوان
+|,kemeriahan,کمرياهن
+|,kemerosotan,کمروسوتن
+|,kemesraan,کمسراءن
+|,kemestian,کمستين
+|,kemesuman,کمسومن
+|,kemewahan,کميواهن
+|,kemimikan,کميميقن
+|,kemiringan,کميريڠن
+|,kemiripan,کميريڤن
+|,kemiskinan,کميسکينن
+|,kemisterian,کميسترين
+|,kemistikan,کميستيکن
+|,kemitosan,کميتوسن
+|,kemodalan,کمودلن
+|,kemodenan,کمودنن
+|,kemolekan,کموليقن
+|,kemongelan,کموڠيلن
+|,kemontelan,کمونتيلن
+|,kemontokan,کمونتوقن
+|,kemoyokan,کمويوقن
+|,kemuafakatan,کموافقتن
+|,kemualan,کموالن
+|,kemubalighan,کمبلغن
+|,kemudaan,کموداءن
+|,kemuda-mudaan,کمودا ـ موداءن
+|,kemudahan,کمودهن
+|,kemudaratan,کمضرتن
+|,kemudi,کمودي
+|,kemuflisan,کمفليسن
+|,kemujahadahan,کمجاهدهن
+|,kemujaraban,کمجربن
+|,kemujaradan,کمجردن
+|,kemujuran,کموجورن
+|,ke muka,کموک
+|,kemuktamadan,کمعتمدن
+|,kebermulaan,کبرمولاءن
+|,kemulhidan,کملحدن
+|,kemuliaan,کمولياءن
+|,kemulukan,کمولوقن
+|,kemuluran,کمولورن
+|,kemunafikan,کمنافقن
+|,kemunasabahan,کمناسبهن
+|,kemunculan,کمونچولن
+|,kemunduran,کموندورن
+|,kemungkaran,کموڠکرن
+|,kemungkinan,کموڠکينن
+|,kemungkiran,کموڠکيرن
+|,kemurahan,کمورهن
+|,kemuraman,کمورمن
+|,kemurkaan,کمورکاءن
+|,kemurnian,کمورنين
+|,kemurtadan,کمرتدن
+|,kemurungan,کموروڠن
+|,kemusafiran,کمسافيرن
+|,kemusliman,کمسلمن
+|,kemusnahan,کموسنهن
+|,kemustahakan,کمستحقن
+|,kemustahilan,کمستحيلن
+|,kemustajaban,کمستجبن
+|,kemusykilan,کمشکيلن
+|,kemusyrikan,کمشرکن
+|,kemutlakan,کمطلقن
+|,kenabian,کنبين
+|,kenadiran,کناديرن
+|,kenahasan,کنحسن
+|,kenaifan,کناءيفن
+|,kenaikan,کناءيقن
+|,kenajisan,کنجيسن
+|,kenakalan,کناکلن
+|,kenalaran,کنالرن
+|,kenalurian,کنلورين
+|,kenamaan,کناماءن
+|,kenampakan,کنمڤقن
+|,kenasionalan,کناسيونلن
+|,kenasranian,کنصرانين
+|,kenegaraan,کنݢاراءن
+|,kenegarawanan,کنݢاراونن
+|,kenegatifan,کنيݢاتيفن
+|,kenegerian,کنݢرين
+|,kenekadan,کنيکدن
+|,kenerakaan,کنراکاءن
+|,kenescayaan,کنسچاياءن
+|,kenestapaan,کنستاڤاءن
+|,keneutralan,کنيوترلن
+|,kengerian,کڠرين
+|,kengiluan,کڠيلوان
+|,kenihilan,کنيهيلن
+|,kenikmatan,کنعمتن
+|,keningratan,کنيڠرتن
+|,kenipisan,کنيڤيسن
+|,kenisbian,کنيسبين
+|,keniskalaan,کنيسکالاءن
+|,kenistaan,کنيستاءن
+|,kenodaan,کنوداءن
+|,kenormalan,کنورملن
+|,ketaknormalan,کتقنورملن
+|,kenusantaraan,کنوسنتاراءن
+|,kenyamanan,کپامنن
+|,kenyanyukan,کپاپوقن
+|,kenyaringan,کپاريڠن
+|,kenyataan,کپاتاءن
+|,kenyenyakan,کپپقن
+|,kenyerian,کپرين
+|,keobjektifan,کأوبجيکتيفن
+|,keoknuman,کأوکنومن
+|,keolahragaan,کأولهراݢاءن
+|,keonaran,کأونرن
+|,keseorangan,کسأورڠن
+|,keortodoksan,کأورتودوکسن
+|,kepadaman,کڤادمن
+|,kesepadanan,کسڤادنن
+|,kepadatan,کڤادتن
+|,kepaduan,کڤادوان
+|,kesepaduan,کسڤادوان
+|,kepagian,کڤاݢين
+|,kepahitan,کڤاهيتن
+|,kepahlawanan,کڤهلاونن
+|,kepakaran,کڤاکرن
+|,kesepakatan,کسڤاکتن
+|,keterpaksaan,کترڤقساءن
+|,kepalingan,کڤاليڠن
+|,kepalsuan,کڤلسوان
+|,kepanah-panahan,کڤانه ـ ڤانهن
+|,kepanasan,کڤانسن
+|,kepancingan,کڤنچيڠن
+|,kepandaian,کڤنداين
+|,kepandiran,کڤنديرن
+|,kepandir-pandiran,کڤندير ـ ڤنديرن
+|,kepanduan,کڤندوان
+|,kepangkatan,کڤڠکتن
+|,kepanikan,کڤانيکن
+|,kepaniteraan,کڤانيتراءن
+|,kepanjangan,کڤنجڠن
+|,kepantangan,کڤانتڠن
+|,kepantasan,کڤانتسن
+|,kepapaan,کڤاڤاءن
+|,keparahan,کڤارهن
+|,keparitan,کڤاريتن
+|,kepartian,کڤرتين
+|,kepasifan,کڤاسيفن
+|,kepasrahan,کڤسرهن
+|,kepastian,کڤستين
+|,ketidakpastian,کتيدقڤستين
+|,kepatihan,کڤاتيهن
+|,kepatuhan,کڤاتوهن
+|,kepatutan,کڤاتوتن
+|,kepayahan,کڤايهن
+|,kepecahan,کڤچهن
+|,kepecutan,کڤچوتن
+|,kepedaran,کڤدرن
+|,kepedasan,کڤدسن
+|,kepedihan,کڤديهن
+|,kepedulian,کڤدولين
+|,kepegawaian,کڤݢاواين
+|,keterpegunan,کترڤݢونن
+|,kepejalan,کڤجلن
+|,kepekaan,کڤيکاءن
+|,kepekatan,کڤکتن
+|,kepelesiran,کڤلسيرن
+|,keterpeliharaan,کترڤليهاراءن
+|,kepelikan,کڤليقن
+|,kepeloporan,کڤلوڤورن
+|,kepenatan,کڤنتن
+|,kepencilan,کڤنچيلن
+|,keterpencilan,کترڤنچيلن
+|,kepencongan,کڤينچوڠن
+|,kependekan,کڤينديقن
+|,kependekaran,کڤنديکرن
+|,kependetaan,کڤنديتاءن
+|,kepeningan,کڤنيڠن
+|,kepenjaraan,کڤنجاراءن
+|,kepentingan,کڤنتيڠن
+|,kepepet,کڤيڤيت
+|,keperabuan,کڤرابوان
+|,keperajuritan,کڤراجوريتن
+|,keperakan,کڤيرقن
+|,keperak-perakan,کڤيرق ـ ڤيرقن
+|,keperangan,کڤيرڠن
+|,keperang-perangan,کڤيرڠ ـ ڤيرڠن
+|,keterperanjatan,کترڤرنجتن
+|,keperantisan,کڤرنتيسن
+|,keperawanan,کڤراونن
+|,kepercayaan,کڤرچاياءن
+|,ketidakpercayaan,کتيدقڤرچاياءن
+|,keperempuanan,کڤرمڤوانن
+|,kepergian,کڤرݢين
+|,keperibadian,کڤريبادين
+|,keperibumian,کڤريبومين
+|,keperihan,کڤريهن
+|,keperihalan,کڤريحالن
+|,ketidakberperikemanusiaan,کتيدقبرڤريکماءنسياءن
+|,keterperincian,کترڤرينچين
+|,keperisaan,کڤريساءن
+|,keperitan,کڤريتن
+|,keperkasaan,کڤرکاساءن
+|,keperluan,کڤرلوان
+|,kepermaian,کڤرماين
+|,keperoian,کڤروين
+|,kepersisan,کڤرسيسن
+|,keperwiraan,کڤرويراءن
+|,kepesatan,کڤستن
+|,kepesonaan,کڤسوناءن
+|,keterpesonaan,کترڤسوناءن
+|,kepetahan,کڤيتهن
+|,kepetangan,کڤتڠن
+|,kepetengan,کڤيتيڠن
+|,kepiatuan,کڤياتوان
+|,kepiawaian,کڤياواين
+|,kepicikan,کڤيچيقن
+|,kepiluan,کڤيلوان
+|,kepilu-piluan,کڤيلو ـ ڤيلوان
+|,kepemimpinan,کڤميمڤينن
+|,kepimpinan,کڤيمڤينن
+|,kepincangan,کڤينچڠن
+|,kepincuk,کڤينچوق
+|,kepincut,کڤينچوت
+|,kepindahan,کڤيندهن
+|,keterpinggiran,کترڤيڠݢيرن
+|,kepintaran,کڤينترن
+|,kepintasan,کڤينتسن
+|,keterpisahan,کترڤيسهن
+|,kepolisan,کڤوليسن
+|,kepolisian,کڤوليسين
+|,kepolitikan,کڤوليتيکن
+|,kepompong,کڤومڤوڠ
+|,kepompongan,کڤومڤوڠن
+|,kepongahan,کڤوڠهن
+|,kepopularan,کڤوڤولرن
+|,keporak-perandaan,کڤورق ـ ڤرنداءن
+|,kepositifan,کڤوسيتيفن
+|,kepraktisan,کڤرکتيسن
+|,keprasangkaan,کڤراسڠکاءن
+|,kepresidenan,کڤريسيدنن
+|,kepriayian,کرڤريايين
+|,keprihatinan,کڤريهاتينن
+|,keproduktifan,کڤرودوکتيفن
+|,keprofesionalan,کڤروفيسيونلن
+|,keprofesoran,کڤروفيسورن
+|,kepuakan,کڤواقن
+|,kepuasan,کڤواسن
+|,kepucatan,کڤوچتن
+|,kepudaran,کڤودرن
+|,kepuisian,کڤويسين
+|,kepuitisan,کڤويتيسن
+|,kepujanggaan,کڤوجڠݢاءن
+|,kepujian,کڤوجين
+|,kepulangan,کڤولڠن
+|,kepulasan,کڤولسن
+|,kepulauan,کڤولاوان
+|,kepulihan,کڤوليهن
+|,kesepuluh,کسڤولوه
+|,kepunahan,کڤونهن
+|,kepuntungan,کڤونتوڠن
+|,kepunyaan,کڤوپاءن
+|,kepupusan,کڤوڤوسن
+|,kepura-puraan,کڤورا ـ ڤوراءن
+|,kepurbaan,کڤورباءن
+|,kepurbakalaan,کڤورباکالاءن
+|,kepustakaan,کڤوستاکاءن
+|,kepustakawanan,کڤوستاکاونن
+|,keputeraan,کڤوتراءن
+|,keputerian,کڤوترين
+|,keputihan,کڤوتيهن
+|,keputih-putihan,کڤوتيه ـ ڤوتيهن
+|,keputusan,کڤوتوسن
+|,keqadiman,کقديمن
+|,kerabunan,کرابونن
+|,kemeracauan,کمراچاوان
+|,keracauan,کراچاوان
+|,keracunan,کراچونن
+|,kemeradangan,کمرادڠن
+|,keradangan,کرادڠن
+|,keradikalan,کراديکلن
+|,keradioaktifan,کراديواکتيفن
+|,keragaman,کراݢمن
+|,keseragaman,کسراݢمن
+|,keraguan,کراݢوان
+|,keragu-raguan,کراݢو ـ راݢوان
+|,kerahiman,کرحيمن
+|,kerahsiaan,کرهسياءن
+|,keraian,کراعين
+|,kerajaan,کراجاءن
+|,kerajinan,کراجينن
+|,keraksasaan,کرقساساءن
+|,kerakusan,کراکوسن
+|,kerakyatan,کرعيتن
+|,keramahan,کرامهن
+|,keramah-tamahan,کرامه ـ تامهن
+|,keramaian,کراماين
+|,keteramalan,کتراملن
+|,kerambangan,کرامبڠن
+|,kerampingan,کرمڤيڠن
+|,kerampokan,کرمڤوقن
+|,keranapan,کرانڤن
+|,kerancakan,کرنچقن
+|,kerancak-rancakan,کرنچق ـ رنچقن
+|,kerancuan,کرنچوان
+|,keranggian,کرڠݢين
+|,kerangupan,کراڠوڤن
+|,keranjingan,کرنجيڠن
+|,keserantauan,کسرنتاوان
+|,keranuman,کرانومن
+|,kerapatan,کراڤتن
+|,kerapian,کراڤين
+|,kerapuhan,کراڤوهن
+|,kerasaan,کراساءن
+|,keserasian,کسراسين
+|,kerasionalan,کراسيونلن
+|,kerasmian,کراسمين
+|,kerasukan,کراسوقن
+|,kerasulan,کرسولن
+|,kerataan,کراتاءن
+|,keserataan,کسراتاءن
+|,keseratus,کسراتوس
+|,kerawakan,کراوقن
+|,kerawanan,کراونن
+|,kerawitan,کراويتن
+|,kemerebakkan,کمربقکن
+|,kerecokan,کريچوقن
+|,keredaan,کرداءن
+|,keredaan,کرضاءن
+|,keredupan,کردوڤن
+|,keregangan,کرݢڠن
+|,kerehatan,کريحتن
+|,kerekahan,کرکهن
+|,kerelaan,کريلاءن
+|,kerelatifan,کريلاتيفن
+|,kerelevanan,کريلۏنن
+|,keremajaan,کرماجاءن
+|,keremangan,کرمڠن
+|,keremehan,کريميهن
+|,keserempakan,کسرمڤقن
+|,keremukan,کرموقن
+|,kerencaman,کرنچمن
+|,kerencatan,کرنچتن
+|,keterencatan,کترنچتن
+|,kerencongan,کرينچوڠن
+|,kerendahan,کرندهن
+|,kerendangan,کريندڠن
+|,kerenggangan,کرڠݢڠن
+|,kerengsaan,کريڠساءن
+|,kerenjatan,کرنجتن
+|,kerentanan,کرنتنن
+|,kerenyahan,کريهن
+|,kerenyukan,کرپوقن
+|,kerepotan,کريڤوتن
+|,kerepublikan,کريڤوبليکن
+|,kereputan,کرڤوتن
+|,kererambutan,کررمبوتن
+|,keresahan,کرسهن
+|,keresapan,کرسڤن
+|,keresidenan,کريسيدنن
+|,keretakan,کرتقن
+|,kerevolusioneran,کريۏولوسيونيرن
+|,kerewelan,کريويلن
+|,keriaan,کرياءن
+|,keriangan,کرياڠن
+|,keseribu,کسريبو
+|,keributan,کريبوتن
+|,kericauan,کريچاوان
+|,kericuan,کريچوان
+|,kerimasan,کريمسن
+|,kerimbunan,کريمبونن
+|,kerinduan,کريندوان
+|,keringanan,کريڠنن
+|,keringkasan,کريڠکسن
+|,keperintisan,کڤرينتيسن
+|,kerisauan,کريساوان
+|,keriuhan,کريوهن
+|,kerobohan,کروبوهن
+|,kerohanian,کوحانين
+|,kerombakan,کرومبقن
+|,kerongakan,کروڠقن
+|,kerongkong,کروڠکوڠ
+|,kerongkongan,کروڠکوڠن
+|,kerosakan,کروسقن
+|,kemerosotan,کمروسوتن
+|,keroyalan,کرويلن
+|,kemeruapan,کمرواڤن
+|,kerugian,کروݢين
+|,kerukunan,کروکونن
+|,kerumitan,کروميتن
+|,keserumpunan,کسرومڤونن
+|,keruncingan,کرونچيڠن
+|,kerungkuhan,کروڠکوهن
+|,kerunsingan,کرونسيڠن
+|,keruntuhan,کرونتوهن
+|,kerupawan,کروڤاون
+|,kerupawanan,کروڤاونن
+|,keserupaan,کسروڤاءن
+|,kerusuhan,کروسوهن
+|,keruwatan,کروواتن
+|,kesabahan,کسابهن
+|,kesabaran,کصبرن
+|,kesadahan,کسادهن
+|,kesahan,کصحن
+|,kebersahajaan,کبرسهاجاءن
+|,kesahajaan,کسهاجاءن
+|,kesahihan,کصحيحن
+|,ketidaksahihan,کتيدقصحيحن
+|,kesaintifikan,کساءينتيفيکن
+|,kesakitan,کساکيتن
+|,kesaksamaan,کسقساماءن
+|,kesaksian,کسقسين
+|,kesakti,کسقتي
+|,kesaktian,کسقتين
+|,kebersalahan,کبرسالهن
+|,kesalahan,کسالهن
+|,ketersalahan,کترسالهن
+|,kesalasilahan,کسلسيلهن
+|,kesalingan,کساليڠن
+|,kebersamaan,کبرساماءن
+|,kesamaan,کساماءن
+|,ketidaksamaan,کتيدقساماءن
+|,kesamaran,کسامرن
+|,kesampaian,کسمڤاين
+|,ke samping,کسمڤيڠ
+|,kesamsengan,کسمسيڠن
+|,kesamunan,کسامونن
+|,ke sana,کسان
+|,kesanakan,کساناکن
+|,kesangatan,کساڠتن
+|,kesanggupan,کسڠݢوڤن
+|,kesangsian,کسڠسين
+|,kesantaian,کسنتاين
+|,kesantunan,کسنتونن
+|,kesarjanaan,کسرجاناءن
+|,kesarwajagatan,کسرواجاݢتن
+|,kesasaan,کساساءن
+|,kesasar,کساسر
+|,kesusasteraan,کسوسستراءن
+|,kesasterawanan,کسستراونن
+|,ketersasulan,کترساسولن
+|,kesatuan,کساتوان
+|,kesayangan,کسايڠن
+|,kesayuan,کسايوان
+|,kesebakan,کسبقن
+|,kesebalan,کسبلن
+|,ketersebaran,کترسيبارن
+|,kesebatan,کسيبتن
+|,keseberangan,کسبرڠن
+|,kesebuan,کسبوان
+|,kesebutan,کسبوتن
+|,kesedakan,کسدقن
+|,kesedapan,کسدڤن
+|,kesedaran,کسدرن
+|,ketidaksedaran,کتيدقسدرن
+|,kesederhanaan,کسدرهاناءن
+|,kebersediaan,کبرسدياءن
+|,kesediaan,کسدياءن
+|,ketersediaan,کترسدياءن
+|,kesedihan,کسديهن
+|,kesegakan,کسيݢقن
+|,kesegalaan,کسݢالاءن
+|,keseganan,کسݢنن
+|,kesegaran,کسݢرن
+|,kesegeraan,کسݢراءن
+|,kesejahteraan,کسجهتراءن
+|,kesejarahan,کسجارهن
+|,kesejukan,کسجوقن
+|,keseksian,کسيکسين
+|,keseksualan,کسيکسوالن
+|,kesekularan,کسيکولرن
+|,keselak,کسلق
+|,keselaluan,کسلالوان
+|,keselamatan,کسلامتن
+|,keselapan,کسلڤن
+|,keselesaan,کسليساءن
+|,ketidakselesaan,کتيدقسليساءن
+|,keselesaian,کسلساين
+|,keseluruhan,کسلوروهن
+|,kesemanan,کسيمنن
+|,kesemaraan,کسماراءن
+|,kesemarakkan,کسمارقکن
+|,kesembapan,کسمبڤن
+|,kesemberonoan,کسمبرونوان
+|,kesembilan,کسمبيلن
+|,kesembilan-sembilan,کسمبيلن ـ سمبيلن
+|,kesembuhan,کسمبوهن
+|,kesemenanjungan,کسمننجوڠن
+|,kesemendaan,کسمنداءن
+|,kesementaraan,کسمنتاراءن
+|,kesemestaan,کسمستاءن
+|,kesempatan,کسمڤتن
+|,kesempitan,کسمڤيتن
+|,kesempurnaan,کسمڤورناءن
+|,kesemputan,کسمڤوتن
+|,kesemua,کسموا
+|,kesemuanya,کسمواڽ
+|,kesemutan,کسموتن
+|,kesemut-semutan,کسموت ـ سموتن
+|,kesenak,کسنق
+|,kesenakan,کسنقن
+|,kesenak-senakan,کسنق ـ سنقن
+|,kesenangan,کسنڠن
+|,kesendalan,کسندلن
+|,kesendatan,کسندتن
+|,kebersendirian,کبرسنديرين
+|,kesendirian,کسنديرين
+|,ketersendirian,کترسنديرين
+|,kesenduan,کسندوان
+|,kesengajaan,کسڠاجاءن
+|,kesengauan,کسڠاوان
+|,kesenggangan,کسڠݢڠن
+|,kesengitan,کسڠيتن
+|,kesengsaraan,کسڠساراءن
+|,kesengsem,کسڠسم
+|,kesenian,کسنين
+|,kesenimanan,کسنيمنن
+|,kesenjaan,کسنجاءن
+|,kesenjangan,کسينجڠن
+|,kesenjataan,کسنجاتاءن
+|,kesensitifan,کسينسيتيفن
+|,kesentengan,کسينتيڠن
+|,kesentosaan,کسنتوساءن
+|,kesentuhan,کسنتوهن
+|,kesenyapan,کسپڤن
+|,kesepian,کسڤين
+|,keserabutan,کسرابوتن
+|,keserakahan,کسراکهن
+|,keseraman,کسرمن
+|,keserampangan,کسرمڤڠن
+|,keserangan,کسيرڠن
+|,keseranian,کسرانين
+|,keterserapan,کترسرڤن
+|,keserbasalahan,کسرباسالهن
+|,keserempet,کسريمڤيت
+|,keserentakan,کسرنتقن
+|,keserian,کسرين
+|,keserimpet,کسريمڤت
+|,keseringan,کسريڠن
+|,keseriusan,کسيريوسن
+|,keterserlahan,کترسرلهن
+|,keserongan,کسيروڠن
+|,keseronokan,کسرونوقن
+|,ketidakseronokan,کتيدقسرونوقن
+|,kesertamertaan,کسرتامرتاءن
+|,kesesakan,کسسقن
+|,kesesalan,کسسلن
+|,kesesatan,کسستن
+|,kesesiaan,کسسياءن
+|,kesesuaian,کسسواين
+|,ketidaksesuaian,کتيدقسسواين
+|,kesetanan,کسيتنن
+|,kesetiaan,کستياءن
+|,kesetiakawanan,کستياکاونن
+|,kesetiausahaan,کستياءوسهاءن
+|,kesia-siaan,کسيا ـ سياءن
+|,kesiagaan,کسياݢاءن
+|,kesialan,کسيالن
+|,kesiangan,کسياڠن
+|,kesiapan,کسياڤن
+|,kesibukan,کسيبوقن
+|,kesigapan,کسيݢڤن
+|,kesihatan,کصيحتن
+|,kesilaman,کسيلمن
+|,kesilapan,کسيلڤن
+|,kesilauan,کسيلاوان
+|,kesimpulan,کسيمڤولن
+|,kesinambungan,کسينمبوڠن
+|,ketidaksinambungan,کتيدقسينمبوڠن
+|,kesingkatan,کسيڠکتن
+|,kesinisan,کسينيسن
+|,kesinoniman,کسينونيمن
+|,kesipuan,کسيڤوان
+|,kesipu-sipuan,کسيڤو ـ سيڤوان
+|,ke sisi,کسيسي
+|,kesisipan,کسيسيڤن
+|,kesisiran,کسيسيرن
+|,ketidaksiuman,کتيدقسيومن
+|,kesiuman,کسيومن
+|,kesiutan,کسيوتن
+|,kesohor,کسوهور
+|,kesohoran,کسوهورن
+|,kesolehan,کصالحن
+|,kesolideran,کسوليديرن
+|,kesombongan,کسومبوڠن
+|,kesomplokan,کسومڤلوقن
+|,kesongsangan,کسوڠسڠن
+|,kesopanan,کسوڤنن
+|,kesopansantunan,کسوڤنسنتونن
+|,ketaksopanan,کتکسوڤنن
+|,kesosialan,کسوسيالن
+|,kespesifikan,کسڤيسيفيکن
+|,kespontanan,کسڤونتنن
+|,kestabilan,کستابيلن
+|,ketidakstabilan,کتيدقستابيلن
+|,kestatikan,کستاتيکن
+|,kesterilan,کستيريلن
+|,kesuaman,کسوامن
+|,kesubjektifan,کسوبحيکتيفن
+|,kesuburan,کسوبورن
+|,ketidaksuburan,کتيدقسوبورن
+|,kesucian,کسوچين
+|,kesudahan,کسودهن
+|,kesudah-sudahan,کسوده ـ سودهن
+|,kesudian,کسودين
+|,kesufan,کصوفين
+|,kesugulan,کسوݢولن
+|,kesukaan,کسوکاءن
+|,kesukanan,کسوکنن
+|,kesukaran,کسوکرن
+|,kesukarelaan,کسوکاريلاءن
+|,kesukarelawanan,کسوکاريلاونن
+|,kesukuan,کسوکوان
+|,kesulitan,کسوليتن
+|,kesultanan,کسلطانن
+|,kesumbangan,کسومبڠن
+|,kesunanan,کسوننن
+|,kesungguhan,کسوڠݢوهن
+|,kesuntukan,کسونتوقن
+|,kesunyataan,کسوپاتاءن
+|,kesunyian,کسوپين
+|,kesuraman,کسورمن
+|,kesurupan,کسوروڤن
+|,kesusahan,کسوسهن
+|,kesusasteraan,کسوسستراءن
+|,kesusilaan,کسوسيلاءن
+|,kesusupan,کسوسوڤن
+|,kesusutan,کسوسوتن
+|,kesyahduan,کشهدوان
+|,kesyahidan,کشهيدن
+|,kepenyairan,کڤپعيرن
+|,kesyaitanan,کشيطانن
+|,kesyirikan,کشيريکن
+|,kesyukuran,کشکورن
+|,kesyumulan,کشمولن
+|,kesyurgaan,کشرݢاءن
+|,ketaasuban,کتعصبن
+|,ketaatan,کطاعتن
+|,ketaatsetiaan,کطاعتستياءن
+|,ketidaktaatan,کتيدقطاعتن
+|,ketabahan,کتابهن
+|,ketabiban,کطبيبن
+|,ketagih,کتاݢيه
+|,ketagihan,کتاݢيهن
+|,ketagiran,کتاݢيرن
+|,ketahanan,کتاهنن
+|,ketahayulan,کتحيولن
+|,ketahuan,کتاهوان
+|,ketajaman,کتاجمن
+|,ketakburan,کتکبورن
+|,ketakdiran,کتقديرن
+|,ketakjuban,کتعجوبن
+|,ketaksaan,کتقساءن
+|,ketakutan,کتاکوتن
+|,ketakut-takutan,کتاکوت ـ تاکوتن
+|,ketakwaan,کتقواءن
+|,ketamadunan,کتمدونن
+|,ketamakan,کطمعن
+|,ketampakan,کتمڤقن
+|,ketampanan,کتمڤنن
+|,ketamuan,کتاموان
+|,ketandusan,کتندوسن
+|,ketangguhan,کتڠݢوهن
+|,ketanggungan,کتڠݢوڠن
+|,kebertanggungjawaban,کبرتڠݢوڠجوابن
+|,ketangkapan,کتڠکڤن
+|,ketangkasan,کتڠکسن
+|,kepertanian,کڤرتانين
+|,ketapakan,کتاڤقن
+|,kesetaraan,کستاراءن
+|,ketidaksetaraan,کتيدقستاراءن
+|,ketatabahasaan,کتاتابهاساءن
+|,ketatanegaraan,کتاتانݢاراءن
+|,ketataniagaan,کتاتانياݢاءن
+|,ketataprajaan,کتاتاڤراجاءن
+|,ketauhidan,کتوحيدن
+|,ketawa,کتاوا
+|,ketawakalan,کتوکلن
+|,ketawaran,کتاورن
+|,keteduhan,کتدوهن
+|,ketegakan,کتݢقن
+|,ketegangan,کتݢڠن
+|,ketegapan,کتݢڤن
+|,ketegaran,کتݢرن
+|,ketegasan,کتݢسن
+|,keteguhan,کتݢوهن
+|,ketegukan,کتݢوقن
+|,keteguran,کتݢورن
+|,ketekadan,کتيکدن
+|,ketekalan,کتکلن
+|,ketertekanan,کترتکنن
+|,ketekunan,کتکونن
+|,ketekuran,کتکورن
+|,keteladanan,کتلادنن
+|,ketelanjangan,کتلنجڠن
+|,ketelanjuran,کتلنجورن
+|,keteledoran,کتليدورن
+|,ketelitian,کتليتين
+|,keteloran,کتيلورن
+|,ketelusan,کتلوسن
+|,ketempangan,کتيمڤڠن
+|,ketempuhan,کتمڤوهن
+|,ketenagaan,کتناݢاءن
+|,ketenangan,کتنڠن
+|,ketenangan,کتينڠن
+|,ketenatan,کتنتن
+|,ke tengah,کتڠه
+|,ketenteraan,کتنتراءن
+|,ketenteraman,کتنترمن
+|,ketentuan,کتنتوان
+|,ketepatan,کتڤتن
+|,ketepuan,کتڤوان
+|,keterampilan,کترمڤيلن
+|,keterangan,کترڠن
+|,keterterapan,کترترڤن
+|,keterikan,کتريقن
+|,keterjalan,کترجلن
+|,keterjunan,کترجونن
+|,ketertiban,کترتيبن
+|,keterukan,کتروقن
+|,keberterusan,کبرتروسن
+|,keterusan,کتروسن
+|,ketetapan,کتتڤن
+|,ketewasan,کتيواسن
+|,ketiadaan,کتياداءن
+|,ketibaan,کتيباءن
+|,ketiduran,کتيدورن
+|,ketidur-tiduran,کتيدور ـ تيدورن
+|,ketiga,کتيݢ
+|,ketiga-tiga,کتيݢا ـ تيݢ
+|,kesetimbalan,کستيمبلن
+|,ketimbalan,کتيمبلن
+|,kesetimbangan,کستيمبڠن
+|,ketimpaan,کتيمڤاءن
+|,ketimuran,کتيمورن
+|,ketindihan,کتينديهن
+|,ketinggalan,کتيڠݢلن
+|,ketinggian,کتيڠݢين
+|,ketipisan,کتيڤيسن
+|,ketirisan,کتيريسن
+|,ketitir,کتيتير
+|,ketitiran,کتيتيرن
+|,ketohoran,کتوهورن
+|,ketokohan,کتوکوهن
+|,ketoksikan,کتوکسيکن
+|,ketololan,کتولولن
+|,ketolongan,کتولوڠن
+|,ketradisionalan,کتراديسيونلن
+|,ketakberubahan,کتاءبراوبهن
+|,keudikan,کأوديقن
+|,keterujaan,کتراوجاءن
+|,keujian,کأوجين
+|,keberulangan,کبراولڠن
+|,keuletan,کأولتن
+|,keulungan,کأولوڠن
+|,keterumbang-ambingan,کتراومبڠ ـ امبيڠن
+|,keumuman,کعمومن
+|,keunggulan,کأوڠݢولن
+|,keunguan,کأوڠوان
+|,keungu-unguan,کأوڠو ـ اوڠوان
+|,keunikan,کأونيکن
+|,keuniversalan,کأونيۏرسلن
+|,keuniversilan,کأونيۏرسيلن
+|,keberuntungan,کبراونتوڠن
+|,keuntungan,کأونتوڠن
+|,keupayaan,کأوڤاياءن
+|,ketidakupayaan,کتيدقاوڤاياءن
+|,kepengurusan,کڤڠاوروسن
+|,keurus,کأوروس
+|,keurusan,کأوروسن
+|,keusahawanan,کأسهاونن
+|,keusahawanan,کأوسهاونن
+|,keusangan,کأوسڠن
+|,keuskupan,کأوسکوڤن
+|,keutamaan,کأوتاماءن
+|,keutaraan,کأوتاراءن
+|,keseutuhan,کسأوتوهن
+|,keutuhan,کأوتوهن
+|,keuzuran,کعزورن
+|,kewafatan,کوفاتن
+|,kewahaman,کواهمن
+|,kewajaan,کواجاءن
+|,kewajaran,کواجرن
+|,kewajiban,کواجبن
+|,kewajipan,کواجيڤن
+|,kewangan,کواڠن
+|,kewangian,کواڠين
+|,kewanitaan,کوانيتاءن
+|,kewarakan,کوارعن
+|,kewarasan,کوارسن
+|,ketidakwarasan,کتيدقوارسن
+|,kewargaan,کورݢاءن
+|,kewarganegaraan,کورݢانݢاراءن
+|,kewarisan,کواريثن
+|,kewartawanan,کورتاونن
+|,kewaspadaan,کوسڤاداءن
+|,kewaswasan,کوسواسن
+|,kewatanan,کوطنن
+|,kewedanaan,کوداناءن
+|,kewedukan,کودوقن
+|,kesewenang-wenangan,کسونڠ ـ ونڠن
+|,kewenangan,کونڠن
+|,kewibawaan,کويباواءن
+|,kewilayahan,کولايهن
+|,kewingitan,کويڠتن
+|,keperwiraan,کڤرويراءن
+|,kewiraan,کويراءن
+|,kewujudan,کوجودن
+|,keyakinan,کيقينن
+|,keyatiman,کيتيمن
+|,kezaliman,کظاليمن
+|,
