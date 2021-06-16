@@ -1,0 +1,1586 @@
+|ca,چا
+|,caba,چاب
+|,cabah,چابه
+|,cabai,چاباي
+|,cabak,چابق
+|,cabang,چابڠ
+|,cabang-bercabang,چابڠ ـ برچابڠ
+|,cabar,چابر
+|,cabaran,چابرن
+|,cabau,چاباو
+|,cabi,چابي
+|,cabik,چابيق
+|,cabik-cabik,چابيق٢
+|,cabikan,چابيقن
+|,cabir,چابير
+|,cabit (cabik),چابيت
+|,cabu,چابو
+|,cabuh,چابوه
+|,cabuk,چابوق
+|,cabul,چابول
+|,cabur,چابور
+|,cabut,چابوت
+|,cabutan,چابوتن
+|,caca,چاچ
+|,cacah,چاچه
+|,cacahan,چاچهن
+|,cacak,چاچق
+|,cacal,چاچل
+|,cacamarba,چاچامربا
+|,cacamerba (cacamarba),چاچامربا
+|,cacang,چاچڠ
+|,cacap,چاچڤ
+|,cacar,چاچر
+|,cacat,چاچت
+|,cacatan,چاچتن
+|,cacau,چاچاو
+|,cacauan,چاچاوان
+|,caci,چاچي
+|,cacian,چاچين
+|,cacibar,چاچيبر
+|,cacil,چاچيل
+|,cacing,چاچيڠ
+|,cacingan,چاچيڠن
+|,cacir,چاچير
+|,cadai,چاداي
+|,cadak,چادق
+|,cadang,چادڠ
+|,cadangan,چادڠن
+|,cadar,چادر
+|,cadas,چادس
+|,cadi,چادي
+|,cadik (cadi),چاديق
+|,cading,چاديڠ
+|,cadir (cadar),چادير
+|,cadu,چادو
+|,caduk,چادوق
+|,cadung,چادوڠ
+|,cadur,چادور
+|,caga,چاݢ
+|,cagak,چاݢق
+|,cagar,چاݢر
+|,cagaran,چاݢرن
+|,cagau,چاݢاو
+|,cagu,چاݢو
+|,caguk,چاݢوق
+|,cagul,چاݢول
+|,cagun,چاݢون
+|,cagut,چاݢوت
+|,cah,چه
+|,cahang,چاهڠ
+|,cahar,چاهر
+|,cahaya,چهاي
+|,caik,چاءيق
+|,caing,چاءيڠ
+|,caing-caing,چاءيڠ٢
+|,cuang-caing,چواڠ ـ چاءيڠ
+|,caipo,چايڤو
+|,cair,چاءير
+|,cairan,چاءيرن
+|,cais,چاءيس
+|,caj,چج
+|,cak,چق
+|,caka,چاک
+|,cakah,چاکه
+|,cakai,چاکاي
+|,cakak,چاکق
+|,cakal,چاکل
+|,cakalele,چاکاليلي
+|,cakam,چاکم
+|,cakang,چاکڠ
+|,cakap,چاکڤ
+|,cakapan,چاکڤن
+|,cakar,چاکر
+|,cakat,چاکت
+|,cakatan (cekatan),چاکتن
+|,cakau (cekau),چاکاو
+|,cakawari,چکاواري
+|,cakdik,چقديق
+|,cakela,چکلا
+|,cakera,چکرا
+|,cakeram,چکرم
+|,cakerawala,چکراوالا
+|,cakerawati,چکراواتي
+|,cakiah,چاکياه
+|,cakil,چاکيل
+|,caking,چاکيڠ
+|,cakla (cakela),چقلا
+|,caklempong,چقليمڤوڠ
+|,cakmau (camau),چقماو
+|,cakna,چقنا
+|,cakoi,چاکوي
+|,cakruk,چاکروق
+|,caktai,چقتاي
+|,caku,چاکو
+|,cakuk (cangkuk),چاکوق
+|,cakung,چاکوڠ
+|,cakup,چاکوڤ
+|,cakupan,چاکوڤن
+|,cakus,چاکوس
+|,cala,چالا
+|,calabikang,چلابيکڠ
+|,calak,چالق
+|,calang,چالڠ
+|,calang-calang,چالڠ٢
+|,calar,چالر
+|,calar-balar,چالر ـ بالر
+|,calat,چالت
+|,calet,چاليت
+|,calik,چاليق
+|,caling,چاليڠ
+|,calir,چالير
+|,calit,چاليت
+|,calo,چالو
+|,calon,چالون
+|,calu,چالو
+|,calui,چالوءي
+|,caluk (cencaluk),چالوق
+|,calun,چالون
+|,calung,چالوڠ
+|,calus,چالوس
+|,cam,چم
+|,camang,چامڠ
+|,camar,چامر
+|,camas,چامس
+|,camat,چامت
+|,camau,چاماو
+|,cambah,چمبه
+|,cambahan,چمبهن
+|,cambai,چمباي
+|,cambak,چمبق
+|,cambang,چامبڠ
+|,cambir,چمبير
+|,cambis,چمبيس
+|,cambuk,چمبوق
+|,cambul,چامبول
+|,cambung,چامبوڠ
+|,cambur,چمبور
+|,cambut,چمبوت
+|,camca,چمچا
+|,camcauh,چمچاءوه
+|,camdik,چمديق
+|,camik,چاميق
+|,camin,چامين
+|,caming,چاميڠ
+|,campa,چمڤا
+|,campadang,چمڤادڠ
+|,campaga,چمڤاݢ
+|,campah,چمڤه
+|,campai (capai),چمڤاي
+|,campak,چامڤق
+|,campang,چمڤڠ
+|,campar,چمڤر
+|,camparingat (cemperingat),چمڤاريڠت
+|,campelu (cempelu),چمڤلو
+|,campin,چمڤين
+|,camping,چمڤيڠ
+|,campung,چامڤوڠ
+|,campur,چمڤور
+|,campuran,چمڤورن
+|,camti (cemeti),چمتي
+|,camuk,چاموق
+|,camur,چامور
+|,can,چن
+|,cana,چان
+|,canai,چاناي
+|,canaian,چاناين
+|,canak,چانق
+|,canang,چانڠ
+|,canar,چانر
+|,cancang,چانچڠ
+|,cancir,چنچير
+|,cancut,چنچوت
+|,canda,چندا
+|,candai (cindai),چنداي
+|,candak,چندق
+|,candakia,چنداکيا
+|,candal,چندل
+|,candan,چندن
+|,candang,چندڠ
+|,candapeti,چنداڤتي
+|,candara (cendera),چندارا
+|,candarasa,چنداراس
+|,candas,چندس
+|,candat,چندت
+|,candawara,چنداوارا
+|,candera (cendera),چندرا
+|,candelier,چنديليئر
+|,candi,چندي
+|,candik,چنديق
+|,candit,چنديت
+|,candu,چندو
+|,canduk,چندوق
+|,candung,چندوڠ
+|,candupeti,چندوڤتي
+|,cang,چڠ
+|,cangah,چاڠه
+|,cangak,چاڠق
+|,cangal,چاڠل
+|,cangap,چاڠڤ
+|,cangcang,چڠچڠ
+|,cangerai,چڠراي
+|,cangga,چڠݢ
+|,canggaan,چڠݢاءن
+|,canggah,چڠݢه
+|,canggai,چڠݢاي
+|,canggal,چڠݢل
+|,canggih,چڠݢيه
+|,canggik,چڠݢيق
+|,canggit,چڠݢيت
+|,canggu (cagu),چڠݢو
+|,cangguk,چڠݢوق
+|,canggung,چڠݢوڠ
+|,canggut,چڠݢوت
+|,cangip,چاڠيڤ
+|,cangit,چاڠيت
+|,cangkai,چڠکاي
+|,cangkal,چڠکل
+|,cangkaliwang,چڠکاليواڠ
+|,cangkan,چڠکن
+|,cangkang,چڠکڠ
+|,cangkas,چڠکس
+|,cangkat,چڠکت
+|,cangkau (cengkau),چڠکاو
+|,cangkel,چڠکيل
+|,cangkelong,چڠکلوڠ
+|,cangkerang,چڠکرڠ
+|,cangkering,چڠکريڠ
+|,cangkih,چڠکيه
+|,cangkih-mangkih,چڠکيه ـ مڠکيه
+|,cangking,چاڠکيڠ
+|,cangkingan,چاڠکيڠن
+|,cangkir,چاڠکير
+|,cangkis,چڠکيس
+|,cangkoi,چڠکوي
+|,cangkriman,چڠکريمن
+|,cangku (cengkau),چڠکو
+|,cangkuk,چاڠکوق
+|,cangkukan,چاڠکوقن
+|,cangkul,چڠکول
+|,cangkum,چڠکوم
+|,cangkung,چاڠکوڠ
+|,cangkup,چڠکوڤ
+|,cangkur,چڠکور
+|,cangluk,چڠلوق
+|,canguk,چاڠوق
+|,cangut,چاڠوت
+|,canigara,چنيݢارا
+|,canis,چانيس
+|,canit,چانيت
+|,canseleri,چنسلري
+|,canselor,چنسلور
+|,canselori,چنسلوري
+|,cantas,چنتس
+|,cantasan,چنتسن
+|,cantel,چنتيل
+|,cantelan,چنتيلن
+|,cantengan,چنتڠن
+|,canterik,چنتريق
+|,cantik,چنتيق
+|,cantil,چنتيل
+|,canting,چنتيڠ
+|,canting-canting,چنتيڠ٢
+|,cantir,چنتير
+|,cantis,چنتيس
+|,cantis-cantis,چنتيس٢
+|,cantol,چنتول
+|,cantum,چنتوم
+|,cantuman,چنتومن
+|,cantun,چنتون
+|,cantung (centung),چانتوڠ
+|,canu,چانو
+|,cap,چڤ
+|,cap-mengecap,چڤ ـ مڠچڤ
+|,capa,چاڤ
+|,capah,چاڤه
+|,capai,چاڤاي
+|,capaian,چاڤاين
+|,capak,چاڤق
+|,capal,چاڤل
+|,capang,چاڤڠ
+|,capar,چاڤر
+|,capat,چاڤت
+|,capati,چڤاتي
+|,capau,چاڤاو
+|,capcai,چڤچاي
+|,capcap,چڤچڤ
+|,capcibar (tabtibau),چڤچيبر
+|,capcup,چڤچوڤ
+|,capek,چاڤيق
+|,capelak,چڤلق
+|,capelin,چڤلين
+|,capelus,چڤلوس
+|,caperon,چاڤرون
+|,capgome,چڤݢومي
+|,capi,چاڤي
+|,capiau (cepiau),چاڤياو
+|,capik,چاڤيق
+|,capil,چاڤيل
+|,caping,چاڤيڠ
+|,capit,چاڤيت
+|,capjiki,چڤجيکي
+|,caplak,چاڤلق
+|,caplok,چاڤلوق
+|,capu (capa),چاڤو
+|,capuk,چاڤوق
+|,capul,چاڤول
+|,cara,چارا
+|,cara-cara,چارا٢
+|,carah,چاره
+|,carai,چاراي
+|,carak,چارق
+|,caram,چارم
+|,caran,چارن
+|,carang,چارڠ
+|,carap,چارڤ
+|,carat (carak),چارت
+|,carbi,چربي
+|,carca,چرچا
+|,cari,چاري
+|,carian,چارين
+|,carik,چاريق
+|,carik-serenyih,چاريق ـ سرپيه
+|,carikan,چاريقن
+|,caring,چاريڠ
+|,carip,چاريڤ
+|,caroi,چاروي
+|,carta,چرتا
+|,carter,چرتر
+|,cartis,چرتيس
+|,cartisme,چرتسمى
+|,caru,چارو
+|,caruh (ceruh),چاروه
+|,caruk,چاروق
+|,carum,چاروم
+|,caruman,چارومن
+|,carup,چاروڤ
+|,carut,چاروت
+|,carut-capai,چاروت ـ چاڤاي
+|,carut-marut,چاروت ـ ماروت
+|,carutan,چاروتن
+|,cas,چس
+|,casis,چاسيس
+|,casmah,چسمه
+|,cat,چت
+|,catan,چتن
+|,catak,چاتق
+|,catang,چاتڠ
+|,catar,چاتر
+|,catas (cantas),چاتس
+|,catat,چاتت
+|,catatan,چاتتن
+|,catik,چاتيق
+|,catit (catat),چاتيت
+|,cato,چاتو
+|,catu,چاتو
+|,catuan,چاتوان
+|,catuh,چاتوه
+|,catuk,چاتوق
+|,catung (centong),چاتوڠ
+|,catur,چاتور
+|,caturan,چاتورن
+|,catus,چاتوس
+|,catut,چاتوت
+|,catutan,چاتوتن
+|,cau,چاو
+|,cauk,چاءوق
+|,caul,چاءول
+|,caung,چاءوڠ
+|,caus,چاءوس
+|,cauvinis,چاوۏينيس
+|,cauvinisme,چاوۏينيسمى
+|,cawak,چاوق
+|,cawan,چاون
+|,cawang,چاوڠ
+|,cawangan,چاوڠن
+|,cawas,چاوس
+|,cawat,چاوت
+|,cawi,چاوي
+|,cawi-cawi,چاوي٢
+|,cawis,چاويس
+|,cayah,چايه
+|,cayu,چايو
+|,cayus,چايوس
+|,cebadak,چبادق
+|,cebak,چبق
+|,cebakan,چبقن
+|,cebak-cebuk,چبق ـ چبوق
+|,ceban,چبن
+|,cebar-cebur,چبر ـ چبور
+|,cebeh,چيبيه
+|,cebek,چيبيق
+|,cebelus,چبلوس
+|,ceber,چيبير
+|,cebet,چيبيت
+|,cebiak,چبياق
+|,cebik,چبيق
+|,cebikan,چبيقن
+|,cebik-cebai,چبيق ـ چباي
+|,cebil,چبيل
+|,cebir,چبير
+|,cebis,چبيس
+|,cebisan,چبيسن
+|,ceblik,چبليق
+|,cebok,چيبوق
+|,cebol,چيبول
+|,cebong,چيبوڠ
+|,cebubung,چبوبوڠ
+|,cebur,چبور
+|,cecadu,چچادو
+|,cecah,چچه
+|,cecair,چچاءير
+|,cecak,چچق
+|,cecakup,چچکوڤ
+|,cecap,چچڤ
+|,cecar,چچار
+|,cecarik,چچاريق
+|,cecaru,چچارو
+|,cecawi,چچاوي
+|,cece,چيچي
+|,ceceh,چيچيه
+|,cecekik,چچکيق
+|,ceceng,چيچيڠ
+|,cecentung,چچنتوڠ
+|,cecepu,چچوڤو
+|,cecer (cicir),چيچير
+|,cecereh,چچيريه
+|,cecerek,چچيريق
+|,cecerong,چچيروڠ
+|,cecewe,چچيوي
+|,ceciah,چچياه
+|,ceciak,چچياق
+|,cecibang,چچيبڠ
+|,cecibar,چچيبر
+|,cecicak,چچيچق
+|,cecincin,چچينچين
+|,cecodot,چچودوت
+|,cecok (cekcok),چيچوق
+|,cecolek,چچوليق
+|,cecongor,چچوڠور
+|,cecumit,چچوميت
+|,cecunda (cucunda),چچوندا
+|,cecunguk,چچوڠوق
+|,cecuri,چچوري
+|,cedak,چدق
+|,cedas,چدس
+|,cedaya,چداي
+|,cedera,چدرا
+|,ceding,چديڠ
+|,cedok,چيدوق
+|,cedokan,چيدوقن
+|,cedong (cedok),چيدوڠ
+|,ceduk,چدوق
+|,cedung,چدوڠ
+|,cef,چيف
+|,cega,چيݢ
+|,cegah,چݢه
+|,cegahan,چݢهن
+|,cegak (tegak),چݢق
+|,cegak (kuat),چيݢق
+|,cegar,چݢر
+|,cegas (cergas),چݢس
+|,cegat,چݢت
+|,ceguk,چݢوق
+|,ceh,چيه
+|,cehari (cari),چهاري
+|,cek,چيک
+|,ceka,چيکا
+|,cekah,چکه
+|,cekak,چکق
+|,cekal,چکل
+|,cekalan,چکلن
+|,cekalang,چکالڠ
+|,cekalung,چکالوڠ
+|,cekam,چکم
+|,cekaman,چکمن
+|,cekang,چکڠ
+|,cekap,چکڤ
+|,cekar,چکر
+|,cekara,چکارا
+|,cekarau,چکاراو
+|,cekarung,چکاروڠ
+|,cekas,چکس
+|,cekat,چکت
+|,cekatan,چکاتن
+|,cekati,چکاتي
+|,cekau,چکاو
+|,cekcok,چيقچوق
+|,cekel (cekal),چکل
+|,cekel,چيکيل
+|,ceker,چيکير
+|,cekera,چکرا
+|,cekerau (cekarau),چکراو
+|,cekerang,چکرڠ
+|,cekering (cengkering),چکريڠ
+|,ceketing,چکتيڠ
+|,ceki,چکي
+|,cekiak,چکياق
+|,cekibar,چکيبر
+|,cekih,چکيه
+|,cekik,چکيق
+|,cekikan,چکيقن
+|,cekik-cekik,چکيق٢
+|,ceking,چکيڠ
+|,cekit,چکيت
+|,cekodok,چکودوق
+|,cekram (cakeram),چکرم
+|,ceku,چکو
+|,cekuak,چکواق
+|,cekuari (cakawari),چکواري
+|,cekuh,چکوه
+|,cekuk,چکوق
+|,cekung,چکوڠ
+|,cekup,چکوڤ
+|,cekur,چکور
+|,cekurung,چکوروڠ
+|,cekut,چکوت
+|,cela,چلا
+|,celaan,چلاءن
+|,cela-mencela,چلا ـ منچلا
+|,cela (cele),چيلا
+|,celabir,چلابير
+|,celabikang,چلابيکڠ
+|,celadak,چلادق
+|,celadang,چلادڠ
+|,celadi,چلادي
+|,celaga,چلاݢ
+|,celagah (telagah),چلاݢه
+|,celagi,چلاݢي
+|,celaguri,چلاݢوري
+|,celah,چله
+|,celak,چلق
+|,celak,چيلق
+|,celaka,چلاک
+|,celakuti,چلاکوتي
+|,celalongan,چلالوڠن
+|,celam-celum,چلم ـ چلوم
+|,celampak,چلمڤق
+|,celampus,چلمڤوس
+|,celana,چلان
+|,celanat,چلانت
+|,celang,چلڠ
+|,celangak,چلاڠق
+|,celangap,چلاڠڤ
+|,celap,چلڤ
+|,celapa,چلاڤ
+|,celapah,چلاڤه
+|,celapak,چلاڤق
+|,celapeta,چلاڤيتا
+|,celapik,چلاڤيق
+|,celaping,چلاڤيڠ
+|,celar,چلر
+|,celarai (celari),چلاراي
+|,celari,چلاري
+|,celarik,چلاريق
+|,celaring,چلاريڠ
+|,celaru,چلارو
+|,celarung,چلاروڠ
+|,celarut,چلاروت
+|,celas-celus,چلس ـ چلوس
+|,celat,چلات
+|,celatang,چلاتڠ
+|,celatih,چلاتيه
+|,celatik,چلاتيق
+|,celatim,چلاتيم
+|,celatu,چلاتو
+|,celatuk,چلاتوق
+|,celau,چلاو
+|,celawagi (cilawagi),چلاواݢي
+|,celayut,چلايوت
+|,cele,چيلي
+|,celebingka,چلبيڠک
+|,celebuk,چلبوق
+|,celebur,چلبور
+|,celedang-celedok,چليدڠ ـ چليدوق
+|,celedok,چليدوق
+|,celeguri (celaguri),چلݢوري
+|,celek,چلق
+|,celek,چيليق
+|,celeka,چليک
+|,celekati,چلکاتي
+|,celekeh (selekeh),چليکيه
+|,celekoh,چليکوه
+|,celekuk,چلکوق
+|,celekung,چلکوڠ
+|,celekuti (celakuti),چلکوتي
+|,celempong,چليمڤوڠ
+|,celempung,چلمڤوڠ
+|,celen,چيلين
+|,celeng,چيليڠ
+|,celengan,چيليڠن
+|,celengap,چلڠق
+|,celengkak-celengkok,چليڠکق ـ چليڠکوق
+|,celengkang-celengkok,چليڠکڠ ـ چليڠکوق
+|,celengkoh,چليڠکوه
+|,celengkok,چليڠکوق
+|,celentang,چلنتڠ
+|,celek,چلق
+|,celepa,چلڤا
+|,celepak (celapak),چلڤق
+|,celepam-celepum,چلڤم ـ چلڤوم
+|,celepang,چلڤڠ
+|,celepang-celepung,چلڤڠ ـ چلڤوڠ
+|,celepek,چليڤيق
+|,celepik,چلڤيق
+|,celepuh,چلڤوه
+|,celepuk,چلڤوق
+|,celepung,چلڤوڠ
+|,celeput,چلڤوت
+|,celetuk,چلتوق
+|,celi,چلي
+|,celicap,چليچڤ
+|,celici,چليچي
+|,celidup,چليدوڤ
+|,celih,چليه
+|,celik,چليق
+|,celiki,چليکي
+|,celinang,چلينڠ
+|,celinap,چلينڤ
+|,celing,چليڠ
+|,celinguk (celangak),چليڠوڤ
+|,celis,چليس
+|,celomes,چلوميس
+|,celomok,چلوموق
+|,celomor (celumur),چلومور
+|,celonet,چلونيت
+|,celopar,چلوڤر
+|,celopong,چلوڤوڠ
+|,celopor (celupar),چلوڤور
+|,celorang,چلورڠ
+|,celoreng,چلوريڠ
+|,celorong-celoreng,چلوروڠ ـ چلوريڠ
+|,celorot (celurut),چلوروت
+|,celotak,چلوتق
+|,celoteh,چلوتيه
+|,celoteng,چلوتيڠ
+|,celuk,چلوق
+|,celuluh,چلولوه
+|,celulur,چلولور
+|,celulus,چلولوس
+|,celulut,چلولوت
+|,celumang,چلومڠ
+|,celum-celam,چلوم ـ چلم
+|,celumis (celomes),چلوميس
+|,celumu,چلومو
+|,celumur,چلومور
+|,celumut,چلوموت
+|,celung,چلوڠ
+|,celung-celang,چلوڠ ـ چلڠ
+|,celungap,چلوڠڤ
+|,celuntang,چلونتڠ
+|,celup,چلوڤ
+|,celupan,چلوڤن
+|,celup-celup,چلوڤ٢
+|,celupak,چلوڤق
+|,celupar,چلوڤر
+|,celupas,چلوڤس
+|,celur,چلور
+|,celuran,چلورن
+|,celurut,چلوروت
+|,celus,چلوس
+|,celus-celas,چلوس ـ چلس
+|,celut,چلوت
+|,celutai,چلوتاي
+|,celutak,چلوتق
+|,celutuk,چلوتوق
+|,celutung,چلوتوڠ
+|,cema,چيما
+|,cemabai,چماباي
+|,cemahang,چماهڠ
+|,cemai,چماي
+|,cemak,چمق
+|,cemala,چمالا
+|,cemamai,چماماي
+|,cemamar,چمامر
+|,cemamping,چممڤيڠ
+|,cemangan,چماڠن
+|,cemangi,چماڠي
+|,cemangkih,چمڠکيه
+|,cemani,چماني
+|,cemantung,چمنتوڠ
+|,cemar,چمر
+|,cemara,چمارا
+|,cemarak,چمارق
+|,cemarang,چمارڠ
+|,cemas,چمس
+|,cemas-cemas,چمس٢
+|,cemat,چمت
+|,cemati,چماتي
+|,cematung,چماتوڠ
+|,cemau,چماو
+|,cembang,چمبڠ
+|,cembelang,چمبلڠ
+|,cembeng,چيمبيڠ
+|,cembu,چمبو
+|,cembuku,چمبوکو
+|,cembul,چمبول
+|,cembung,چمبوڠ
+|,cemburu,چمبورو
+|,cemburuan,چمبوروان
+|,cemburut,چمبوروت
+|,cemcili,چمچيلي
+|,cemeeh,چميعيه
+|,cemeh,چيميه
+|,cemek (cemeh),چيميق
+|,cemeki (jemiki),چمکي
+|,cemekian,چمکيان
+|,cememar,چممر
+|,cememar (cemamar),چيميمر
+|,cememar,چميمر
+|,cememis,چميميس
+|,cememot,چميموت
+|,cemendari,چمنداري
+|,cemengkian,چمڠکيان
+|,cemeni (cimni),چمني
+|,cemer (cemeh),چيمير
+|,cemerkap,چمرکڤ
+|,cemerlang,چمرلڠ
+|,cemerling,چمرليڠ
+|,cemeti,چمتي
+|,cemetuk,چمتوق
+|,cemidu,چميدو
+|,cemiduk,چميدوق
+|,cemik,چميق
+|,cemikan,چميقن
+|,cemocok,چموچوق
+|,cemomot,چموموت
+|,cemong,چيموڠ
+|,cemongkah-cemangkih,چموڠکه ـ چمڠکيه
+|,cempa,چمڤا
+|,cempadang,چمڤادڠ
+|,cempaga,چمڤاݢ
+|,cempak,چمڤق
+|,cempaka,چمڤاک
+|,cempala,چمڤالا
+|,cempana (jempana),چمڤان
+|,cempas,چمڤس
+|,cempaung,چمڤاءوڠ
+|,cempaya,چمڤاي
+|,cempedak,چمڤدق
+|,cempek,چيمڤيق
+|,cempelak,چمڤلق
+|,cempelang,چمڤلڠ
+|,cempelik,چمڤليق
+|,cempelu,چمڤلو
+|,cempelung,چمڤلوڠ
+|,cempenai,چمڤناي
+|,cempeng,چيمڤيڠ
+|,cempening,چمڤنيڠ
+|,cempera,چمڤرا
+|,cemperai,چمڤراي
+|,cemperas,چمڤرس
+|,cemperdik,چمڤرديق
+|,cemperingat,چمڤريڠت
+|,cemperling,چمڤرليڠ
+|,cempiang,چمڤياڠ
+|,cemping,چمڤيڠ
+|,cempiras,چمڤيرس
+|,cempo,چمڤو
+|,cempoa (sempoa),چمڤوا
+|,cempuling,چمڤوليڠ
+|,cempung,چمڤوڠ
+|,cempunit (temponik),چمڤونيت
+|,cempurit,چمڤوريت
+|,cempurna,چمڤورنا
+|,cemuas (jemuas),چمواس
+|,cemucup (kemuncuk),چموچوڤ
+|,cemuh,چموه
+|,cemuhan,چموهن
+|,cemuh-mencemuh,چموه ـ منچموه
+|,cemuk,چموق
+|,cemumu,چمومو
+|,cemuncup,چمونچوڤ
+|,cemuris,چموريس
+|,cemus,چموس
+|,cena,چنا
+|,cena,چينا
+|,cenaguri (celaguri),چناݢوري
+|,cenak,چنق
+|,cenaka,چناک
+|,cenaku,چناکو
+|,cenama,چنام
+|,cenana,چنان
+|,cenangau,چناڠاو
+|,cenangga,چنڠݢ
+|,cenangkas,چنڠکس
+|,cenantan,چننتن
+|,cenatur,چناتور
+|,cenayang,چنايڠ
+|,cencada,چنچادا
+|,cencadak,چنچادق
+|,cencadu,چنچادو
+|,cencala,چنچالا
+|,cencaluk,چنچالوق
+|,cencamar,چنچامر
+|,cencang,چنچڠ
+|,cencangan,چنچڠن
+|,cencaru,چنچارو
+|,cencawan,چنچاون
+|,cencawi,چنچاوي
+|,cencen  (cece),چينچين
+|,cenceng,چينچيڠ
+|,cencilai,چنچيلاي
+|,cencodak,چنچودق
+|,cencorot,چنچوروت
+|,cencurut,چنچوروت
+|,cenda (cinda),چندا
+|,cendaku,چنداکو
+|,cendala,چندالا
+|,cendana,چندان
+|,cendanau,چنداناو
+|,cendang,چندڠ
+|,cendangan,چنداڠن
+|,cendar,چندر
+|,cendara,چندارا
+|,cendarah,چنداره
+|,cendarahan,چندارهن
+|,cendarik,چنداريق
+|,cendarung,چنداروڠ
+|,cendarusa,چنداروسا
+|,cendawan,چنداون
+|,cendayam,چندايم
+|,cendayan,چنداين
+|,cendekel,چنديکيل
+|,cendeker,چنديکير
+|,cendekia,چندکيا
+|,cendekiawan,چندکياون
+|,cendera,چندرا
+|,cenderadimuka,چندراديموک
+|,cenderadurja,چندرادورجا
+|,cenderahati,چندراهاتي
+|,cenderai,چندراي
+|,cenderamata,چندرامات
+|,cenderamulia,چندراموليا
+|,cenderasa (candarasa),چندراس
+|,cenderasari,چندراساري
+|,cenderasuri,چندراسوري
+|,cenderawangsa,چندراوڠسا
+|,cenderawangsih,چندراوڠسيه
+|,cenderawasa,چندراواس
+|,cenderawasih,چندراواسيه
+|,cenderawati,چندراواتي
+|,cendermata (cenderamata),چندرمات
+|,cenderu,چندرو
+|,cenderuh,چندروه
+|,cenderung,چندروڠ
+|,cenderus,چندروس
+|,cendol,چيندول
+|,cendorong,چندوروڠ
+|,cenduai,چندواي
+|,cenduk,چندوق
+|,cendul,چندول
+|,cendur  (cendera),چندور
+|,cenduri,چندوري
+|,cenduru,چندورو
+|,cenekah,چنکه
+|,ceneker,چنيکير
+|,cenela,چنيلا
+|,cenengah,چنڠه
+|,cenerah,چنره
+|,cenerai,چنراي
+|,cenerul,چنرول
+|,ceng,چيڠ
+|,cengal,چڠل
+|,cengam,چڠم
+|,cenganau,چڠاناو
+|,cengang,چڠڠ
+|,cengap,چڠڤ
+|,cengcang,چڠچڠ
+|,cengceng,چيڠچيڠ
+|,cengcong,چيڠچوڠ
+|,cenge,چڠي
+|,cengek,چڠيق
+|,cengeng,چيڠيڠ
+|,cenggalung,چڠݢالوڠ
+|,cenggang,چڠݢڠ
+|,cenggeh,چيڠݢيه
+|,cenggek,چيڠݢيق
+|,cenggeret,چڠݢيريت
+|,cenggih,چڠݢيه
+|,cenggong,چيڠݢوڠ
+|,cengi,چڠي
+|,cengih,چڠيه
+|,cengil,چڠيل
+|,cengis,چڠيس
+|,cengis-cengis,چڠيس٢
+|,cengkadak,چڠکادق
+|,cengkadu,چڠکادو
+|,cengkaduk,چڠکادوق
+|,cengkal,چڠکل
+|,cengkala,چڠکالا
+|,cengkalak,چڠکالق
+|,cengkam,چڠکم
+|,cengkaman,چڠکمن
+|,cengkang (cekak),چڠکڠ
+|,cengkaruk,چڠکاروق
+|,cengkarung,چڠکاروڠ
+|,cengkarus,چڠکاروس
+|,cengkau (cakar),چڠکاو
+|,cengkau (broker),چيڠکاو
+|,cengkedi,چڠکدي
+|,cengkeh,چيڠکيه
+|,cengkek,چيڠکيق
+|,cengkeleng,چڠکيليڠ
+|,cengkela (jenggala),چڠکلا
+|,cengkelat (sengkelat),چڠکلت
+|,cengkeling,چڠکليڠ
+|,cengkelong,چڠکلوڠ
+|,cengkenik,چڠکنيق
+|,cengkening,چڠکنيڠ
+|,cengkenit,چڠکنيت
+|,cengkera,چڠکرا
+|,cengkeram,چڠکرم
+|,cengkeraman,چڠکرمن
+|,cengkerama,چڠکراما
+|,cengkeran,چڠکرن
+|,cengkerawak,چڠکراوق
+|,cengkerawang,چڠکراوڠ
+|,cengkerik,چڠکريق
+|,cengkering,چڠکريڠ
+|,cengkerit,چڠکريت
+|,cengkeru,چڠکرو
+|,cengkerung,چڠکروڠ
+|,cengki (patut),چڠکي
+|,cengki (nasib baik),چيڠکي
+|,cengkiak (kiak),چڠکياق
+|,cengkian (cemikian),چڠکيان
+|,cengkih,چڠکيه
+|,cengking,چڠکيڠ
+|,cengkir,چڠکير
+|,cengkok,چيڠکوق
+|,cengkok-beledok,چيڠکوق ـ بليدوق
+|,cengkol,چيڠکول
+|,cengkolong,چڠکولوڠ
+|,cengkong,چيڠکوڠ
+|,cengku,چڠکو
+|,cengkuai,چڠکواي
+|,cengkuak,چڠکواق
+|,cengkuang,چڠکواڠ
+|,cengkuari,چڠکواري
+|,cengkuas,چڠکواس
+|,cengkuk,چڠکوق
+|,cengkung,چڠکوڠ
+|,cengkung-cengking,چڠکوڠ ـ چڠکيڠ
+|,cengkung-mengkung,چڠکوڠ ـ مڠکوڠ
+|,cengkur,چڠکور
+|,cengkurai,چڠکوراي
+|,cengkut,چڠکوت
+|,cengkuyung,چڠکويوڠ
+|,cengli,چيڠلي
+|,cenggung,چڠݢوڠ
+|,cengung,چڠوڠ
+|,cengut,چڠوت
+|,ceniaga,چنياݢ
+|,cenicah,چنيچه
+|,cening,چنيڠ
+|,cenohom,چنوهوم
+|,cenok,چينوق
+|,cenokek,چنوکيق
+|,cenonok,چنونوق
+|,cenonot,چنونوت
+|,cenoram (cenuram),چنورم
+|,centadu,چنتادو
+|,centaka,چنتاک
+|,centang,چينتڠ
+|,centang-perenang,چينتڠ ـ ڤرينڠ
+|,centas (cantas),چنتس
+|,centawan,چنتاون
+|,centayu (jentayu),چنتايو
+|,centeng,چينتيڠ
+|,centet,چنتيت
+|,centigi,چنتيݢي
+|,centil (sentil),چنتيل
+|,centong,چينتوڠ
+|,centum (cantum),چنتوم
+|,centung,چنتوڠ
+|,cenua,چنوا
+|,cenuai,چنواي
+|,cenuk,چنوق
+|,cenung,چنوڠ
+|,cenuram,چنورم
+|,ceongsam,چيوڠسم
+|,cepah,چڤه
+|,cepak,چڤق
+|,cepat,چڤت
+|,cepatan,چڤتن
+|,cepat-cepat,چڤت٢
+|,cepatu,چڤاتو
+|,cepau,چڤاو
+|,cepedak (cempedak),چڤدق
+|,cepeh,چيڤيه
+|,cepeluk/cepelok (ceplok),چڤلوق
+|,cepeng,چيڤيڠ
+|,ceper,چيڤير
+|,ceperas,چڤرس
+|,ceperdik,چڤرديق
+|,ceperling,چڤرليڠ
+|,ceperuk,چڤروق
+|,ceperup,چڤروڤ
+|,cepiau,چڤياو
+|,cepik,چڤيق
+|,cepit,چڤيت
+|,ceplok,چڤلوق
+|,cepoh,چيڤوه
+|,cepol,چڤول
+|,cepu,چڤو
+|,cepua,چڤوا
+|,cepuah,چڤواه
+|,cepuas,چڤواس
+|,cepuh,چڤوه
+|,cepuk,چڤوق
+|,cepulan,چڤولن
+|,cepumas,چڤومس
+|,cepuri,چڤوري
+|,cera,چرا
+|,cerabah,چرابه
+|,cerabai (jerabai),چراباي
+|,cerabih,چرابيه
+|,ceracah (cacah),چراچه
+|,ceracak,چراچق
+|,ceracam,چراچم
+|,ceracang,چراچڠ
+|,ceracap,چراچڤ
+|,ceracat,چراچت
+|,ceracau,چراچاو
+|,ceraco,چراچو
+|,ceracuh,چراچوه
+|,cerah,چره
+|,cerai,چراي
+|,ceraian,چراين
+|,cerai-berai,چراي ـ براي
+|,ceraka,چراک
+|,cerakan,چراکن
+|,cerakin,چراکين
+|,cerakinan,چراکينن
+|,ceramah,چرامه
+|,cerana,چران
+|,cerancang,چرنچڠ
+|,cerang,چرڠ
+|,cerangga,چرڠݢ
+|,ceranggah,چرڠݢه
+|,cerangin,چراڠين
+|,ceranguk,چراڠوق
+|,cerani,چراني
+|,cerap,چرڤ
+|,cerapan,چرڤن
+|,cerapang,چراڤڠ
+|,cerapu,چراڤو
+|,cerapung,چراڤوڠ
+|,cerar,چرر
+|,ceras,چرس
+|,cerat,چرت
+|,ceratan,چرتن
+|,ceratai,چراتاي
+|,ceratuk,چراتوق
+|,cerau,چراو
+|,cerawat,چراوت
+|,cerbak,چربق
+|,cerbi,چربي
+|,cerbis,چربيس
+|,cerca,چرچا
+|,cercaan,چرچاءن
+|,cercah,چرچه
+|,cercak,چرچق
+|,cercap,چرچڤ
+|,cercup,چرچوڤ
+|,cerdas,چردس
+|,cerdik,چرديق
+|,cere,چري
+|,cerebi,چربي
+|,cerecek,چريچيق
+|,cerek,چيريق
+|,cereka,چريک
+|,cerekarama,چريکاراما
+|,cerelis,چرليس
+|,cerengkan,چرڠکن
+|,ceret,چيريت
+|,ceretek,چرتق
+|,cerewet,چريويت
+|,cergas,چرݢس
+|,ceri (gelang),چري
+|,ceri (tumbuhan),چيري
+|,ceria,چريا
+|,cericap,چريچڤ
+|,ceridau,چريداو
+|,ceridauan,چريداوان
+|,ceridawan,چريداون
+|,ceriga,چريݢ
+|,cerih,چريه
+|,cering,چريڠ
+|,cering-cering,چريڠ٢
+|,cerit (jerit),چريت
+|,cerita,چريتا
+|,ceritaan,چريتاءن
+|,ceritera,چريترا
+|,ceriwit,چريويت
+|,cerkas (cergas),چرکس
+|,cerkau (cekau),چرکاو
+|,cerlang,چرلڠ
+|,cerlih,چرليه
+|,cerling,چرليڠ
+|,cerlok (cerlang),چرلوق
+|,cerlung,چرلوڠ
+|,cermai,چرماي
+|,cermak,چرمق
+|,cermat,چرمت
+|,cermela,چرملا
+|,cermi,چرمي
+|,cermin,چرمين
+|,cerminan,چرمينن
+|,cerna,چرنا
+|,ceroboh,چروبوه
+|,ceroboh-mencerobohi,چروبوه ـ منچروبوهي
+|,cerobong,چروبوڠ
+|,cerocok,چروچوق
+|,ceroma,چروما
+|,cerompong,چرومڤوڠ
+|,ceronggah (ceranggah),چروڠݢه
+|,ceronggok,چروڠݢوق
+|,cerongkah,چروڠکه
+|,cerongkah-cerongkeh,چروڠکه ـ چروڠکيه
+|,ceropong (cerompong),چروڤوڠ
+|,cerorot (cencorot),چروروت
+|,cerotok (ceratuk),چروتوق
+|,cerpa,چرڤا
+|,cerpelai,چرڤلاي
+|,cerpen,چرڤين
+|,cerpenis,چرڤينيس
+|,cerpu,چرڤو
+|,cerpuh,چرڤوه
+|,ceru (cerul),چرو
+|,cerua,چروا
+|,cerubah,چروبه
+|,cerucah,چروچه
+|,cerucuh,چروچوه
+|,cerucuk,چروچوق
+|,cerucup,چروچوڤ
+|,ceruh,چروه
+|,ceruk,چروق
+|,ceruk-menceruk,چروق ـ منچروق
+|,cerul,چرول
+|,cerun,چرون
+|,ceruncup (cerucup),چرونچوڤ
+|,cerung-cerang,چروڠ ـ چرڠ
+|,cerunyas,چروپس
+|,cerup,چروڤ
+|,cerurut (cencorot),چروروت
+|,cerut,چروت
+|,cerutan,چروتن
+|,cerutu,چروتو
+|,cet,چيت
+|,cetai,چتاي
+|,cetak,چيتق
+|,cetakan,چيتقن
+|,cetar,چتر
+|,cetar-cetir,چتر ـ چتير
+|,cetas,چتس
+|,cetek,چيتيق
+|,ceteng,چيتيڠ
+|,cetera,چترا
+|,ceterawara,چتراوارا
+|,ceteraya (ceteria),چتراي
+|,ceteri,چتري
+|,ceteria,چتريا
+|,ceteris paribus,سيتريسڤاريبوس
+|,ceti,چيتي
+|,cetok,چيتوق
+|,cetum,چتوم
+|,cetus,چتوس
+|,cetusan,چتوسن
+|,cewang,چيواڠ
+|,cewe,چيوي
+|,ceweh (cewe),چيويه
+|,cewek,چيويق
+|,cewi,چيوي
+|,champagne,شيمڤين
+|,chef,شيف
+|,ci,چي
+|,cia,چيا
+|,ciabit,چيابيت
+|,ciah,چياه
+|,ciah-ciah,چياه٢
+|,ciak,چياق
+|,ciak-ciap,چياق ـ چياڤ
+|,ciak-miak,چياق ـ مياق
+|,ciang,چياڠ
+|,ciap,چياڤ
+|,ciap-ciap,چياڤ٢
+|,ciap-miap,چياڤ ـ مياڤ
+|,ciapit,چياڤيت
+|,ciar,چيار
+|,ciarik,چياريق
+|,cias,چياس
+|,ciau,چياو
+|,cicah,چيچه
+|,cicak,چيچق
+|,cici (cicit),چيچي
+|,cicih,چيچيه
+|,cicik,چيچيق
+|,cicil,چيچيل
+|,cicilan,چيچيلن
+|,cicinda,چيچيندا
+|,cicip,چيچيڤ
+|,cicir,چيچير
+|,cicit,چيچيت
+|,cicunguk (cecunguk),چيچوڠوق
+|,cida,چيدا
+|,cigak,چيݢق
+|,cigar (cegar),چيݢر
+|,cih,چيه
+|,cik (encik),چيق
+|,cika,چيکا
+|,cikah,چيکه
+|,cikalang,چيکالڠ
+|,cikar,چيکر
+|,cikerak,چيکرق
+|,cikgu,چيقݢو
+|,cikih,چيکيه
+|,cikil (cekel),چيکيل
+|,cikok,چيکوق
+|,cikori,چيکوري
+|,ciku,چيکو
+|,cikuk,چيکوق
+|,cikun,چيکون
+|,cikutan,چيکوتن
+|,cilak,چيلق
+|,cilap,چيلڤ
+|,cilawagi,چيلاواݢي
+|,cili,چيلي
+|,cilik,چيليق
+|,cilim (culim),چيليم
+|,cilok,چيلوق
+|,cimcili,چيمچيلي
+|,cimni,چيمني
+|,cimpanzi,چيمڤنزي
+|,cimplong,چيمڤلوڠ
+|,cina (sj tumbuhan),چينا
+|,cinabeng,چينابيڠ
+|,cinca,چينچا
+|,cincai,چينچاي
+|,cincai-cincai,چينچاي٢
+|,cincang,چينچڠ
+|,cincau,چينچاو
+|,cincilai,چينچيلاي
+|,cincin,چينچين
+|,cincong,چينچوڠ
+|,cincu,چينچو
+|,cinda,چيندا
+|,cindai,چينداي
+|,cindaku,چينداکو
+|,cindil,چينديل
+|,cindur,چيندور
+|,cing,چيڠ
+|,cingah (cingangah),چيڠه
+|,cingam,چيڠم
+|,cingangah,چيڠاڠه
+|,cingau,چيڠاو
+|,cingge,چيڠݢي
+|,cingkambon,چيڠکمبون
+|,cingkat,چيڠکت
+|,cinta,چينتا
+|,cintamani,چينتاماني
+|,cintamula,چينتامولا
+|,cintan,چينتن
+|,cintapuri,چينتاڤوري
+|,cintuh,چينتوه
+|,ciok,چيوق
+|,cip,چيڤ
+|,cipai,چيڤاي
+|,cipan,چيڤن
+|,ciplak,چيڤلق
+|,cipoa,چيڤوا
+|,ciprah,چيڤره
+|,cipta,چيڤتا
+|,ciptaan,چيڤتاءن
+|,cir,چير
+|,circir,چيرچير
+|,ciri,چيري
+|,ciri-ciri,چيري٢
+|,cirit,چيريت
+|,cirit-birit,چيريت ـ بيريت
+|,cis,چيس
+|,cit,چيت
+|,cita,چيتا
+|,cita-cita,چيتا٢
+|,citah,چيته
+|,citra,چيترا
+|,citraan,چيتراءن
+|,ciu,چيو
+|,cium,چيوم
+|,ciuman,چيومن
+|,ciur (ciu),چيور
+|,ciut,چيوت
+|,co,چو
+|,coang,چواڠ
+|,cobak,چوبق
+|,cobak-cabik,چوبق ـ چابيق
+|,coban (cuban),چوبن
+|,cobar,چوبر
+|,cobar-cabir,چوبر ـ چابير
+|,cobek,چوبيق
+|,cocok,چوچوق
+|,cocol,چوچول
+|,cocor,چوچور
+|,codak,چودق
+|,codang (codak),چودڠ
+|,codet,چوديت
+|,codot,چودوت
+|,cogah,چوݢه
+|,cogan,چوݢن
+|,cognac,کونياک
+|,cogo,چوݢو
+|,cogok,چوݢوق
+|,cok,چوق
+|,cokar (jogar),چوکر
+|,cokek,چوکيق
+|,cokeng,چوکيڠ
+|,cokera,چوکرا
+|,coket,چوکيت
+|,coklat,چوکلت
+|,cokmar,چوقمر
+|,cokoh,چوکوه
+|,cokok,چوکوق
+|,cokol,چوکول
+|,cokola (coklat),چوکولا
+|,cokot,چوکوت
+|,cola,چولا
+|,cola-cala,چولا ـ چالا
+|,colar,چولر
+|,colar-calar,چولر ـ چالر
+|,colek,چوليق
+|,colet (colek),چوليت
+|,coli,چولي
+|,colok,چولوق
+|,colong,چولوڠ
+|,colot,چولوت
+|,comber,چومبير
+|,comberan,چومبيرن
+|,comblang,چومبلڠ
+|,combol,چومبول
+|,combong,چومبوڠ
+|,comek,چوميق
+|,comel,چوميل
+|,comelan,چوميلن
+|,comor,چومور
+|,comot,چوموت
+|,comot-momot,چوموت ـ موموت
+|,compang,چومڤڠ
+|,compang-camping,چومڤڠ ـ چمڤيڠ
+|,compeng,چومڤيڠ
+|,compes,چومڤيس
+|,compoh,چومڤوه
+|,compor,چومڤور
+|,concong,چونچوڠ
+|,condak,چوندق
+|,condak-candik,چوندق ـ چنديق
+|,condong,چوندوڠ
+|,conek,چونيق
+|,conet,چونيت
+|,cong,چوڠ
+|,congah,چوڠه
+|,congak,چوڠق
+|,congak-cangit,چوڠق ـ چاڠيت
+|,congcong,چوڠچوڠ
+|,congeh,چوڠيه
+|,congek,چوڠيق
+|,conget,چوڠيت
+|,conggang,چوڠݢڠ
+|,conggang-canggik,چوڠݢڠ ـ چڠݢيق
+|,conggang-canggit,چوڠݢڠ ـ چڠݢيت
+|,conggang-conggek,چوڠݢڠ ـ چوڠݢيق
+|,conggang-congget,چوڠݢڠ ـ چوڠݢيت
+|,congget,چوڠݢيت
+|,conggok,چوڠݢوق
+|,congkah,چوڠکه
+|,congkah-cangkih,چوڠکه ـ چڠکيه
+|,congkah-mangkih,چوڠکه ـ مڠکيه
+|,congkak,چوڠکق
+|,congkak-bongkah,چوڠکق ـ بوڠکه
+|,congkak-bongkak,چوڠکق ـ بوڠکق
+|,congkang,چوڠکڠ
+|,congkang-kelalak,چوڠکڠ ـ کلالق
+|,congkar,چوڠکر
+|,congkar-cangkir,چوڠکر ـ چڠکير
+|,congki,چوڠکي
+|,congklang,چوڠکلڠ
+|,congkok,چوڠکوق
+|,congkong,چوڠکوڠ
+|,congo,چوڠو
+|,congok,چوڠوق
+|,congol,چوڠول
+|,congor,چوڠور
+|,conor,چونور
+|,conteng,چونتيڠ
+|,contengan,چونتيڠن
+|,contoh,چونتوه
+|,contohan,چونتوهن
+|,contong,چونتوڠ
+|,cop,چوڤ
+|,copak,چوڤق
+|,copak-capik,چوڤق ـ چاڤيق
+|,copar (cupar),چوڤر
+|,copeng,چوڤيڠ
+|,copengan,چوڤيڠن
+|,copet,چوڤيت
+|,coplok,چوڤلوق
+|,copong,چوڤوڠ
+|,copot,چوڤوت
+|,cor,چور
+|,corak,چورق
+|,corak-carik,چورق ـ چاريق
+|,corat,چورت
+|,corat-carit,چورت ـ چاريت
+|,corat-coret,چورت ـ چوريت
+|,corek,چوريق
+|,coreng,چوريڠ
+|,coreng-moreng,چوريڠ ـ موريڠ
+|,coret,چوريت
+|,coretan,چوريتن
+|,coro,چورو
+|,corong,چوروڠ
+|,corot,چوروت
+|,cota,چوتا
+|,cotek,چوتيق
+|,cotok,چوتوق
+|,coulomb,کولوم ب
+|,cowok,چوووق
+|,cu,چو
+|,cua,چوا
+|,cuaca,چواچ
+|,cuai,چواي
+|,cuak,چواق
+|,cual,چوال
+|,cuani,چواني
+|,cuang (coang),چواڠ
+|,cuar,چوار
+|,cuaran,چوارن
+|,cuat,چوات
+|,cuatan,چواتن
+|,cuba,چوبا
+|,cubaan,چوباءن
+|,cuba-cuba,چوبا٢
+|,cubadak (cempedak),چوبادق
+|,cuban,چوبن
+|,cubit,چوبيت
+|,cubit-mencubit,چوبيت ـ منچوبيت
+|,cubitan,چوبيتن
+|,cubung (kecubung),چوبوڠ
+|,cubung-cubung,چوبوڠ٢
+|,cuca,چوچا
+|,cucak,چوچق
+|,cuci,چوچي
+|,cucian,چوچين
+|,cucu,چوچو
+|,cucuh,چوچوه
+|,cucuhan,چوچوهن
+|,cucuk,چوچوق
+|,cucukan,چوچوقن
+|,cucuk-mencucuk,چوچوق ـ منچوچوق
+|,cucunda,چوچوندا
+|,cucup,چوچوڤ
+|,cucur,چوچور
+|,cucuran,چوچورن
+|,cucut,چوچوت
+|,cuduk,چودوق
+|,cugat (cegat),چوݢت
+|,cuh,چوه
+|,cuik,چوءيق
+|,cuil,چوءيل
+|,cuilan,چوءيلن
+|,cuit,چوءيت
+|,cuitan,چوءيتن
+|,cuk,چوق
+|,cuka,چوک
+|,cukai,چوکاي
+|,cukal,چوکل
+|,cukam (cekam),چوکم
+|,cuke,چوکي
+|,cuki,چوکي
+|,cukin,چوکين
+|,cukir,چوکير
+|,cukit,چوکيت
+|,cuku,چوکو
+|,cukup,چوکوڤ
+|,cukur,چوکور
+|,cula,چولا
+|,culak,چولق
+|,culak-caling,چولق ـ چاليڠ
+|,culan,چولن
+|,culang,چولڠ
+|,culang-caling,چولڠ ـ چاليڠ
+|,culas,چولس
+|,culi (coli),چولي
+|,culia,چوليا
+|,culik,چوليق
+|,culik-culik,چوليق٢
+|,culim,چوليم
+|,cuma,چوما
+|,cuma-cuma,چوما٢
+|,cuman,چومن
+|,cumbu,چومبو
+|,cumbuan,چومبوان
+|,cumi,چومي
+|,cumi-cumi,چومي٢
+|,cumik,چوميق
+|,cuming,چوميڠ
+|,cun,چون
+|,cunam,چونم
+|,cunda,چوندا
+|,cundang,چوندڠ
+|,cunderik,چوندريق
+|,cundrik (cunderik),چوندريق
+|,cung (cong),چوڠ
+|,cungah,چوڠه
+|,cungap,چوڠڤ
+|,cungapan,چوڠڤن
+|,cungap-cangip,چوڠڤ ـ چاڠيڤ
+|,cunggang,چوڠݢڠ
+|,cunggang-cunggit,چوڠݢڠ ـ چوڠݢيت
+|,cungkil,چوڠکيل
+|,cungkilan,چوڠکيلن
+|,cungkup,چوڠکوڤ
+|,cungo (congo),چوڠو
+|,cunguk (cecunguk),چوڠوق
+|,cungur (jongor),چوڠور
+|,cunia,چونيا
+|,cunut (cenonot),چونوت
+|,cup,چوڤ
+|,cupai,چوڤاي
+|,cupak,چوڤق
+|,cupar,چوڤر
+|,cupet,چوڤت
+|,cupil,چوڤيل
+|,cuping,چوڤيڠ
+|,cupit (sumpit),چوڤيت
+|,cuplik,چوڤليق
+|,cuplikan,چوڤليقن
+|,cupu,چوڤو
+|,cupu-cupu,چوڤو٢
+|,cupul,چوڤول
+|,cur,چور
+|,cura,چورا
+|,cura-bura,چورا ـ بورا
+|,curah,چوره
+|,curahan,چورهن
+|,curai,چوراي
+|,curaian,چوراين
+|,curam,چورم
+|,curaman,چورمن
+|,curang,چورڠ
+|,curat,چورت
+|,curi,چوري
+|,curian,چورين
+|,curi-curi,چوري٢
+|,curiah,چورياه
+|,curiga,چوريݢ
+|,curiga-mencurigai,چوريݢ ـ منچوريݢاءي
+|,curik,چوريق
+|,curu,چورو
+|,cus,چوس
+|,cutak,چوتق
+|,cutam,چوتم
+|,cutel,چوتل
+|,cuti,چوتي
+|,czar,زر
+|,czarina,زارينا
+|,
