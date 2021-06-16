@@ -1,0 +1,4094 @@
+|terabadi,ترابادي
+|,terabai,تراباي
+|,terabaikan,ترابايکن
+|,terabar,ترابر
+|,teradang,ترادڠ
+|,teradat,ترعادت
+|,teradil,ترعاديل
+|,teradjudikasi,ترادجوديکاسي
+|,teraduh,ترادوه
+|,teraduk-aduk,ترادوق ـ ادوق
+|,teragak,تراݢق
+|,teragak-agak,تراݢق ـ اݢق
+|,teragung,تراݢوڠ
+|,teragung-agung,تراݢوڠ ـ اݢوڠ
+|,terajari,تراجري
+|,terajarkan,تراجرکن
+|,terpelajar,ترڤلاجر
+|,terajun,تراجون
+|,terakalkan,ترعقلکن
+|,terakhir,تراخير
+|,terakru,تراکرو
+|,terakruan,تراکروان
+|,teraktif,تراکتيف
+|,teraku,تراکو
+|,terakuk,تراکوق
+|,terakuk-akuk,تراکوق ـ اکوق
+|,terala,ترعلى
+|,teralahkan,ترالهکن
+|,teralang,ترالڠ
+|,teralih,تراليه
+|,teralun,ترالون
+|,teramat,ترامت
+|,terambang,ترامبڠ
+|,terambang-ambang,ترامبڠ ـ امبڠ
+|,terambau,ترامباو
+|,terambil,ترامبيل
+|,terambung-ambung,ترامبوڠ ـ امبوڠ
+|,terammonia,تراممونيوم
+|,terampai,ترامڤاي
+|,terampun,ترامڤون
+|,teramung,تراموڠ
+|,terancam,ترانچم
+|,terandaikan,تراندايکن
+|,terangan-angan,تراڠن ـ اڠن
+|,teranggar-anggar,تراڠݢر ـ اڠݢر
+|,terangguk-angguk,تراڠݢوق ـ اڠݢوق
+|,teranggul-anggul,تراڠݢول ـ اڠݢول
+|,terangin,تراڠين
+|,terangin-angin,تراڠين ـ اڠين
+|,terangin-anginkan,تراڠين ـ اڠينکن
+|,terangkak-angkak,تراڠکق ـ اڠکق
+|,terangkat,تراڠکت
+|,terangkup-angkup,تراڠکوڤ ـ اڠکوڤ
+|,teraniaya,ترانياي
+|,teranjur,ترانجور
+|,terapit,تراڤيت
+|,terapung,تراڤوڠ
+|,terapung-apung,تراڤوڠ ـ اڤوڠ
+|,terarah,تراره
+|,terasak,تراسق
+|,terasimilasi,تراسيميلاسي
+|,terasing,تراسيڠ
+|,teratas,تراتس
+|,teratung-atung,تراتوڠ ـ اتوڠ
+|,teratur,تراتور
+|,terawal,تراول
+|,terayun-ayun,ترايون ـ ايون
+|,terbabang,تربابڠ
+|,terbabar,تربابر
+|,terbabas,تربابس
+|,terbabit,تربابيت
+|,terbaca,ترباچ
+|,terbada,تربادا
+|,terbada-bada,تربادا ـ بادا
+|,terbadai,ترباداي
+|,terbagi,ترباݢي
+|,terbagus,ترباݢوس
+|,terbahagi,تربهاݢي
+|,terbahak-bahak,ترباهق ـ باهق
+|,terbahana,تربهان
+|,terbaik,ترباءيق
+|,terbaja,ترباج
+|,terbakar,ترباکر
+|,terbalak-balak,تربالق ـ بالق
+|,terbalik,ترباليق
+|,terbambang,تربمبڠ
+|,terbancut,تربنچوت
+|,terbanding,تربنديڠ
+|,terbangai,ترباڠاي
+|,terbangkang,تربڠکڠ
+|,terbangkit,تربڠکيت
+|,terbangun,ترباڠون
+|,terbanjar,تربنجر
+|,terbantahkan,تربنتهکن
+|,terbanting,تربنتيڠ
+|,terbantun,تربنتون
+|,terbantut,تربنتوت
+|,terbanyak,ترباپق
+|,terbarai,ترباراي
+|,terbaring,ترباريڠ
+|,terbaru,تربارو
+|,terbasuh,ترباسوه
+|,terbata-bata,ترباتا ـ بات
+|,terbatal,تربطل
+|,terbatas,ترباتس
+|,terbatuk,ترباتوق
+|,terbatuk-batuk,ترباتوق ـ باتوق
+|,terbau,ترباءو
+|,terbaur,ترباءور
+|,terbawa-bawa,ترباوا ـ باوا
+|,terbawah,ترباوه
+|,terkebawah,ترکباوه
+|,terbayan,تربيان
+|,terbayang,تربايڠ
+|,terbayang-bayang,تربايڠ ـ بايڠ
+|,terbayangkan,تربايڠکن
+|,terbayar,ترباير
+|,terbebal,ترببل
+|,terbebang,ترببڠ
+|,terbebas,تربيبس
+|,terbebeh,تربيبيه
+|,terbecak,تربيچق
+|,terbedung,تربدوڠ
+|,terbeka,تربيکا
+|,terbekam,تربکم
+|,teperbela,تڤربلا
+|,terbela,تربلا
+|,terbela,تربيلا
+|,terbelah,تربله
+|,terbelahak,تربلاهق
+|,terbelakang,تربلاکڠ
+|,terkebelakang,ترکبلاکڠ
+|,terbelalak,تربلالق
+|,terbelam,تربلم
+|,terbelangah,تربلاڠه
+|,terbeleduh,تربلدوه
+|,terbelelang,تربللڠ
+|,terbelelek,تربليليق
+|,terbelenggu,تربلڠݢو
+|,terbelengkong,تربليڠکوڠ
+|,terbelengset,تربليڠسيت
+|,terbeli,تربلي
+|,terbeliak,تربلياق
+|,terbelingkang,تربليڠکڠ
+|,terbelingut,تربليڠوت
+|,terbelintang,تربلينتڠ
+|,terbelit,تربليت
+|,terbelok,تربيلوق
+|,terbenam,تربنم
+|,terbendung,تربندوڠ
+|,terbengang,تربڠڠ
+|,terbengkalai,تربڠکالاي
+|,terbengkil-bengkil,تربڠکيل ـ بڠکيل
+|,terbengkung,تربڠکوڠ
+|,terbentang,تربنتڠ
+|,terbentes,تربينتيس
+|,terbentuk,تربنتوق
+|,terbentur,تربنتور
+|,terbentus,تربنتوس
+|,terberak,تربرق
+|,terberak,تربيرق
+|,terberak-berak,تربيرق ـ بيرق
+|,terberancai,تربرنچاي
+|,terberat,تربرت
+|,terberkas,تربرکس
+|,terbersin,تربرسين
+|,terbertas,تربرتس
+|,terberumbun,تربرومبون
+|,terbesar,تربسر
+|,terbeti,تربتي
+|,terbetik,تربتيق
+|,terbeting,تربتيڠ
+|,terbiar,تربيار
+|,terbias,تربياس
+|,terbiasa,تربياسا
+|,terbidik-bidik,تربيديق ـ بيديق
+|,terbijak,تربيجق
+|,terbikin,تربيکين
+|,terbilang,تربيلڠ
+|,terbilas,تربيلس
+|,terbimbing,تربيمبيڠ
+|,terbina,تربينا
+|,terbiodegradasikan,تربيوديݢراداسيکن
+|,terbirit,تربيريت
+|,terbirit-birit,تربيريت ـ بيريت
+|,terbonceng,تربونچيڠ
+|,terbongkang,تربوڠکڠ
+|,terbongkar,تربوڠکر
+|,terbongkas,تربوڠکس
+|,terbongkok-bongkok,تربوڠکوق ـ بوڠکوق
+|,terboyot,تربويوت
+|,terbuai,تربواي
+|,terbuai-buai,تربواي ـ بواي
+|,terbuak,تربواق
+|,terbuang,تربواڠ
+|,terbuang-buang,تربواڠ ـ بواڠ
+|,terbuat,تربوات
+|,terperbuat,ترڤربوات
+|,terbudur,تربودور
+|,terbujuk,تربوجوق
+|,terbujur,تربوجور
+|,terbuka,تربوک
+|,terbukti,تربوقتي
+|,terbuku,تربوکو
+|,terbulang,تربولڠ
+|,terbungkam,تربوڠکم
+|,terbungkus,تربوڠکوس
+|,terbuni,تربوني
+|,terbuntang,تربونتڠ
+|,terbuntu,تربونتو
+|,terbuntung,تربونتوڠ
+|,terbunuh,تربونوه
+|,terbunyi,تربوپي
+|,terburai,تربوراي
+|,terburu,تربورو
+|,terburu-buru,تربورو ـ بورو
+|,terburuk,تربوروق
+|,terbusuk,تربوسوق
+|,terbusung,تربوسوڠ
+|,tercabar,ترچابر
+|,tercabul,ترچابول
+|,tercabut,ترچابوت
+|,tercacak,ترچاچق
+|,tercacat,ترچاچت
+|,tercaci,ترچاچي
+|,tercaduk,ترچادوق
+|,tercagak,ترچاݢق
+|,tercair,ترچاءير
+|,tercakap,ترچاکق
+|,tercakar,ترچاکر
+|,tercakup,ترچاکوڤ
+|,tercalar,ترچالر
+|,tercalit,ترچاليت
+|,tercampak,ترچامڤق
+|,tercampung,ترچامڤوڠ
+|,tercampur,ترچمڤور
+|,tercanai,ترچاناي
+|,tercanang,ترچانڠ
+|,tercancang,ترچانچڠ
+|,tercangah,ترچاڠه
+|,tercangak-cangak,ترچاڠق ـ چاڠق
+|,tercanggih,ترچڠݢيه
+|,tercanggung,ترچڠݢوڠ
+|,tercangkuk,ترچاڠکوق
+|,tercangkul,ترچڠکول
+|,tercangkung,ترچاڠکوڠ
+|,tercanguk,ترچاڠوق
+|,tercantas,ترچنتس
+|,tercantik,ترچنتيق
+|,tercantum,ترچنتوم
+|,tercap,ترچڤ
+|,tercapai,ترچاڤاي
+|,tercapak,ترچاڤق
+|,tercapik-capik,ترچاڤيق ـ چاڤيق
+|,tercari,ترچاري
+|,tercari-cari,ترچاري ـ چاري
+|,tercarik,ترچاريق
+|,tercat,ترچت
+|,tercatat,ترچاتت
+|,tercatuk,ترچاتوق
+|,tercebelus,ترچبلوس
+|,tercebik-cebik,ترچبيق ـ چبيق
+|,tercebur,ترچبور
+|,tercecah,ترچچه
+|,tercedera,ترچدرا
+|,tercegah,ترچݢه
+|,tercegat,ترچݢت
+|,tercegat-cegat,ترچݢت ـ چݢت
+|,tercekam,ترچکم
+|,tercekap,ترچکڤ
+|,tercekih,ترچکيه
+|,tercekik,ترچکيق
+|,tercekup,ترچکوڤ
+|,tercela,ترچلا
+|,tercelak,ترچيلق
+|,tercelapak,ترچلاڤق
+|,tercelaru,ترچلارو
+|,tercelek,ترچلق
+|,tercelengap,ترچلڠق
+|,tercelik,ترچليق
+|,tercelomok,ترچلوموق
+|,tercelup,ترچلوڤ
+|,tercelur,ترچلور
+|,tercelus,ترچلوس
+|,tercema,ترچيما
+|,tercemar,ترچمر
+|,tercemas,ترچمس
+|,tercencang,ترچنچڠ
+|,tercengang,ترچڠڠ
+|,tercengang-cengang,ترچڠڠ ـ چڠڠ
+|,tercenggung,ترچڠݢوڠ
+|,tercengut,ترچڠوت
+|,tercenung,ترچنوڠ
+|,tercenung-cenung,ترچنوڠ ـ چنوڠ
+|,tercepat,ترچڤت
+|,tercerai,ترچراي
+|,tercerap,ترچرڤ
+|,tercermin,ترچرمين
+|,tercerna,ترچرنا
+|,terceruk,ترچروق
+|,tercetak,ترچيتق
+|,tercetus,ترچتوس
+|,terciar-ciar,ترچيار ـ چيار
+|,terciau,ترچياو
+|,tercicir,ترچيچير
+|,tercida,ترچيدا
+|,tercilap-cilap,ترچيلڤ ـ چيلڤ
+|,tercingangah,ترچيڠاڠه
+|,tercinta,ترچينتا
+|,tercipta,ترچيڤتا
+|,tercirit,ترچيريت
+|,tercium,ترچيوم
+|,tercoang,ترچواڠ
+|,tercodak,ترچودق
+|,tercogok,ترچوݢوق
+|,tercokeng,ترچوکيڠ
+|,tercokoh,ترچوکوه
+|,tercomel,ترچوميل
+|,tercondong,ترچوندوڠ
+|,tercongeh,چوڠيه
+|,terconget,ترچوڠيت
+|,tercongget-congget,ترچوڠݢيت ـ چوڠݢيت
+|,terconggok,ترچوڠݢوق
+|,tercongok,ترچوڠوق
+|,terconteng,ترچونتيڠ
+|,tercontoh,ترچونتوه
+|,tercopot,ترچوڤوت
+|,tercoreng,ترچوريڠ
+|,tercoret,ترچوريت
+|,tercorot,ترچوروت
+|,tercuar,ترچوار
+|,tercuat,ترچوات
+|,tercubit,ترچوبيت
+|,tercuci,ترچوچي
+|,tercucuh,ترچوچوه
+|,tercucuk,ترچوچوق
+|,tercuit,ترچوءيت
+|,tercukur,ترچوکور
+|,tercungap-cungap,ترچوڠڤ ـ چوڠڤ
+|,tercungkil,ترچوڠکيل
+|,tercupai,ترچوڤاي
+|,tercurah,ترچوره
+|,tercurai,ترچوراي
+|,terdadek,ترداديق
+|,terdaftar,تردفتر
+|,terdaging,ترداݢيڠ
+|,terdahulu,تردهولو
+|,terdakap,ترداکڤ
+|,terdaki,ترداکي
+|,terdakwa,تردعوا
+|,terdampar,تردمڤر
+|,terdamping,تردمڤيڠ
+|,terdangka-dangka,تردڠکا ـ دڠک
+|,terdangkal,تردڠکل
+|,terdanguk,ترداڠوق
+|,terdapat,ترداڤت
+|,terdaya,ترداي
+|,terpedaya,ترڤداي
+|,terdayuh,تردايوه
+|,terdayuk,تردايوق
+|,terdebunga,تردبوڠا
+|,terdedah,تردده
+|,terdekat,تردکت
+|,terdekih,تردکيه
+|,terdekih-dekih,تردکيه ـ دکيه
+|,terdemam,تردمم
+|,terdemam-demam,تردمم ـ دمم
+|,terdempet,ترديمڤيت
+|,terdempuk,تردمڤوق
+|,terdemut-demut,تردموت ـ دموت
+|,terdendeng,تردينديڠ
+|,terdengar,تردڠر
+|,terdengar-dengar,تردڠر ـ دڠر
+|,terdengih-dengih,تردڠيه ـ دڠيه
+|,terdengkot-dengkot,ترديڠکوت ـ ديڠکوت
+|,terdenguk,تردڠوق
+|,terdengut,تردڠوت
+|,terdepan,تردڤن
+|,terkedepan,ترکدڤن
+|,terdepang,تردڤڠ
+|,terdera,تردرا
+|,terderita,تردريتا
+|,terderitakan,تردريتاکن
+|,terdesak,تردسق
+|,terdetik,تردتيق
+|,terdetikkan,تردتيقکن
+|,terdiam,ترديام
+|,terdidik,ترديديق
+|,tersedikit,ترسديکيت
+|,terdikri,ترديکري
+|,terdinding,تردينديڠ
+|,terdingin,ترديڠين
+|,terdiri,ترديري
+|,terdodong,تردودوڠ
+|,terdohok,تردوهوق
+|,terdongak,تردوڠق
+|,terdorong,تردوروڠ
+|,terduduk,تردودوق
+|,terduga,تردوݢ
+|,terduga-duga,تردوݢا ـ دوݢ
+|,terdukung,تردوکوڠ
+|,terekeh-ekeh,ترايکيه ـ ايکيه
+|,terelak,ترايلق
+|,terelakkan,ترايلقکن
+|,terelok,ترايلوق
+|,terembut-embut,ترامبوت ـ امبوت
+|,terempang,ترامڤڠ
+|,terempap,ترامڤڤ
+|,terenak,تراينق
+|,terendus,ترندوس
+|,terengah-engah,تراڠه ـ اڠه
+|,terengkap-engkip,تراڠکڤ ـ اڠکيڤ
+|,terengkil,تراڠکيل
+|,terenjut-enjut,ترانجوت ـ انجوت
+|,teresak,ترايسق
+|,teresak-esak,ترايسق ـ ايسق
+|,terfikir,ترفيکير
+|,terfokus,ترفوکوس
+|,terfosil,ترفوسيل
+|,tergabas,ترݢابس
+|,tergabung,ترݢابوڠ
+|,tergadai,ترݢاداي
+|,tergagah,ترݢاݢه
+|,tergagal,ترݢاݢل
+|,tergagap-gagap,ترݢاݢڤ ـ ݢاݢڤ
+|,tergagau,ترݢاݢاو
+|,tergagau-gagau,ترݢاݢاو ـ ݢاݢاو
+|,tergaguk-gaguk,ترݢاݢوق ـ ݢاݢوق
+|,tergail,ترݢاءيل
+|,tergajai,ترݢاجاي
+|,tergalak,ترݢالق
+|,tergalang,ترݢالڠ
+|,tergalas,ترݢالس
+|,tergali,ترݢالي
+|,tergamak,ترݢامق
+|,tergamam,ترݢامم
+|,tergamang,ترݢامڠ
+|,tergambar,ترݢمبر
+|,tergamit,ترݢاميت
+|,terganas,ترݢانس
+|,terganding,ترݢانديڠ
+|,terganggang,ترݢاڠکڠ
+|,terganggu,ترݢڠݢو
+|,terganjak,ترݢانجق
+|,terganjal,ترݢنجل
+|,tergantung,ترݢنتوڠ
+|,tergapai-gapai,ترݢاڤاي ـ ݢاڤاي
+|,tergarang,ترݢارڠ
+|,tergarap,ترݢارڤ
+|,tergaris,ترݢاريس
+|,tergaru-garu,ترݢارو ـ ݢارو
+|,tergaruk,ترݢاروق
+|,tergaruk-garuk,ترݢاروق ـ ݢاروق
+|,tergaul,ترݢاءول
+|,tergawang,ترݢاوڠ
+|,tergawang-gawang,ترݢاوڠ ـ ݢاوڠ
+|,tergayut,ترݢايوت
+|,tergayut-gayut,ترݢايوت ـ ݢايوت
+|,tergedik-gedik,ترݢديق ـ ݢديق
+|,tergegap-gegap,ترݢݢڤ ـ ݢݢڤ
+|,tergegar,ترݢݢر
+|,tergegas,ترݢݢس
+|,tergegas-gegas,ترݢݢس ـ ݢݢس
+|,tergegau,ترݢݢاو
+|,tergelak,ترݢلق
+|,tergelah-gelak,ترݢلق ـ ݢلق
+|,tergelangsar,ترݢلڠسر
+|,tergelebar,ترݢلبر
+|,tergelebar,ترݢليبر
+|,tergelecek,ترݢليچيق
+|,tergelek,ترݢيليق
+|,tergelenang,ترݢلينڠ
+|,tergelencong,ترݢلينچوڠ
+|,tergeleng-geleng,ترݢيليڠ ـ ݢيليڠ
+|,tergeletak,ترݢليتق
+|,tergeliat,ترݢليات
+|,tergelimpang,ترݢليمڤڠ
+|,tergelincat,ترݢلينچت
+|,tergelincir,ترݢلينچير
+|,tergelincuh,ترݢلينچوه
+|,tergelingsir,ترݢليڠسير
+|,tergelintang,ترݢلينتڠ
+|,tergelipar,ترݢليڤر
+|,tergelohok,ترݢلوهوق
+|,tergeluncur,ترݢلونچور
+|,tergelung-gelung,ترݢلوڠ ـ ݢلوڠ
+|,tergemap,ترݢمڤ
+|,tergembleng,ترݢمبليڠ
+|,tergempar,ترݢمڤر
+|,tergenang,ترݢنڠ
+|,tergencat,ترݢنچت
+|,tergencet,ترݢينچيت
+|,tergendala,ترݢندالا
+|,tergendeng,ترݢينديڠ
+|,tergenggam,ترݢڠݢم
+|,tergenggang,ترݢڠݢڠ
+|,tergerai,ترݢراي
+|,tergerak,ترݢرق
+|,tergerbang-gerbang,ترݢربڠ ـ ݢربڠ
+|,tergerenyeng-gerenyeng,ترݢريپيڠ ـ ݢريپيڠ
+|,tergerung,ترݢروڠ
+|,tergerupuk,ترݢروڤوق
+|,tergesa-gesa,ترݢسا ـ ݢسا
+|,tergesel,ترݢيسيل
+|,tergeser,ترݢيسير
+|,tergetah,ترݢته
+|,tergetar-getar,ترݢتر ـ ݢتر
+|,tergetek-getek,ترݢيتيق ـ ݢيتيق
+|,tergewang-gewang,ترݢيواڠ ـ ݢيواڠ
+|,tergigih,ترݢيݢيه
+|,tergigil,ترݢيݢيل
+|,tergigit,ترݢيݢيت
+|,tergila-gila,ترݢيلا ـ ݢيلا
+|,tergila-gilakan,ترݢيلا ـ ݢيلاکن
+|,tergilap,ترݢيلڤ
+|,tergilas,ترݢيلس
+|,tergilik,ترݢيليق
+|,tergiling,ترݢيليڠ
+|,tergilis,ترݢيليس
+|,tergingging,ترݢيڠݢيڠ
+|,tergiur,ترݢيور
+|,tergocoh-gocoh,ترݢوچوه ـ ݢوچوه
+|,tergoda,ترݢودا
+|,tergodek-godek,ترݢوديق ـ ݢوديق
+|,tergolek,ترݢوليق
+|,tergolok,ترݢولوق
+|,tergolong,ترݢولوڠ
+|,tergoncang,ترݢونچڠ
+|,tergontai-gontai,ترݢونتاي ـ ݢونتاي
+|,tergopah-gapah,ترݢوڤوه ـ ݢاڤه
+|,tergopoh-gopoh,ترݢوڤوه ـ ݢوڤوه
+|,tergoreng,ترݢوريڠ
+|,tergores,ترݢوريس
+|,tergoyah,ترݢويه
+|,tergoyang,ترݢويڠ
+|,tergoyang-goyang,ترݢويڠ ـ ݢويڠ
+|,tergubal,ترݢوبل
+|,tergudik-gudik,ترݢوديق ـ ݢوديق
+|,tergugat,ترݢوݢت
+|,tergugup,ترݢوݢوڤ
+|,tergugur,ترݢوݢور
+|,terguling,ترݢوليڠ
+|,terguling-guling,ترݢوليڠ ـ ݢوليڠ
+|,tergulir,ترݢولير
+|,tergulung,ترݢولوڠ
+|,tergulut,ترݢولوت
+|,tergulut-gulut,ترݢولوت ـ ݢولوت
+|,tergumpal,ترݢومڤل
+|,tergurat,ترݢورت
+|,terhabiskan,ترهابيسکن
+|,terhad,ترحد
+|,terhadam,ترهضم
+|,terhadap,ترهادڤ
+|,terhafaz,ترحفظ
+|,terhairan-hairan,ترحيران ـ حيران
+|,terhakis,ترهاکيس
+|,terhal,ترحال
+|,terhalang,ترهالڠ
+|,terhambat,ترهمبت
+|,terhambur,ترهمبور
+|,terhampar,ترهمڤر
+|,terhampir,ترهمڤير
+|,terhancing,ترهنچيڠ
+|,terhancur,ترهنچور
+|,terhandal,ترهندل
+|,terhangat,ترهاڠت
+|,terhangit,ترهاڠيت
+|,terhantar,ترهانتر
+|,terhantuk,ترهنتوق
+|,terhapus,ترهاڤوس
+|,terharak-harak,ترهارق ـ هارق
+|,terharap-harap,ترهارڤ ـ هارڤ
+|,terharga,ترهرݢ
+|,terhargai,ترهرݢاءي
+|,terhargakan,ترهرݢاکن
+|,terharu,ترهارو
+|,terhasrat,ترحسرت
+|,terhasut,ترهاسوت
+|,terhebah,ترهيبه
+|,terhegeh-hegeh,ترهيݢيه ـ هيݢيه
+|,terhela,ترهيلا
+|,terhemat,ترهيمت
+|,terhembalang,ترهمبالڠ
+|,terhembus,ترهمبوس
+|,terhempap,ترهمڤڤ
+|,terhempas,ترهمڤس
+|,terhendap-hendap,ترهندڤ ـ هندڤ
+|,terhengit-hengit,ترهڠيت ـ هڠيت
+|,terhentam,ترهنتم
+|,terhenti,ترهنتي
+|,terhentikan,ترهنتيکن
+|,terhenyak,ترهپق
+|,terheret,ترهيريت
+|,terherot-herot,ترهيروت ـ هيروت
+|,terhias,ترهياس
+|,terhibur,ترهيبور
+|,terhidang,ترهيدڠ
+|,terhidu,ترهيدو
+|,terhijab,ترحجاب
+|,terhimpit,ترهيمڤيت
+|,terhimpun,ترهيمڤون
+|,terhina,ترهينا
+|,terhincut-hincut,ترهينچوت ـ هينچوت
+|,terhindar,ترهيندر
+|,terhindarkan,ترهيندرکن
+|,terhingga,ترهيڠݢ
+|,terhinggut-hinggut,ترهيڠݢوت ـ هيڠݢوت
+|,terhiris,ترهيريس
+|,terhirup,ترهيروڤ
+|,terhisab,ترحساب
+|,terhisabkan,ترحسابکن
+|,terhisap,ترهيساڤ
+|,terhitung,ترهيتوڠ
+|,terhodoh,ترهودوه
+|,terhormat,ترحرمت
+|,terhukum,ترحکوم
+|,terhulur,ترهولور
+|,terhumban,ترهومبن
+|,terhungap,ترهوڠڤ
+|,terhungap-hungap,ترهوڠڤ ـ هوڠڤ
+|,terhunjam,ترهونجم
+|,terhunus,ترهونوس
+|,terhurai,ترهوراي
+|,terhutang,ترهوتڠ
+|,terhuyung-hayang,ترهويوڠ ـ هايڠ
+|,terhuyung-huyung,ترهويوڠ ـ هويوڠ
+|,terigau,ترايݢاو
+|,terigau-igau,ترايݢاو ـ ايݢاو
+|,terijab kabul,ترايجاب قبول
+|,terijuk,ترايجوق
+|,terikat,ترايکت
+|,terikut-ikut,ترايکوت ـ ايکوت
+|,terimbau,ترايمباو
+|,terimpi-impi,ترايمڤي ـ ايمڤي
+|,terincit,تراينچيت
+|,terincut-incut,تراينچوت ـ اينچوت
+|,teringa-inga,ترايڠا ـ ايڠا
+|,teringat,ترايڠت
+|,teringat-ingat,ترايڠت ـ ايڠت
+|,teringatkan,ترايڠتکن
+|,teringin,ترايڠين
+|,terinjak,تراينجق
+|,terinjak-injak,تراينجق ـ اينجق
+|,terintegrasi,تراينتݢراسي
+|,terisi,ترايسي
+|,teristimewa,ترايستيميوا
+|,terisyaratkan,تراشارتکن
+|,terisytihar,ترايشتهار
+|,terjabarkan,ترجابرکن
+|,terjadi,ترجادي
+|,terjadual,ترجدوال
+|,terjaga,ترجاݢ
+|,terjahit,ترجاهيت
+|,terjajah,ترجاجه
+|,terjajar,ترجاجر
+|,terjala,ترجالا
+|,terjalan,ترجالن
+|,terjalar,ترجالر
+|,terjali,ترجالي
+|,terjalin,ترجالين
+|,terjamah,ترجامه
+|,terjamin,ترجامين
+|,terjampi,ترجمڤي
+|,terjamu,ترجامو
+|,terjana,ترجان
+|,terjangka,ترجڠک
+|,terjangkang,ترجاڠکڠ
+|,terjangkau,ترجاڠکاو
+|,terjangkit,ترجاڠکيت
+|,terjanji,ترجنجي
+|,terjantang,ترجنتڠ
+|,terjantur,ترجنتور
+|,terjarak,ترجارق
+|,terjaram,ترجارم
+|,terjaring,ترجاريڠ
+|,terjarum,ترجاروم
+|,terjatuh,ترجاتوه
+|,terjauh,ترجاءوه
+|,terjawab,ترجواب
+|,terjayakan,ترجاياکن
+|,terjebak,ترجبق
+|,terjebik,ترجبيق
+|,terjebik-jebik,ترجبيق ـ جبيق
+|,terjegil,ترجݢيل
+|,terjejal,ترججل
+|,terjejas,ترججس
+|,terjela,ترجيلا
+|,terjelabak,ترجلابق
+|,terjelak,ترجلق
+|,terjelapak,ترجلڤق
+|,terjelas,ترجلس
+|,terjelengar,ترجلڠر
+|,terjelepok,ترجليڤوق
+|,terjeling,ترجليڠ
+|,terjelir,ترجلير
+|,terjelma,ترجلما
+|,terjeluak,ترجلواق
+|,terjelungkap,ترجلوڠکڤ
+|,terjembak,ترجمبق
+|,terjembak-jembak,ترجمبق ـ جمبق
+|,terjemput,ترجمڤوت
+|,terjemur,ترجمور
+|,terjengah,ترجڠه
+|,terjengkang,ترجڠکڠ
+|,terjengkek-jengkek,ترجيڠکيق ـ جيڠکيق
+|,terjengket-jengket,ترجيڠکيت ـ جيڠکيت
+|,terjenguk-jenguk,ترجڠوق ـ جڠوق
+|,terjengul,ترجڠول
+|,terjengul-jengul,ترجڠول ـ جڠول
+|,terjengulkan,ترجڠولکن
+|,terjentik,ترجنتيق
+|,terjepit,ترجڤيت
+|,terjerahak,ترجراهق
+|,terjerahap,ترجراهڤ
+|,terjerang,ترجرڠ
+|,terjerangkang,ترجرڠکڠ
+|,terjerap,ترجرڤ
+|,terjerat,ترجرت
+|,terjerembap,ترجرمبڤ
+|,terjerembat,ترجريمبت
+|,terjerembun,ترجرمبون
+|,terjerempak,ترجرمڤق
+|,terjerepet,ترجريڤيت
+|,terjerit-jerit,ترجريت ـ جريت
+|,terjerlai-jerlai,ترجرلاي ـ جرلاي
+|,terjerlus,ترجرلوس
+|,terjerohok,ترجروهوق
+|,terjerojol,ترجروجول
+|,terjerongkang,ترجروڠکڠ
+|,terjerongkoh,ترجروڠکوه
+|,terjerongkok,ترجروڠکوق
+|,terjerongkong,ترجروڠکوڠ
+|,terjerumus,ترجروموس
+|,terjerungkup,ترجروڠکوڤ
+|,terjerut,ترجروت
+|,terjilat-jilat,ترجيليت ـ جيليت
+|,terjingkat,ترجيڠکت
+|,terjingkat-jingkat,ترجيڠکيت ـ جيڠکت
+|,terjingkit-jingkit,ترجيڠکيت ـ جيڠکيت
+|,terjinjing,ترجينجيڠ
+|,terjiplak,ترجيڤلق
+|,terjirus,ترجيروس
+|,terjodong,ترجودوڠ
+|,terjojol,ترجوجول
+|,terjolok,ترجولوق
+|,terjongkang,ترجوڠکڠ
+|,terjongket,ترجوڠکيت
+|,terjongol,ترجوڠول
+|,terjuak,ترجواق
+|,terjual,ترجوال
+|,terjuih,ترجوءيه
+|,terjulai,ترجولاي
+|,terjulang,ترجولڠ
+|,terjuling,ترجوليڠ
+|,terjulur,ترجولور
+|,terjulur-julur,ترجولور ـ جولور
+|,terjumbai,ترجومباي
+|,terjumbul-jumbul,ترجومبول ـ جومبول
+|,terjumlah,ترجومله
+|,terjumlahkan,ترجوملهکن
+|,terjumpa,ترجومڤا
+|,terjunam,ترجونم
+|,terjungat,ترجوڠت
+|,terjungkang-jungkit,ترجوڠکڠ ـ جوڠکيت
+|,terjungkar,ترجوڠکر
+|,terjungkat,ترجوڠکت
+|,terjungkir,ترجوڠکير
+|,terjunjung,ترجونجوڠ
+|,terjuntai,ترجونتاي
+|,terjuntai-juntai,ترجونتاي ـ جونتاي
+|,terjurai,ترجوراي
+|,terjurai-jurai,ترجوراي ـ جوراي
+|,terjurus,ترجوروس
+|,terkabir,ترکابير
+|,terkabul,ترقبول
+|,terkacang,ترکاچڠ
+|,terkacip,ترکاچيڤ
+|,terkadang,ترکادڠ
+|,terkadang-kadang,ترکادڠ ـ کادڠ
+|,terkagum-kagum,ترکاݢوم ـ کاݢوم
+|,terkail,ترکاءيل
+|,terkais,ترکاءيس
+|,terkais-kais,ترکاءيس ـ کاءيس
+|,terkait,ترکاءيت
+|,terkajang,ترکاجڠ
+|,terkaji,ترکاجي
+|,terkakah-kakah,ترکاکه ـ کاکه
+|,terkakak-kakak,ترکاکق ـ کاکق
+|,terkakis,ترکاکيس
+|,terkaku,ترکاکو
+|,terkalahkan,ترکالهکن
+|,terkalang,ترکالڠ
+|,terkalas,ترکالس
+|,terkambus,ترکمبوس
+|,terkamil,ترکاميل
+|,terkampai,ترکمڤاي
+|,terkanan,ترکانن
+|,terkancah,ترکنچه
+|,terkanceh,ترکنچيه
+|,terkancing,ترکانچيڠ
+|,terkandang,ترکاندڠ
+|,terkandar,ترکندر
+|,terkandas,ترکندس
+|,terkandung,ترکاندوڠ
+|,terkangkang,ترکڠکڠ
+|,terkangkang-kangkang,ترکڠکڠ ـ کڠکڠ
+|,terkanjar-kanjar,ترکانجر ـ کانجر
+|,terkantuk,ترکنتوق
+|,terkantuk-kantuk,ترکنتوق ـ کنتوق
+|,terkanun,ترقانون
+|,terkapa-kapa,ترکاڤا ـ کاڤ
+|,terkapah-kapah,ترکاڤه ـ کاڤه
+|,terkapai-kapai,ترکاڤاي ـ کاڤاي
+|,terkapak,ترکاڤق
+|,terkapar,ترکاڤر
+|,terkapit,ترکاڤيت
+|,terkapung-kapung,ترکاڤوڠ ـ کاڤوڠ
+|,terkapur,ترکاڤور
+|,terkaran,ترکارن
+|,terkarang,ترکارڠ
+|,terkarat,ترکارت
+|,terkasar,ترکاسر
+|,terkasima,ترکاسيما
+|,terkata,ترکات
+|,terkatakan,ترکاتاکن
+|,terkata-kata,ترکاتا ـ کات
+|,terkatah-katah,ترکاته ـ کاته
+|,terkatalog,ترکاتالوݢ
+|,terkatung,ترکاتوڠ
+|,terkatung-katung,ترکاتوڠ ـ کاتوڠ
+|,terkatup,ترکاتوڤ
+|,terkaup,ترکاءوڤ
+|,terkaut,ترکاءوت
+|,terkawal,ترکاول
+|,terkaya,ترکاي
+|,terkayai,ترکاياي
+|,terkayuhkan,ترکايوهکن
+|,terkebal,ترکبل
+|,terkebam-kebam,ترکبم ـ کبم
+|,terkebat,ترکبت
+|,terkebek-kebek,ترکيبيق ـ کيبيق
+|,terkebil-kebil,ترکبيل ـ کبيل
+|,terkecai,ترکچاي
+|,terkecai-kecai,ترکچاي ـ کچاي
+|,terkecam,ترکچم
+|,terkecap-kecap,ترکچڤ ـ کچڤ
+|,terkecewa,ترکچيوا
+|,terkecoh,ترکيچوه
+|,terkecuali,ترکچوالي
+|,terkecundang,ترکچوندڠ
+|,terkecut,ترکچوت
+|,terkedai,ترکداي
+|,terkedang,ترکدڠ
+|,terkedek-kedek,ترکيديق ـ کيديق
+|,terkedik,ترکديق
+|,terkedip,ترکديڤ
+|,terkedip-kedip,ترکديڤ ـ کديڤ
+|,terkedu,ترکدو
+|,terkehel,ترکيهيل
+|,terkejang-kejang,ترکجڠ ـ کجڠ
+|,terkejap-kejap,ترکجڤ ـ کجڤ
+|,terkejar,ترکجر
+|,terkejar-kejar,ترکجر ـ کجر
+|,terkeji,ترکجي
+|,terkejur,ترکجور
+|,terkejut,ترکجوت
+|,terkekang,ترککڠ
+|,terkekau-kekau,ترککاو ـ ککاو
+|,terkekeh-kekeh,ترکيکيه ـ کيکيه
+|,terkekek-kekek,ترکيکيق ـ کيکيق
+|,terkelabung,ترکلابوڠ
+|,terkelap,ترکلڤ
+|,terkelar,ترکلر
+|,terkelebak,ترکليبق
+|,terkelebek,ترکليبيق
+|,terkeleceh,ترکليچيه
+|,terkelecek,ترکليچيق
+|,terkelek,ترکيليق
+|,terkelemek,ترکليميق
+|,terkelempai,ترکلمڤاي
+|,terkelepai,ترکلڤاي
+|,terkelepek,ترکليڤيق
+|,terkelepet,ترکليڤيت
+|,terkeleweh,ترکليويه
+|,terkelibat,ترکليبت
+|,terkelik,ترکليق
+|,terkelindan,ترکليندن
+|,terkelip,ترکليڤ
+|,terkelip-kelip,ترکليڤ ـ کليڤ
+|,terkeliru,ترکليرو
+|,terkelobak,ترکلوبق
+|,terkelola,ترکلولا
+|,terkelolong,ترکلولوڠ
+|,terkelompok,ترکلومڤوق
+|,terkelopak,ترکلوڤق
+|,terkeloyak,ترکلويق
+|,terkelu,ترکلو
+|,terkeluar,ترکلوار
+|,terkeluk-keluk,ترکلوق ـ کلوق
+|,terkelupas,ترکلوڤس
+|,terkemas,ترکمس
+|,terkembang,ترکمبڠ
+|,terkembar,ترکمبر
+|,terkembari,ترکمبري
+|,terkembung,ترکمبوڠ
+|,terkemik,ترکميق
+|,terkempa,ترکمڤا
+|,terkempul-kempul,ترکمڤول ـ کمڤول
+|,terkempun-kempun,ترکمڤون ـ کمڤون
+|,terkemudian,ترکمودين
+|,terkemut,ترکموت
+|,terkemut-kemut,ترکموت ـ کموت
+|,terkena,ترکنا
+|,terkenal,ترکنل
+|,terkenan,ترکنن
+|,terkenang,ترکنڠ
+|,terkenangkan,ترکنڠکن
+|,terkenang-kenang,ترکنڠ ـ کنڠ
+|,terkencang,ترکنچڠ
+|,terkencar-kencar,ترکنچر ـ کنچر
+|,terkencing,ترکنچيڠ
+|,terkencing-kencing,ترکنچيڠ ـ کنچيڠ
+|,terkendalikan,ترکنداليکن
+|,terkendong,ترکيندوڠ
+|,terkendur,ترکندور
+|,terkengkang-kengkang,ترکيڠکڠ ـ کيڠکڠ
+|,terkengkeng,ترکيڠکيڠ
+|,terkengkeng-kengkeng,ترکيڠکيڠ ـ کيڠکيڠ
+|,terkentut,ترکنتوت
+|,terkentut-kentut,ترکنتوت ـ کنتوت
+|,terkenyit-kenyit,ترکپيت ـ کپيت
+|,terkeok-keok,ترکيوق ـ کيوق
+|,terkepak-kepak,ترکڤق ـ کڤق
+|,terkepak,ترکيڤق
+|,terkepal,ترکڤل
+|,terkepil,ترکڤيل
+|,terkepit,ترکڤيت
+|,terkepok,ترکيڤوق
+|,terkepung,ترکڤوڠ
+|,terkerak,ترکرق
+|,terkerangka,ترکرڠک
+|,terkeras,ترکرس
+|,terkerat,ترکرت
+|,terkerekot,ترکريکوت
+|,terkerepot,ترکريڤوت
+|,terkereseng,ترکريسيڠ
+|,terkeriuk,ترکريوق
+|,terkerjakan,ترکرجاکن
+|,terkerkau,ترکرکاو
+|,terkerlap,ترکرلڤ
+|,terkerlip-kerlip,ترکرليڤ ـ کرليڤ
+|,terkernyih,ترکرپيه
+|,terkersik,ترکرسيق
+|,terkersik-kersik,ترکرسيق ـ کرسيق
+|,terkeruk-keruk,ترکروق ـ کروق
+|,terkerumit-kerumit,ترکروميت ـ کروميت
+|,terkerunyut,ترکروپوت
+|,terkerut,ترکروت
+|,terkesan,ترکسن
+|,terkeseng-keseng,ترکيسيڠ ـ کيسيڠ
+|,terkeser-keser,ترکيسير ـ کيسير
+|,terkesot-kesot,ترکيسوت ـ کيسوت
+|,terkesut-kesut,ترکسوت ـ کسوت
+|,terketam,ترکتم
+|,terketar-ketar,ترکتر ـ کتر
+|,terketawa,ترکتاوا
+|,terketuk,ترکتوق
+|,terkhabar,ترخبر
+|,terkhas,ترخاص
+|,terkhayal,ترخيال
+|,terkhayalkan,ترخيالکن
+|,terkhilaf,ترخلاف
+|,terkhusus,ترخصوص
+|,terkial-kial,ترکيال ـ کيال
+|,terkiat,ترکيات
+|,terkibar,ترکيبر
+|,terkijai-kijai,ترکيجاي ـ کيجاي
+|,terkikis,ترکيکيس
+|,terkilan,ترکيلن
+|,terkilap,ترکيلڤ
+|,terkilas,ترکيلس
+|,terkilat,ترکيلت
+|,terkilir,ترکيلير
+|,terkimah,ترکيمه
+|,terkimbang-kimbang,ترکيمبڠ ـ کيمبڠ
+|,terkincak-kincak,ترکينچق ـ کينچق
+|,terkincit,ترکينچيت
+|,terkincit-kincit,ترکينچيت ـ کينچيت
+|,terkindap-kindap,ترکيندڤ ـ کيندڤ
+|,terkini,ترکيني
+|,terkinja-kinja,ترکينجا ـ کينجا
+|,terkinjang-kinjang,ترکينجڠ ـ کينجڠ
+|,terkinjat,ترکينجت
+|,terkira,ترکيرا
+|,terkirakan,ترکيراکن
+|,terkirai-kirai,ترکيراي ـ کيراي
+|,terkiri,ترکيري
+|,terkirim,ترکيريم
+|,terkisah,ترقيصه
+|,terkisar,ترکيسر
+|,terkitai-kitai,ترکيتاي ـ کيتاي
+|,terkitar-kitar,ترکيتر ـ کيتر
+|,terkiuk,ترکيوق
+|,terkobak,ترکوبق
+|,terkobar,ترکوبر
+|,terkocak,ترکوچق
+|,terkocak-kocak,ترکوچق ـ کوچق
+|,terkocoh,ترکوچوه
+|,terkocoh-kocoh,ترکوچوه ـ کوچوه
+|,terkodek-kodek,ترکوديق ـ کوديق
+|,terkokol-kokol,ترکوکول ـ کوکول
+|,terkokot,ترکوکوت
+|,terkondensasi,ترکوندينساسي
+|,terkongkong,ترکوڠکوڠ
+|,terkontal-kantil,ترکونتل ـ کنتيل
+|,terkontang-kanting,ترکونتڠ ـ کنتيڠ
+|,terkonteng-konteng,ترکونتيڠ ـ کونتيڠ
+|,terkoordinasi,ترکوءورديناسي
+|,terkopak,ترکوڤق
+|,terkopek,ترکوڤيق
+|,terkorban,ترقربان
+|,terkorek,ترکوريق
+|,terkosel-kosel,ترکوسيل ـ کوسيل
+|,terkota,ترکوتا
+|,terkotai,ترکوتاي
+|,terkotak,ترکوتق
+|,terkoteng-koteng,ترکوتيڠ ـ کوتيڠ
+|,terkotori,ترکوتوري
+|,terkoyak,ترکويق
+|,terkuak,ترکواق
+|,terkual,ترکوال
+|,terkuap-kuap,ترکواڤ ـ کواڤ
+|,terkuasa,ترکواس
+|,terkuasai,ترکواساءي
+|,terkuat,ترقوات
+|,terkubu,ترکوبو
+|,terkubur,ترقبور
+|,terkucai,ترکوچاي
+|,terkucil,ترکوچيل
+|,terkudung,ترکودوڠ
+|,terkuis,ترکوءيس
+|,terkuit,ترکوءيت
+|,terkujut,ترکوجوت
+|,terkukuh,ترکوکوه
+|,terkulai,ترکولاي
+|,terkulai-kulai,ترکولاي ـ کولاي
+|,terkulat-kulat,ترکولت ـ کولت
+|,terkulum,ترکولوم
+|,terkumat-kamit,ترکومت ـ کاميت
+|,terkumpal-kumpal,ترکومڤل ـ کومڤل
+|,terkumpul,ترکومڤول
+|,terkunci,ترکونچي
+|,terkuntum,ترکونتوم
+|,terkunyah,ترکوپه
+|,terkupas,ترکوڤس
+|,terkurang,ترکورڠ
+|,terkurung,ترکوروڠ
+|,terkusut,ترکوسوت
+|,terkutuk,ترکوتوق
+|,terlacak,ترلاچق
+|,terlafaz,ترلفظ
+|,terlahir,ترلاهير
+|,terlajak,ترلاجق
+|,terlakar,ترلاکر
+|,terlaksana,ترلقسان
+|,terlakur,ترلاکور
+|,terlalah,ترلاله
+|,terlalai,ترلالاي
+|,terlalak-lalak,ترلالق ـ لالق
+|,terlalu,ترلالو
+|,terlambak,ترلمبق
+|,terlambat,ترلمبت
+|,terlambung,ترلامبوڠ
+|,terlampai,ترلامڤاي
+|,terlampau,ترلمڤاو
+|,terlampaui,ترلمڤاوءي
+|,terlampir,ترلمڤير
+|,terlancang,ترلنچڠ
+|,terlancap,ترلنچڤ
+|,terlancar-lancar,ترلنچر ـ لنچر
+|,terlanda,ترلندا
+|,terlandai,ترلنداي
+|,terbelangah,تربلاڠه
+|,terlangah,ترلاڠه
+|,terlanggar,ترلڠݢر
+|,terlangkahkan,ترلڠکهکن
+|,terlangkau,ترلڠکاو
+|,terlangkup,ترلڠکوڤ
+|,terlangsung,ترلڠسوڠ
+|,terlangut,ترلاڠوت
+|,terlanjur,ترلنجور
+|,terlanjuran,ترلنجورن
+|,terlanjurkan,ترلنجورکن
+|,terlanjur-lanjur,ترلنجور ـ لنجور
+|,terlanjut,ترلنجوت
+|,terlantan,ترلنتن
+|,terlantar,ترلنتر
+|,terlantas,ترلنتس
+|,terlantik,ترلانتيق
+|,terlanting,ترلانتيڠ
+|,terpelanting,ترڤلانتيڠ
+|,terlantun,ترلنتون
+|,terlantung,ترلانتوڠ
+|,terlantung-lantung,ترلانتوڠ ـ لانتوڠ
+|,terlap,ترلڤ
+|,terlapik,ترلاڤيق
+|,terlapis,ترلاڤيس
+|,terlapor,ترلاڤور
+|,terlara-lara,ترلارا ـ لارا
+|,terlarang,ترلارڠ
+|,terlaras,ترلارس
+|,terlarat,ترلارت
+|,terlari-lari,ترلاري ـ لاري
+|,terlarut,ترلاروت
+|,terlatih,ترلاتيه
+|,terlaung-laung,ترلاءوڠ ـ لاءوڠ
+|,terlawan,ترلاون
+|,terlayah,ترلايه
+|,terlayak,ترلايق
+|,terlayan,ترلاين
+|,terlayang,ترلايڠ
+|,terlayang-layang,ترلايڠ ـ لايڠ
+|,terlayap,ترلايڤ
+|,terlayu,ترلايو
+|,terlazat,ترلاذت
+|,terlebar,ترليبر
+|,terlebih,ترلبيه
+|,terlebih-lebih,ترلبيه ـ لبيه
+|,terlebur,ترلبور
+|,terlecah,ترلچه
+|,terledak,ترلدق
+|,terlega,ترلݢا
+|,terlegam,ترلݢم
+|,terleka,ترليک
+|,terlekang,ترلکڠ
+|,terlekap,ترلکڤ
+|,terlekat,ترلکت
+|,terpeleku,ترڤلکو
+|,terlelan,ترليلن
+|,terlelap,ترللڤ
+|,terlelong,ترليلوڠ
+|,terlemak,ترلمق
+|,terlemas,ترلمس
+|,terlembap,ترلمبڤ
+|,terlembik,ترلمبيق
+|,terlembut,ترلمبوت
+|,terlempai,ترلمڤاي
+|,terlempar,ترليمڤر
+|,terlena,ترلينا
+|,terlena-lena,ترلينا ـ لينا
+|,terlencong,ترلينچوڠ
+|,terlengah,ترليڠه
+|,terlengar,ترلڠر
+|,terbelengas,تربليڠس
+|,terlenggang-lenggang,ترليڠݢڠ ـ ليڠݢڠ
+|,terlenggok,ترليڠݢوق
+|,terlenggok-lenggok,ترليڠݢوق ـ ليڠݢوق
+|,terlengket,ترليڠکيت
+|,terlengkung,ترلڠکوڠ
+|,terlentik,ترلنتيق
+|,terlenting,ترلنتيڠ
+|,terlentok,ترلينتوق
+|,terlentung,ترلنتوڠ
+|,terlentur,ترلنتور
+|,terlepa,ترليڤا
+|,terlepap,ترلڤڤ
+|,terlepap-lepap,ترلڤڤ ـ لڤڤ
+|,terlepas,ترلڤس
+|,terlepoh,ترليڤوه
+|,terlerah,ترلره
+|,terlerai,ترلراي
+|,terpeleset,ترڤليسيت
+|,terletak,ترلتق
+|,terlewat,ترليوات
+|,terlibat,ترليبت
+|,terlihat,ترليهت
+|,terlilit,ترليليت
+|,terlincah-lincah,ترلينچه ـ لينچه
+|,terlindung,ترليندوڠ
+|,terselindung,ترسليندوڠ
+|,terlingkar,ترليڠکر
+|,terlingkung,ترليڠکوڠ
+|,telingkup,تليڠکوڤ
+|,terlingkup,ترليڠکوڤ
+|,terlintang,ترلينتڠ
+|,terlintas,ترلينتس
+|,terlipat,ترليڤت
+|,terliput,ترليڤوت
+|,terlitup,ترليتوڤ
+|,terliuk,ترليوق
+|,terliuk-liuk,ترليوق ـ ليوق
+|,terliur,ترليور
+|,terlolong-lolong,ترلولوڠ ـ لولوڠ
+|,terlompat,ترلومڤت
+|,terlompat-lompat,ترلومڤت ـ لومڤت
+|,terloncat,ترلونچت
+|,terloncat-loncat,ترلونچت ـ لونچت
+|,terlondeh,ترلونديه
+|,terlondeh-londeh,ترلونديه ـ لونديه
+|,terlonggar,ترلوڠݢر
+|,terlonggok,ترلوڠݢوق
+|,terlongkah,ترلوڠکه
+|,terlonjak,ترلونجق
+|,terlonjak-lonjak,ترلونجق ـ لونجق
+|,terlonta-lonta,ترلونتا ـ لونتا
+|,terlopong,ترلوڤوڠ
+|,terlorot,ترلوروت
+|,terluah,ترلواه
+|,terluang,ترلواڠ
+|,terlucut,ترلوچوت
+|,terlukis,ترلوکيس
+|,terluluh,ترلولوه
+|,terluluk,ترلولوق
+|,terlunas,ترلونس
+|,terluncur,ترلونچور
+|,terlungkup,ترلوڠکوڤ
+|,terlunjur,ترلونجور
+|,terlupa,ترلوڤا
+|,terlupus,ترلوڤوس
+|,terluput,ترلوڤوت
+|,terlurut,ترلوروت
+|,terlurutkan,ترلوروتکن
+|,termagnet,ترمݢنيت
+|,termahal,ترماهل
+|,termaju,ترماجو
+|,termakam,ترمقام
+|,termakan,ترماکن
+|,termakbul,ترمقبول
+|,termaklum,ترمعلوم
+|,termaksud,ترمقصود
+|,termaktub,ترمکتوب
+|,termala,ترمالا
+|,termalu-malu,ترمالو ـ مالو
+|,termampat,ترممڤت
+|,termampu,ترممڤو
+|,termandam,ترمندم
+|,termangau,ترماڠاو
+|,termangau-mangau,ترماڠاو ـ ماڠاو
+|,termangu,ترماڠو
+|,termangu-mangu,ترماڠو ـ ماڠو
+|,termanifestasi,ترمانيفيستاسي
+|,termanja-manja,ترمنجا ـ منجا
+|,termansuh,ترمنسوخ
+|,termasam,ترماسم
+|,termasin,ترماسين
+|,termasuk,ترماسوق
+|,termasyhur,ترمشهور
+|,termata-mata,ترمات ـ مات
+|,termaterai,ترمتراي
+|,termateri,ترمتري
+|,termazkur,ترمذکور
+|,termazlum,ترمظلوم
+|,termegun,ترمݢون
+|,termengah-mengah,ترمڠه ـ مڠه
+|,termengkelan,ترمڠکلن
+|,termengung,ترمڠوڠ
+|,termenung,ترمنوڠ
+|,termenung-menung,ترمنوڠ ـ منوڠ
+|,termesra,ترمسرا
+|,termesti,ترمستي
+|,termeterai,ترمتراي
+|,termilik,ترميليق
+|,termimik-mimik,ترميميق ـ ميميق
+|,termimpi,ترميمڤي
+|,termimpikan,ترميمڤيکن
+|,termimpi-mimpi,ترميمڤي ـ ميمڤي
+|,terminum,ترمينوم
+|,termiskin,ترميسکين
+|,termoden,ترمودن
+|,termolek,ترموليق
+|,termonyos,ترموپوس
+|,termuat,ترموات
+|,termudikkan,ترموديقکن
+|,terkemuka,ترکموک
+|,termula,ترمولا
+|,termulia,ترموليا
+|,termuncul,ترمونچول
+|,termundur,ترموندور
+|,termuntah-muntah,ترمونته ـ مونته
+|,termurah,ترموره
+|,termurkai,ترمورکاءي
+|,termusnah,ترموسنه
+|,ternafi,ترنافي
+|,ternahak,ترناهق
+|,ternaik,ترناءيق
+|,ternajis,ترنجيس
+|,ternama,ترنام
+|,ternampak,ترنمڤق
+|,ternampak-nampak,ترنمڤق ـ نمڤق
+|,ternampakkan,ترنمڤقکن
+|,ternanti-nanti,ترننتي ـ ننتي
+|,ternaung,ترناءوڠ
+|,terngah-ngah,ترڠه ـ ڠه
+|,ternganga,ترڠاڠا
+|,ternganga-nganga,ترڠاڠا ـ ڠاڠا
+|,terngiau-ngiau,ترڠياو ـ ڠياو
+|,terniaga,ترنياݢ
+|,terniat,ترنية
+|,ternilai,ترنيلاي
+|,ternobat,ترنوبت
+|,ternoda,ترنودا
+|,ternonong-nonong,ترنونوڠ ـ نونوڠ
+|,ternyah,ترپه
+|,ternyala,ترپالا
+|,ternyanyi,ترپاپي
+|,ternyata,ترپات
+|,tersenyawa,ترسپاوا
+|,teroksigen,تراوکسيݢن
+|,terolang-aling,تراولڠ ـ اليڠ
+|,teroleh-oleng,تراوليڠ ـ اوليڠ
+|,terondak-ondak,تراوندق ـ اوندق
+|,terondoh-ondoh,تراوندوه ـ اوندوه
+|,teronggek-onggek,تراوڠݢيق ـ اوڠݢيق
+|,teronggok,تراوڠݢوق
+|,terorak,تراورق
+|,terpacak,ترڤاچق
+|,terpacul,ترڤاچول
+|,terpada,ترڤادا
+|,terpadam,ترڤادم
+|,terpadu,ترڤادو
+|,terpagar,ترڤاݢر
+|,terpagut,ترڤاݢوت
+|,terpahat,ترڤاهت
+|,terpajak,ترڤاجق
+|,terpakai,ترڤاکاي
+|,terpaksa,ترڤقسا
+|,terpaku,ترڤاکو
+|,terpalang,ترڤالڠ
+|,terpaling,ترڤاليڠ
+|,terpalit,ترڤاليت
+|,terpalut,ترڤالوت
+|,terpam,ترڤم
+|,terpampang,ترڤمڤڠ
+|,terpanah,ترڤانه
+|,terpanas,ترڤانس
+|,terpancang,ترڤنچڠ
+|,terpancar,ترڤانچر
+|,terpancing,ترڤنچيڠ
+|,terpancit,ترڤنچيت
+|,terpancung,ترڤنچوڠ
+|,terpancur,ترڤنچور
+|,terpancut,ترڤنچوت
+|,terpandai,ترڤنداي
+|,terpandang,ترڤندڠ
+|,terpandangkan,ڤڤڤڤڤڤڤڤ
+|,terpandang-pandang,ترڤندڠ ـ ڤندڠ
+|,terpandu,ترڤندو
+|,terpangah,ترڤاڠه
+|,terpanggil,ترڤڠݢيل
+|,terpanggil-panggil,ترڤڠݢيل ـ ڤڠݢيل
+|,terpangkah,ترڤڠکه
+|,terpangkal,ترڤڠکل
+|,terpangkas,ترڤڠکس
+|,terpangku,ترڤڠکو
+|,terpanguk,ترڤاڠوق
+|,terpanjang,ترڤنجڠ
+|,terpanjat,ترڤنجت
+|,terpantas,ترڤانتس
+|,terpantau,ترڤنتاو
+|,terpanting,ترڤانتيڠ
+|,terpantul,ترڤنتول
+|,terpapah,ترڤاڤه
+|,terpapar,ترڤاڤر
+|,terpasah,ترڤاسه
+|,terpasak,ترڤاسق
+|,terpasang,ترڤاسڠ
+|,terpasar,ترڤاسر
+|,terpasrah,ترڤسره
+|,terpatah,ترڤاته
+|,terpateri,ترڤتري
+|,terpatuk,ترڤاتوق
+|,terpaut,ترڤاءوت
+|,terpecah-pecah,ترڤچه ـ ڤچه
+|,terpecat,ترڤچت
+|,terpecut,ترڤچوت
+|,terpedas,ترڤدس
+|,terpegah,ترڤݢه
+|,terpegan,ترڤݢن
+|,terpegang,ترڤݢڠ
+|,terpegun,ترڤݢون
+|,terpejam,ترڤجم
+|,terpekak,ترڤکق
+|,terpekat,ترڤکت
+|,terpekik,ترڤکيق
+|,terpekik-pekik,ترڤکيق ـ ڤکيق
+|,terpekin,ترڤکين
+|,terpekong,ترڤيکوڠ
+|,terpelahang,ترڤلاهڠ
+|,terpelancit,ترڤلنچيت
+|,terpelangah,ترڤلاڠه
+|,terpelanting,ترڤلنتيڠ
+|,terpelecok,ترڤليچوق
+|,terpelekok,ترڤليکوق
+|,terpelekuh,ترڤلکوه
+|,terpelencit,ترڤلنچيت
+|,terpelesat,ترڤلست
+|,terpeleset,ترڤليسيت
+|,terpeletok,ترڤليتوق
+|,terpelihara,ترڤليهارا
+|,terpelohong,ترڤلوهوڠ
+|,terpelonok,ترڤلونوق
+|,terpelosok,ترڤلوسوق
+|,terpelosot,ترڤلوسوت
+|,terpeluk,ترڤلوق
+|,terpempan,ترڤمڤن
+|,terpencar,ترڤنچر
+|,terpencil,ترڤنچيل
+|,terpendam,ترڤندم
+|,terpendap,ترڤندڤ
+|,terpendek,ترڤينديق
+|,terpengap,ترڤڠڤ
+|,terpengaruh,ترڤڠاروه
+|,terpenggal,ترڤڠݢل
+|,terpengsan,ترڤيڠسن
+|,terpenjara,ترڤنجارا
+|,terpental,ترڤنتل
+|,terpentang,ترڤنتڠ
+|,terpenting,ترڤنتيڠ
+|,terpenuhi,ترڤنوهي
+|,terpenyet,ترڤيپيت
+|,terpepak,ترڤڤق
+|,terperam,ترڤرم
+|,terperangkap,ترڤرڠکڤ
+|,terperanjat,ترڤرنجت
+|,terperanyak,ترڤراپق
+|,terperap,ترڤرڤ
+|,terpercik,ترڤرچيق
+|,terpercit,ترڤرچيت
+|,terpercul,ترڤرچول
+|,terperedus,ترڤردوس
+|,terpereh-pereh,ترڤيريه ـ ڤيريه
+|,terperangau,ترڤرڠاو
+|,terperenyak,ترڤرپق
+|,terperenyuk,ترڤرپوق
+|,terperesuk,ترڤرسوق
+|,terpergok,ترڤرݢوق
+|,terperi,ترڤري
+|,terperikan,ترڤريکن
+|,terperinci,ترڤرينچي
+|,terperintah,ترڤرينته
+|,terperling,ترڤرليڠ
+|,terperlus,ترڤرلوس
+|,terpermanai,ترڤرماناءي
+|,terperogok,ترڤروݢوق
+|,terperohong,ترڤروهوڠ
+|,terperongo,ترڤروڠو
+|,terperonyok,ترڤروپوق
+|,terperosok,ترڤروسوق
+|,terpersil,ترڤرسيل
+|,terperuk,ترڤروق
+|,terpesona,ترڤسونا
+|,terpesong,ترڤيسوڠ
+|,terpetik,ترڤتيق
+|,terpeting-peting,ترڤتيڠ ـ ڤتيڠ
+|,terpiara,ترڤيارا
+|,terpiawai,ترڤياواي
+|,terpica,ترڤيچا
+|,terpicing,ترڤيچيڠ
+|,terpicit,ترڤيچيت
+|,terpihit,ترڤيهيت
+|,terpijak,ترڤيجق
+|,terpijit,ترڤيجيت
+|,terpikat,ترڤيکت
+|,terpikau-pikau,ترڤيکاو ـ ڤيکاو
+|,terpikul,ترڤيکول
+|,terpilih,ترڤيليه
+|,terpimpin,ترڤيمڤين
+|,terpinda,ترڤيندا
+|,terpinga-pinga,ترڤيڠا ـ ڤيڠا
+|,terpinggir,ترڤيڠݢير
+|,terpingkal-pingkal,ترڤيڠکل ـ ڤيڠکل
+|,terpinta,ترڤينتا
+|,terpintal,ترڤينتل
+|,terpintar,ترڤينتر
+|,terpisah,ترڤيسه
+|,terpisah-pisah,ترڤيسه ـ ڤيسه
+|,terpisat-pisat,ترڤيست ـ ڤيست
+|,terpiuh,ترڤيوه
+|,terpokok,ترڤوکوق
+|,terponggok,ترڤوڠݢوق
+|,terpongkang,ترڤوڠکيڠ
+|,terpontang-panting,ترڤونتڠ ـ ڤانتيڠ
+|,terpotong,ترڤوتوڠ
+|,terprogram,ترڤروݢرم
+|,terpugau,ترڤوݢاو
+|,terpuji,ترڤوجي
+|,terpukau,ترڤوکاو
+|,terpukul,ترڤوکول
+|,terpulang,ترڤولڠ
+|,terpulas,ترڤولس
+|,terpulau,ترڤولاو
+|,terpulut,ترڤولوت
+|,terpumpun,ترڤومڤون
+|,terpuntir,ترڤونتير
+|,terpupuk,ترڤوڤوق
+|,terpupus,ترڤوڤوس
+|,terpuruk,ترڤوروق
+|,terpusat,ترڤوست
+|,terpusing,ترڤوسيڠ
+|,terpusing-pusing,ترڤوسيڠ ـ ڤوسيڠ
+|,terputar,ترڤوتر
+|,terputus,ترڤوتوس
+|,terputus-putus,ترڤوتوس ـ ڤوتوس
+|,teraba-raba,ترابا ـ راب
+|,teradung,ترادوڠ
+|,teragung,تراݢوڠ
+|,terahap,تراهڤ
+|,terakam,تراقم
+|,teramal,ترامل
+|,terambat,ترمبت
+|,terancang,ترانچڠ
+|,terserandung,ترسرندوڠ
+|,terangkak-rangkak,ترڠکق ـ رڠکق
+|,terangkum,ترڠکوم
+|,terangkup,ترڠکوڤ
+|,terangsang,ترڠسڠ
+|,terasa,تراس
+|,terasakan,تراساکن
+|,terayan-rayan,تراين ـ راين
+|,terayap-rayap,ترايڤ ـ رايڤ
+|,tereban,تريبن
+|,teregang,ترݢڠ
+|,tereluh,ترلوه
+|,terperelus,ترڤرلوس
+|,terembut-rembut,ترمبوت ـ رمبوت
+|,terserempak,ترسرمڤق
+|,terenang-renang,ترنڠ ـ رنڠ
+|,terencah,ترنچه
+|,terencana,ترنچان
+|,terencat,ترنچت
+|,terencet-rencet,ترينچيت ـ رينچيت
+|,terendah,ترنده
+|,terendam,ترندم
+|,terendong,تريندوڠ
+|,terenggang,ترڠݢڠ
+|,terenjat,ترنجت
+|,terentak,ترنتق
+|,terentang,ترنتڠ
+|,terentap,ترنتڤ
+|,teresap,ترسڤ
+|,tatarias,تاتارياس
+|,terperinci,ترڤرينچي
+|,teringan,تريڠن
+|,teringkas,تريڠکس
+|,teringkuk,تريڠکوق
+|,terintang,ترينتڠ
+|,teriwayat,تريوايت
+|,terodok,ترودوق
+|,terodong,ترودوڠ
+|,terogol,تروݢول
+|,terombak,ترومبق
+|,teromok,تروموق
+|,terosok,تروسوق
+|,terosot,تروسوت
+|,teruang,ترواڠ
+|,teruit,تروءيت
+|,terujuk,تروجوع
+|,terupa,تروڤا
+|,tersabar,ترصبر
+|,tersabung,ترسابوڠ
+|,tersabur,ترسابور
+|,tersadai,ترساداي
+|,tersadung,ترسادوڠ
+|,tersagang,ترساݢڠ
+|,tersaji,ترساجي
+|,tersakat,ترساکت
+|,tersaku,ترساکو
+|,tersalah,ترساله
+|,tersalai,ترسالاي
+|,tersalib,ترصليب
+|,tersalur,ترسالور
+|,tersalut,ترسالوت
+|,tersambar,ترسامبر
+|,tersambil,ترسمبيل
+|,tersambung,ترسامبوڠ
+|,tersampai,ترسمڤاي
+|,tersampang,ترسامڤڠ
+|,tersamping,ترسمڤيڠ
+|,tersampir,ترسمڤير
+|,tersampuk,ترسمڤوق
+|,tersandar,ترساندر
+|,tersandung,ترسندوڠ
+|,tersanga-sanga,ترساڠا ـ ساڠا
+|,tersangai,ترساڠاي
+|,tersangat,ترساڠت
+|,tersangga,ترسڠݢ
+|,tersanggat,ترسڠݢت
+|,tersangir,ترساڠير
+|,tersangka,ترسڠک
+|,tersangkut,ترسڠکوت
+|,tersangkut-sangkut,ترسڠکوت ـ سڠکوت
+|,tersapa,ترساڤ
+|,tersapu,ترساڤو
+|,tersara-bara,ترسارا ـ بارا
+|,tersaruk,ترساروق
+|,tersaruk-saruk,ترساروق ـ ساروق
+|,tersarung,ترساروڠ
+|,tersasar,ترساسر
+|,tersasul,ترساسول
+|,tersauk,ترساءوق
+|,tersaukkan,ترساءوقکن
+|,tersaur,ترساءور
+|,tersayang,ترسايڠ
+|,tersayang-sayang,ترسايڠ ـ سايڠ
+|,tersayat,ترسايت
+|,tersebab,ترسبب
+|,tersebak,ترسيبق
+|,tersebar,ترسيبار
+|,terseberang,ترسبرڠ
+|,tersebut,ترسبوت
+|,tersedak,ترسدق
+|,tersedak-sedak,ترسدق ـ سدق
+|,tersedan-sedan,ترسدن ـ سدن
+|,tersedar,ترسدر
+|,tersedia,ترسديا
+|,tersedih-sedih,ترسديه ـ سديه
+|,tersedik,ترسديق
+|,tersedu,ترسدوت
+|,tersedu-sedu,ترسدو ـ سدو
+|,tersedut,ترسدوت
+|,tersejat,ترسجت
+|,tersekang,ترسکڠ
+|,tersekat,ترسکت
+|,tersekat-sekat,ترسکت ـ سکت
+|,terseksa,ترسيقسا
+|,terselak,ترسلق
+|,terselak,ترسيلق
+|,terselam,ترسلم
+|,terselami,ترسلمي
+|,terselamat,ترسلامت
+|,terselampai,ترسلمڤاي
+|,terselangkup,ترسلڠکوڤ
+|,terselat,ترسلت
+|,terselempang,ترسلمڤڠ
+|,terselempang,ترسليمڤڠ
+|,terselendang,ترسليندڠ
+|,terselerak,ترسليرق
+|,terselesai,ترسلساي
+|,terseleweng,ترسليويڠ
+|,terselimut,ترسليموت
+|,terselinap,ترسلينڤ
+|,terselindung,ترسليندوڠ
+|,terselingkup,ترسليڠکوڤ
+|,terselip,ترسليڤ
+|,terselit,ترسليت
+|,terseliuh,ترسليوه
+|,terselongkar,ترسلوڠکر
+|,terselubung,ترسلوبوڠ
+|,terseluk,ترسلوق
+|,terselulur,ترسلولور
+|,terselusur,ترسلوسور
+|,tersemadi,ترسمادي
+|,tersemai,ترسماي
+|,tersemak,ترسيمق
+|,tersemat,ترسمت
+|,tersembam,ترسمبم
+|,tersembelih,ترسمبليه
+|,tersembul,ترسمبول
+|,tersembunyi,ترسمبوپي
+|,tersembunyi-sembunyi,ترسمبوپي ـ سمبوپي
+|,tersembur,ترسمبور
+|,tersempal,ترسمڤل
+|,tersempalai,ترسمڤالاي
+|,tersempil,ترسمڤيل
+|,tersempul,ترسمڤول
+|,tersemput-semput,ترسمڤوت ـ سمڤوت
+|,tersemu,ترسمو
+|,tersenak,ترسنق
+|,tersenak-senak,ترسنق ـ سنق
+|,tersenarai,ترسناراي
+|,tersendam,ترسندم
+|,tersendat,ترسندت
+|,tersendat-sendat,ترسندت ـ سندت
+|,tersendeng-sendeng,ترسينديڠ ـ سينديڠ
+|,tersender,ترسيندير
+|,tersendiri,ترسنديري
+|,tersendorong,ترسندوروڠ
+|,tersenduk,ترسندوق
+|,tersengah-sengah,ترسڠه ـ سڠه
+|,tersengal-sengal,ترسڠل ـ سڠل
+|,tersengat,ترسڠت
+|,tersenget,ترسيڠيت
+|,tersenggol,ترسيڠݢول
+|,tersengguk,ترسڠݢوق
+|,tersengguk-sengguk,ترسڠݢوق ـ سڠݢوق
+|,tersengih,ترسڠيه
+|,tersengih-sengih,ترسڠيه ـ سڠيه
+|,tersengkang,ترسڠکڠ
+|,tersengkang,ترسيڠکڠ
+|,tersengsam,ترسڠسم
+|,tersengut-sengut,ترسڠوت ـ سڠوت
+|,tersentak,ترسينتق
+|,tersentap,ترسنتڤ
+|,tersentil,ترسنتيل
+|,tersentuh,ترسنتوه
+|,tersentuk,ترسنتوق
+|,tersenyap,ترسپڤ
+|,tersenyum,ترسپوم
+|,tersenyum-senyum,ترسپوم ـ سپوم
+|,tersepah,ترسيڤه
+|,tersepai,ترسڤاي
+|,tersepak,ترسڤق
+|,tersepak,ترسيڤق
+|,tersepit,ترسڤيت
+|,tersepuh,ترسڤوه
+|,tersepuk,ترسڤوق
+|,tersera-sera,ترسرا ـ سرا
+|,terserah,ترسره
+|,terserah-serah,ترسره ـ سره
+|,terserai,ترسيراي
+|,terserak,ترسيرق
+|,terserak-serak,ترسيرق ـ سيرق
+|,terserampang,ترسرمڤڠ
+|,terseranduk,ترسرندوق
+|,terserandung,ترسرندوڠ
+|,terserap,ترسرڤ
+|,terserat,ترسرت
+|,terserempak,ترسرمڤق
+|,terserempet,ترسريمڤيت
+|,terseret,ترسيريت
+|,tersergam,ترسرݢم
+|,terseringai,ترسريڠاي
+|,terserkap,ترسرکڤ
+|,terserkup,ترسرکوڤ
+|,terserlah,ترسرله
+|,terserling,ترسرليڠ
+|,terserobok,ترسروبوق
+|,terserompok,ترسرومڤوق
+|,terserondok,ترسروندوق
+|,terserondol,ترسروندول
+|,terserondong,ترسروندوڠ
+|,terserong,ترسيروڠ
+|,terserpih,ترسرڤيه
+|,terserpuk,ترسرڤوق
+|,terserunda,ترسروندا
+|,terserungkup,ترسروڠکوڤ
+|,tersesak,ترسسق
+|,tersesar,ترسسر
+|,tersesat,ترسست
+|,tersesuai,ترسسواي
+|,tersetai-setai,ترستاي ـ ستاي
+|,tersetop,ترستوڤ
+|,tersewa,ترسيوا
+|,tersia-sia,ترسيا ـ سيا
+|,tersiar,ترسيار
+|,tersiat,ترسيات
+|,tersidai,ترسيداي
+|,tersifatkan,ترصيفتکن
+|,tersigung,ترسيݢوڠ
+|,tersihir,ترسيحير
+|,tersikat,ترسيکت
+|,tersiku,ترسيکو
+|,tersila,ترسيلا
+|,tersilam,ترسيلم
+|,tersilang,ترسيلڠ
+|,tersilap,ترسيلڤ
+|,tersilau,ترسيلاو
+|,tersimbah,ترسيمبه
+|,tersimbat,ترسيمبت
+|,tersimbur,ترسيمبور
+|,tersimen,ترسيمين
+|,tersimpai,ترسيمڤاي
+|,tersimpan,ترسيمڤن
+|,tersimpuh,ترسيمڤوه
+|,tersimpul,ترسيمڤول
+|,tersindir,ترسيندير
+|,tersingahak,ترسيڠاهق
+|,tersinggah,ترسيڠݢه
+|,tersinggung,ترسيڠݢوڠ
+|,tersingit,ترسيڠيت
+|,tersingkap,ترسيڠکڤ
+|,tersingkat,ترسيڠکت
+|,tersingkir,ترسيڠکير
+|,tersingsing,ترسيڠسيڠ
+|,tersipu-sipu,ترسيڤو ـ سيڤو
+|,tersirah,ترسيره
+|,tersiram,ترسيرم
+|,tersirap,ترسيرڤ
+|,tersirat,ترسيرت
+|,tersisa,ترسيسا
+|,tersisih,ترسيسيه
+|,tersisip,ترسيسيڤ
+|,terskru,ترسکرو
+|,tersobok,ترسوبوق
+|,tersodok,ترسودوق
+|,tersohor,ترسوهور
+|,tersoja-soja,ترسوجا ـ سوجا
+|,tersompek,ترسومڤيق
+|,tersomplok,ترسومڤلوق
+|,tersompok,ترسومڤوق
+|,tersondol,ترسوندول
+|,tersongel,ترسوڠيل
+|,tersongsang,ترسوڠسڠ
+|,tersoren,ترسورين
+|,tersorok,ترسوروق
+|,tersorong,ترسوروڠ
+|,tersorong-sorong,ترسوروڠ ـ سوروڠ
+|,tersua,ترسوا
+|,tersuap,ترسواڤ
+|,tersuar,ترسوار
+|,tersudu,ترسودو
+|,tersujud,ترسوجود
+|,tersukat,ترسوکت
+|,tersula,ترسولا
+|,tersuling,ترسوليڠ
+|,tersuluh,ترسولوه
+|,tersumbat,ترسومبت
+|,tersumpal,ترسومڤل
+|,tersundak,ترسوندق
+|,tersungging,ترسوڠݢيڠ
+|,tersungkap,ترسوڠکڤ
+|,tersungkit,ترسوڠکيت
+|,tersungkuk,ترسوڠکوق
+|,tersungkuk-sungkuk,ترسوڠکوق ـ سوڠکوق
+|,tersungkum,ترسوڠکوم
+|,tersungkup,ترسوڠکوڤ
+|,tersungkur,ترسوڠکور
+|,tersunjam,ترسونجم
+|,tersuntik,ترسونتيق
+|,tersuntuk,ترسونتوق
+|,tersurat,ترسورت
+|,tersuruh,ترسوروه
+|,tersurut,ترسوروت
+|,tersusun,ترسوسون
+|,ta,تاء
+|,ta,طاء
+|,taajal,تعجل
+|,taakul,تعقل
+|,taakulan,تعقلن
+|,taaruf,تعارف
+|,taasub,تعصب
+|,taat,طاعة
+|,taazur (uzur),تعذر
+|,tab,تب
+|,tabah,تابه
+|,tabai,تاباي
+|,tabak,تابق
+|,tabal (sj permainan),تابل
+|,tabal (sj tabuh),طبل
+|,taban,تابن
+|,tabar,تابر
+|,tabar-tabar,تابر٢
+|,tabaraka,تبارک
+|,tabarakallah,تبارک الله
+|,tabaruk,تبرک
+|,tabas,تابس
+|,tabayun,تبايون
+|,tabe (tabik),تابي
+|,tabel,تابيل
+|,tabela,تبلا
+|,tabernakel,تابرناکل
+|,tabi,تابع
+|,tabia,تابيا
+|,tabiat,طبيعة
+|,tabib,طبيب
+|,tabii,طبيعي
+|,tabiin,تابعين
+|,tabik,تابيق
+|,tabikan,تابيقن
+|,tabik-tabik,تابيق٢
+|,tabir,تابير
+|,tabir-menabir,تابير ـ منابير
+|,tabla,تبلا
+|,tablet,تبليت
+|,tabligh,تبليغ
+|,tablo,تبلو
+|,tabloid,تبلوءيد
+|,tabo,تابو
+|,tabrak,تبرق
+|,tabrakan,تبرقن
+|,tertabrak,ترتبرق
+|,tabtibau (taptibau),تبتيباو
+|,tabu,تابو
+|,tabuh,تابوه
+|,tabuhan,تابوهن
+|,tabuh-tabuhan,تابوه ـ تابوهن
+|,tabuk,تابوق
+|,tabun,تابون
+|,tabunan,تابونن
+|,tabun-menabun,تابون ـ منابون
+|,tabung,تابوڠ
+|,tabungan,تابوڠن
+|,tabur,تابور
+|,taburan,تابورن
+|,tertabur,ترتابور
+|,tabut,تابوت
+|,taci,تاچي
+|,tadah,تاده
+|,tadahan,تادهن
+|,tertadah,ترتاده
+|,tadak,تادق
+|,tadarus,تداروس
+|,tadbir,تدبير
+|,tadbiran,تدبيرن
+|,tertadbir,ترتدبير
+|,tadi,تادي
+|,tadung,تادوڠ
+|,tertadung,ترتادوڠ
+|,tae kwan do,تيکواندو
+|,taf,تف
+|,tafahus,تفحص
+|,tafakur,تفکر
+|,tafakuran,تفکرن
+|,tafdil,تفضيل
+|,tafeta,تفيتا
+|,tafsil,تفصيل
+|,tafsilan,تفصيلن
+|,tafsir,تفسير
+|,tafsiran,تفسيرن
+|,taftah,تفته
+|,tagak,تاݢق
+|,tertagak-tagak,ترتاݢق ـ تاݢق
+|,tagal,تاݢل
+|,tagan,تاݢن
+|,tagar,تاݢر
+|,taghut,طاغوت
+|,tagih,تاݢيه
+|,tagihan,تاݢيهن
+|,tagir,تاݢير
+|,tah,ته
+|,tahajud,تهجد
+|,tahak,تاهق
+|,tahalul,تحلل
+|,tahan,تاهن
+|,tahanan,تاهنن
+|,tertahan,ترتاهن
+|,tertahan-tahan,ترتاهن ـ تاهن
+|,tahana,تهان
+|,tahang,تاهڠ
+|,tahap,تاهڤ
+|,tahapan,تاهڤن
+|,tahar,تاهر
+|,taharah,طهارة
+|,tahayul,تحيول
+|,tahbis,تحبيس
+|,tahfifah,تحفيفة
+|,tahfiz,تحفيظ
+|,tahi,تاهي
+|,tahil,تاهيل
+|,tahir,طاهير
+|,tahiyat,تحية
+|,tahkik,تحقيق
+|,tahkim,تحکيم
+|,tahlik (taklik),تعليق
+|,tahlil,تهليل
+|,tahmid,تحميد
+|,tahniah,تهنيئه
+|,tahnik,تهنيء
+|,tahsil,تحصيل
+|,tahsin,تحسين
+|,tahu,تاهو
+|,tahu-menahu,تاهو ـ مناهو
+|,tahu-tahu,تاهو٢
+|,tertahu,ترتاهو
+|,tahun,تاهون
+|,tahunan,تاهونن
+|,tahyul (tahayul),تحيول
+|,tai,تاي
+|,taici,تايچي
+|,taifah,طائفة
+|,taiga,تايݢ
+|,taijin,تايجين
+|,taik,تايق
+|,taiko,تايکو
+|,taikong (tekong),تايکوڠ
+|,taikun,تاءيکون
+|,taiming,تايميڠ
+|,tain (takyin),تعيين
+|,taip,تاءيڤ
+|,taipan,تاءيڤن
+|,taip-menaip,تاءيڤ ـ مناءيڤ
+|,tertaip,ترتاءيڤ
+|,tairu,تايرو
+|,tais,تاءيس
+|,taiso,تايسو
+|,taitut,تايتوت
+|,taj,تاج
+|,taja,تاجا
+|,tajaan,تاجاءن
+|,tertaja,ترتاجا
+|,tajak,تاجق
+|,tajalli,تجلي
+|,tajam,تاجم
+|,tajau,تاجاو
+|,tajawuz,تجاوز
+|,tajdid,تجديد
+|,taji,تاجي
+|,tajin,تاجين
+|,tajribah,تجربة
+|,taju (taj),تاجو
+|,tajuk,تاجوق
+|,tajun,تاجون
+|,tajun-menajun,تاجون ـ مناجون
+|,tajung,تاجوڠ
+|,tajur,تاجور
+|,tajwid,تجويد
+|,tak,تق
+|,taka,تاکا
+|,takabbur (takbur),تکبر
+|,takadum,تقدم
+|,takaful,تکافل
+|,takah,تاکه
+|,takai,تاکاي
+|,takak,تاکق
+|,takal,تاکل
+|,takang,تاکڠ
+|,takang-takik,تاکڠ ـ تاکيق
+|,takar,تاکر
+|,takaran,تاکرن
+|,takarir,تقارير
+|,takat,تاکت
+|,takau,تاکاو
+|,takbir,تکبير
+|,takbiran,تکبيرن
+|,takbir (mimpi),تعبير
+|,takbiratulihram,تکبيرة الاحرام
+|,takbur,تکبور
+|,takdim,تقديم
+|,takdir,تقدير
+|,takdis,تقديس
+|,takeyari,تاکيياري
+|,takhir,تاءخير
+|,takhlik,تخليق
+|,takhsis,تخصيص
+|,takhta,تختا
+|,taki,تاکي
+|,takik,تاکيق
+|,tertakik,ترتاکيق
+|,takikan,تاکيقن
+|,takipnea,تاکيڤنيا
+|,takir,تاکير
+|,takjub,تعجوب
+|,takkan,تقکن
+|,taklid,تقليد
+|,taklif,تکليف
+|,taklik,تعليق
+|,taklikat,تعليقه
+|,taklim,تعليم
+|,taklimat,تعليمت
+|,takluk,تعلوق
+|,taklukan,تعلوقن
+|,tertakluk,ترتعلوق
+|,takma,تقما
+|,takmir,تعمير
+|,takograf,تاکوݢرف
+|,takol,تاکول
+|,takometer,تاکوميتر
+|,takoyong (ulun),تکويوڠ
+|,takraw,تکرو
+|,takrif,تعريف
+|,takrim,تکريم
+|,takrir,تقرير
+|,taksa,تقسا
+|,taksi,تکسي
+|,taksidermi,تکسيدرمي
+|,taksir (lalai),تقصير
+|,taksir (anggaran),تکسير
+|,taksiran,تکسيرن
+|,taksis (pembatasan),تخصيص
+|,taksis (pergerakan),تکسيس
+|,taksonomi,تکسونومي
+|,taktik,تکتيک
+|,taktikal,تکتيکل
+|,takuh,تاکوه
+|,takuh-takah,تاکوه ـ تاکه
+|,takuk,تاکوق
+|,takul,تاکول
+|,takung,تاکوڠ
+|,takungan,تاکوڠن
+|,tertakung,ترتاکوڠ
+|,takup,تاکوڤ
+|,takur,تاکور
+|,takut,تاکوت
+|,takut-takut,تاکوت٢
+|,takut-takutan,تاکوت ـ تاکوتن
+|,takuwih,تاکوويه
+|,takuyung,تاکويوڠ
+|,takwa,تقوى
+|,takwando (tae kwan do),تيکواندو
+|,takwil,تاءويل
+|,takwilan,تاءويلن
+|,takwim,تقويم
+|,takyin,تعيين
+|,takziah,تعزيه
+|,takzim,تعظيم
+|,takzir,تعزير
+|,tal,تل
+|,tala,تالا
+|,talaan,تالاءن
+|,talah,تاله
+|,tertalah-talah,ترتاله ـ تاله
+|,talai,تالاي
+|,talak,طلاق
+|,talakkan,طلاقکن
+|,tertalak,ترطلاق
+|,talam,تالم
+|,talan,تالن
+|,talang,تالڠ
+|,talangkai (telangkai),تلڠکاي
+|,talar,تالر
+|,talas,تالس
+|,talasemia,تالاسيميا
+|,talbiah,تلبية
+|,talek,تالق
+|,talen (tali),تالين
+|,talenan (telenan),تالنن
+|,tales,تالس
+|,tali,تالي
+|,tali-bertali,تالي ـ برتالي
+|,tali-temali,تالي ـ تمالي
+|,talian,تالين
+|,tali-tali,تالي٢
+|,talib,طالب
+|,talibul-ilmi,طالب العلم
+|,talibun,تليبون
+|,talidomida,تاليدوميدا
+|,taling,تاليڠ
+|,talium,تاليوم
+|,talkin,تلقين
+|,talkum,تلکوم
+|,talon,تالون
+|,talu,تالو
+|,taluki (teluki),تلوکي
+|,talun,تالون
+|,talun-menalun,تالون ـ منالون
+|,tam (dentam),تم
+|,tama,تام
+|,tama-tama,تام٢
+|,tamaa,طمعا
+|,tamadun,تمدون
+|,tamah (ramah tamah),تامه
+|,tamak,طمع
+|,tamakninah,طماءنينة
+|,tamam,تمام
+|,taman,تامن
+|,tamar,تمر
+|,tamat,تمت
+|,tamatan,تمتن
+|,tamattuk,تمتع
+|,tambah,تمبه
+|,tambahan,تمبهن
+|,tambah-menambah,تمبه ـ منمبه
+|,tambah-tambah,تمبه٢
+|,tambak,تمبق
+|,tambakan,تمبقن
+|,tambak-tambak,تمبق٢
+|,tertambak,ترتمبق
+|,tambal,تمبل
+|,tambalan,تمبلن
+|,tamban,تمبن
+|,tambang,تامبڠ
+|,tambangan,تامبڠن
+|,tambar,تمبر
+|,tambat,تمبت
+|,tambatan,تمبتن
+|,tertambat,ترتمبت
+|,tambera,تامبرا
+|,tambi,تمبي
+|,tambing,تمبيڠ
+|,tambo,تمبو
+|,tambok,تمبوق
+|,tamborin,تمبورين
+|,tambuh,تمبوه
+|,tambuhan,تمبوهن
+|,tambul,تمبول
+|,tambun,تمبون
+|,tambunan,تمبونن
+|,tertambun,ترتمبون
+|,tambung,تامبوڠ
+|,tambur,تمبور
+|,tambura,تمبورا
+|,tambus,تمبوس
+|,tertambus,ترتمبوس
+|,taming,تاميڠ
+|,tampa,تامڤا
+|,tampah,تامڤه
+|,tampak,تمڤق
+|,tampak-tampak,تمڤق٢
+|,tertampak,ترتمڤق
+|,tampal,تمڤل
+|,tampalan,تمڤلن
+|,tertampal,ترتمڤل
+|,tampan,تمڤن
+|,tampan-tampan,تمڤن٢
+|,tetampan,تتمڤن
+|,tertampan,ترتمڤن
+|,tampang,تمڤڠ
+|,tampar,تمڤر
+|,tamparan,تمڤرن
+|,tertampar,ترتمڤر
+|,tampas,تمڤس
+|,tampek,تامڤق
+|,tampel,تمڤيل
+|,tampi,تمڤي
+|,tampian,تمڤين
+|,tertampi,ترتمڤي
+|,tertampi-tampi,ترتمڤي ـ تمڤي
+|,tampik,تامڤيق
+|,tampikan,تامڤيقن
+|,tampil,تمڤيل
+|,tampin,تمڤين
+|,tamping,تمڤيڠ
+|,tampoi,تامڤوي
+|,tampon,تمڤون
+|,tamponek,تامڤونيق
+|,tampu,تمڤو
+|,tampuk,تمڤوق
+|,tampuk-tampuk,تمڤوق٢
+|,tampung,تمڤوڠ
+|,tertampung,ترتمڤوڠ
+|,tampur (tempur),تامڤور
+|,tampura,تمڤورا
+|,tampus,تمڤوس
+|,tamsil,تمثيل
+|,tamsilan,تمثيلن
+|,tertamsilkan,ترتمثيلکن
+|,tamtam,تمتم
+|,tamtama,تمتام
+|,tamu,تامو
+|,tetamu,تتامو
+|,tamuk,تاموق
+|,tamsyi,تمشي
+|,tamyiz,تمييز
+|,tan,تن
+|,tanah,تانه
+|,tanah-tanih,تانه ـ تانيه
+|,tanai,تاناي
+|,tanak,تانق
+|,tanak-tanakan,تانق ـ تانقن
+|,tanam,تانم
+|,tanaman,تانمن
+|,tanam-menanam,تانم ـ منانم
+|,tanam-tanaman,تانم ـ تانمن
+|,tertanam,ترتانم
+|,tanang,تانڠ
+|,tanatologi,تاناتولوݢي
+|,tanau,تاناو
+|,tanbiat,تنبيئة
+|,tancam,تنچم
+|,tancang,تنچڠ
+|,tancap,تنچڤ
+|,tancapan,تنچڤن
+|,tertancap,ترتنچڤ
+|,tanda,تندا
+|,tertanda,ترتندا
+|,tanda-tanda,تندا٢
+|,tandai,تنداي
+|,tandak,تندق
+|,tandan,تندن
+|,tandang,تاندڠ
+|,tandas,تاندس
+|,tandatangan,تنداتاڠن
+|,tandau,تنداو
+|,tandem,تندم
+|,tandes (tandas),تندس
+|,tandik,تنديق
+|,tandikat,تنديکت
+|,tandil,تنديل
+|,tanding,تنديڠ
+|,tandingan,تنديڠن
+|,tertanding,ترتنديڠ
+|,tandon,تندون
+|,tandori,تندوري
+|,tandu,تندو
+|,tanduan,تندوان
+|,tanduk,تندوق
+|,tertanduk,ترتندوق
+|,tanduk-tanduk,تندوق٢
+|,tandun,تندون
+|,tandup,تندوڤ
+|,tandur,تندور
+|,tanduri,تندوري
+|,tandus,تندوس
+|,tanfiziah,تنفيذيه
+|,tang,تڠ
+|,tangan,تاڠن
+|,tanganan,تاڠنن
+|,tangan-menangan,تاڠن ـ مناڠن
+|,tangan-tangan,تاڠن٢
+|,tertangani,ترتاڠني
+|,tangap,تاڠڤ
+|,tangar,تاڠر
+|,tangas,تاڠس
+|,tertangas,ترتاڠس
+|,tangeh,تاڠيه
+|,tangen,تڠݢن
+|,tangerin,تڠݢرين
+|,tangga,تڠݢ
+|,tanggah,تڠݢه
+|,tanggak,تڠݢق
+|,tanggal,تڠݢل
+|,tertanggal,ترتڠݢل
+|,tanggam,تڠݢم
+|,tanggang,تڠݢڠ
+|,tanggap,تڠݢڤ
+|,tanggapan,تڠݢڤن
+|,tetanggapan,تتڠݢڤن
+|,tanggar,تڠݢر
+|,tanggaran,تڠݢرن
+|,tanggu,تڠݢو
+|,tangguh,تڠݢوه
+|,tertangguh,ترتڠݢوه
+|,tangguk,تڠݢوق
+|,tertangguk,ترتڠݢوق
+|,tanggul,تڠݢول
+|,tanggulang,تڠݢولڠ
+|,tanggung,تڠݢوڠ
+|,tanggungan,تڠݢوڠن
+|,tanggungjawab,تڠݢوڠجواب
+|,tanggung-tanggung,تڠݢوڠ٢
+|,tanggung-menanggung,تڠݢوڠ ـ منڠݢوڠ
+|,tertanggung,ترتڠݢوڠ
+|,tangis,تاڠيس
+|,tangisan,تاڠيسن
+|,tangkai,تڠکاي
+|,tangkaian,تڠکاين
+|,tangkal,تڠکل
+|,tangkap,تڠکڤ
+|,tangkapan,تڠکڤن
+|,tertangkap,ترتڠکڤ
+|,tangkar,تڠکر
+|,tangkas,تڠکس
+|,tangki,تڠکي
+|,tangkil,تڠکيل
+|,tangkis,تڠکيس
+|,tangkis-menangkis,تڠکيس ـ منڠکيس
+|,tangkisan,تڠکيسن
+|,tertangkis,ترتڠکيس
+|,tangkoi (tangkue),تڠکوي
+|,tangku,تاڠکو
+|,tangku-tangku,تاڠکو٢
+|,tangkue,تڠکوي
+|,tangkul,تڠکول
+|,tangkung,تڠکوڠ
+|,tangkup,تڠکوڤ
+|,tertangkup,ترتڠکوڤ
+|,tangkur,تڠکور
+|,tangkut,تڠکوت
+|,tanglin,تڠلين
+|,tanglung,تڠلوڠ
+|,tango,تڠݢو
+|,tangsa,تڠسا
+|,tangsel,تڠسل
+|,tangsi,تڠسي
+|,tani,تاني
+|,tanih,تانيه
+|,tanin,تانين
+|,tanjak,تنجق
+|,tanjakan,تنجقن
+|,tertanjak,ترتنجق
+|,tanjap (tancap),تنجڤ
+|,tanjar,تنجر
+|,tanjaran,تنجرن
+|,tanji,تنجي
+|,tanjidur,تنجيدور
+|,tanju,تنجو
+|,tanjul,تنجول
+|,tertanjul,ترتنجول
+|,tanjung,تنجوڠ
+|,tanjur,تنجور
+|,tanpa,تنڤا
+|,tanpadaksa,تنڤادقسا
+|,tantalum,تنتالوم
+|,tantan,تنتن
+|,tantang,تانتڠ
+|,tantangan,تانتڠن
+|,tante,تنتي
+|,tanti,تنتي
+|,tanuk,تانوق
+|,tanur,تانور
+|,tanus,تانوس
+|,tanwin,تنوين
+|,tanya,تاڽ
+|,tertanya-tanya,ترتاپا ـ تاڽ
+|,tanzil,تنزيل
+|,tanzilan,تنزيلن
+|,tapa,تاڤ
+|,tapa-tapa,تاڤ٢
+|,tapah,تاڤه
+|,tapai,تاڤاي
+|,tapaian,تاڤاين
+|,tapak,تاڤق
+|,tapakan,تاڤقن
+|,tapak-tapak,تاڤق٢
+|,tapal,تاڤل
+|,tapang,تاڤڠ
+|,tapau,تاڤاو
+|,tapaut,تاڤاءوت
+|,tapayaki,تاڤاياکي
+|,tapelak,تڤلق
+|,tapestri,تڤيستري
+|,tapi,تاڤي
+|,tapian,تڤين
+|,tapih,تاڤيه
+|,tapin,تاڤين
+|,tapioka,تاڤيوکا
+|,tapir,تاڤير
+|,tapis,تاڤيس
+|,tapisan,تاڤيسن
+|,tertapis,ترتاڤيس
+|,taptibau,تڤتيباو
+|,taptu,تڤتو
+|,tapu,تاڤو
+|,tapuh,تاڤوه
+|,tapuk,تاڤوق
+|,tapung,تاڤوڠ
+|,tapus,تاڤوس
+|,tar,تر
+|,tara,تارا
+|,tertara,ترتارا
+|,taraf,طرف
+|,taragon,تاراݢون
+|,tarah,تاره
+|,tarahan,تارهن
+|,tertarah,ترتاره
+|,tarak,تارق
+|,tarak-tarak,تارق٢
+|,taram,تارم
+|,taram-taram,تارم٢
+|,taram-temaram,تارم ـ تمارم
+|,taran,تارن
+|,tarang,تارڠ
+|,taranum,ترانوم
+|,taras,تراس
+|,tarasul,تراسول
+|,taratai,تراتاي
+|,tarawih,تراويح
+|,tarbiah,تربيه
+|,tarbil,تربيل
+|,tarbus,طربوس
+|,tarcis,ترچيس
+|,tarekat,طريقت
+|,tarhim,ترحيم
+|,tari,تاري
+|,tarian,تارين
+|,tari-menari,تاري ـ مناري
+|,tari-tarian,تاري ـ تارين
+|,tertari-tari,ترتاري ـ تاري
+|,taridra,تاريدرا
+|,tarif,تاريف
+|,tarik,تاريق
+|,tarikan,تاريقن
+|,tertarik,ترتاريق
+|,tarikh,تاريخ
+|,taring,تاريڠ
+|,taripas,تريڤس
+|,taris,تاريس
+|,tarkas,ترکس
+|,tarkasy,ترکش
+|,tarsalgia,ترسلݢيا
+|,tarsalsia,ترسلسيا
+|,tarsorafi,ترسورافي
+|,tart,ترت
+|,tartan,ترتن
+|,tartar,ترتر
+|,tartil,ترتيل
+|,taru,تارو
+|,taruh,تاروه
+|,taruhan,تاروهن
+|,taruk,تاروق
+|,tarum,تاروم
+|,taruna,ترونا
+|,tarung,تاروڠ
+|,tertarung,ترتاروڠ
+|,tarup,تاروڤ
+|,tas,تس
+|,tasa (tangsa),تاس
+|,tasai,تاساي
+|,tasak,تاسق
+|,tasalsul,تسلسل
+|,tasamuh,تسامح
+|,tasaur (tasawur),تصور
+|,tasawuf,تصوف
+|,tasawur,تصور
+|,tasbih,تسبيح
+|,tasdik,تصديق
+|,tashih,تصحيح
+|,tasik,تاسيق
+|,tasik-tasik,تاسيق٢
+|,taslim,تسليم
+|,tasrif,تصريف
+|,taswir,تصوير
+|,tasyahud,تشهد
+|,tasydid,تشديد
+|,tasyhid,تشهيد
+|,tasyrih,تشريح
+|,tasyrik,تشريق
+|,tat,تت
+|,tata,تات
+|,tata-,تات ـ 
+|,tataacara,تاتاءچارا
+|,tataadab,تاتاءدب
+|,tataayat,تاتاءيات
+|,tatabahasa,تاتابهاس
+|,tatabuku,تاتابوکو
+|,tatacahaya,تاتاچهاي
+|,tatacara,تاتاچارا
+|,tataetika,تاتائيتيکا
+|,tatafonem,تاتافونيم
+|,tatah,تاته
+|,tatahan,تاتهن
+|,tatah-tatah,تاته٢
+|,tatahukum,تاتاحکوم
+|,tatai,تاتاي
+|,tatakalimat,تاتاکليمت
+|,tatakan,تاتاکن
+|,tatakata,تاتاکات
+|,tatakerja,تاتاکرجا
+|,tatakrama,تاتاکراما
+|,tatal,تاتل
+|,tertatal,ترتاتل
+|,tatalaku,تاتالاکو
+|,tataletak,تاتالتق
+|,tatanan,تاتانن
+|,tatanama,تاتانام
+|,tatanegara,تاتانݢارا
+|,tatang,تاتڠ
+|,tatangan,تاتڠن
+|,tataniaga,تاتانياݢ
+|,tatap,تاتڤ
+|,tatapan,تاتڤن
+|,tatapan,تتاڤن
+|,tatapraja,تاتاڤراج
+|,tatar,تاتر
+|,tatarajah,تاتاراجه
+|,tatarakyat,تاتارعيت
+|,tatarias,تاتارياس
+|,tatasuria,تاتاسوريا
+|,tatasusila,تاتاسوسيلا
+|,tatatertib,تاتاترتيب
+|,tatatingkat,تاتاتيڠکت
+|,tataurusan,تاتائوروسن
+|,tatausaha,تاتائوسها
+|,tatera,تاترا
+|,tatih,تاتيه
+|,tertatih-tatih,ترتاتيه ـ تاتيه
+|,tating,تاتيڠ
+|,tatkala,تتکالا
+|,tatu,تاتو
+|,tau,تاو
+|,taubat,توبة
+|,tauci,تاوچي
+|,taucu,تاوچو
+|,taufah,طوفه
+|,taufan,طوفان
+|,taufik,توفيق
+|,taufu,تاوفو
+|,taufufa,تاوفوفا
+|,tauge,تاوݢي
+|,tauhid,توحيد
+|,tauhidiah,توحيديه
+|,tauhu,تاوهو
+|,tauk,تاءوق
+|,tauke,تاوکي
+|,taukua,تاوکوا
+|,taul,تاءول
+|,tauladan (teladan),تاولادن
+|,taulan,تاولن
+|,tauliah,تولياه
+|,taun,طاعون
+|,taung,تاءوڠ
+|,taup,تاءوڤ
+|,taur,تاءور
+|,tauran,تاءورن
+|,tauqik,توقيع
+|,taut,تاءوت
+|,tautan,تاءوتن
+|,tertaut,ترتاءوت
+|,tautofoni,تاوتوفوني
+|,tautologi,تاوتولوݢي
+|,tawa,تاوا
+|,tertawa,ترتاوا
+|,tertawaan,ترتاواءن
+|,tawaduk,تواضع
+|,tawaf,طواف
+|,tawafuk,توافق
+|,tawajuh,توجه
+|,tawak,تاوق
+|,tetawak,تتاوق
+|,tawak-tawak,تاوق٢
+|,tawakal,توکل
+|,tawan,تاون
+|,tawanan,تاونن
+|,tertawan,ترتاون
+|,tawang,تاوڠ
+|,tawang-tawang,تاوڠ٢
+|,tawar,تاور
+|,tawaran,تاورن
+|,tawar-menawar,تاور ـ مناور
+|,tertawar,ترتاور
+|,tawar-tawar,تاور٢
+|,tawarikh,تواريخ
+|,tawaruk,توارک
+|,tawas,تاوس
+|,tawassul,توسل
+|,tawes,تاويس
+|,tawi,تاوي
+|,tawon,تاون
+|,taya,تي
+|,tayamum,تيمم
+|,tayang,تايڠ
+|,tayangan,تايڠن
+|,tertayang,ترتايڠ
+|,tayar,تاير
+|,tayu,تايو
+|,tayuban,تيوبن
+|,tayum,تايوم
+|,tayum-temayum,تايوم ـ تمايوم
+|,tazkirah,تذکرة
+|,tazkirat,تذکرة
+|,teater,تياتر
+|,tebah,تبه
+|,tebak (jawab),تبق
+|,tebakan,تبقن
+|,tebak (tarah),تيبق
+|,tebakang,تباکڠ
+|,tebal,تبل
+|,teban,تيبن
+|,tebanan,تيبنن
+|,tebang,تبڠ
+|,tebangan,تبڠن
+|,tertebang,ترتبڠ
+|,tebar,تيبر
+|,tebaran,تيبرن
+|,tertebar,ترتيبر
+|,tebas,تبس
+|,tebasan,تبسن
+|,tertebas,ترتبس
+|,tebat,تبت
+|,tebatan,تبتن
+|,tertebat,ترتبت
+|,tebeng,تيبيڠ
+|,tebengau,تبڠاو
+|,tebera,تبرا
+|,teberau,تبراو
+|,tebing,تبيڠ
+|,tebok,تيبوق
+|,tebu,تبو
+|,tebu-tebu,تبو٢
+|,tebuan,تبوان
+|,tebuk,تبوق
+|,tebukan,تبوقن
+|,tertebuk,ترتبوق
+|,tebus,تبوس
+|,tebusan,تبوسن
+|,tertebus,ترتبوس
+|,tedarus,تداروس
+|,tedak,تدق
+|,tedas,تدس
+|,tedeng,تيديڠ
+|,teduh,تدوه
+|,tedung,تدوڠ
+|,tega,تيݢا
+|,tegadas,تݢادس
+|,tegah,تݢه
+|,tegahan,تݢهن
+|,tertegah,ترتݢه
+|,tegak,تݢق
+|,tegak-tegak,تݢق٢
+|,tertegak,ترتݢق
+|,tegal,تݢل
+|,tegalan,تݢلن
+|,tegang,تݢڠ
+|,tegangan,تݢڠن
+|,tertegang,ترتݢڠ
+|,tegap,تݢڤ
+|,tegar,تݢر
+|,tegari,تݢاري
+|,tegarun,تݢارون
+|,tegas,تݢس
+|,tegasan,تݢسن
+|,tegel,تيݢيل
+|,tegil,تݢيل
+|,teguh,تݢوه
+|,terteguh,ترتݢوه
+|,teguk,تݢوق
+|,tegukan,تݢوقن
+|,terteguk,ترتݢوق
+|,tegun,تݢون
+|,tertegun,ترتݢون
+|,tertegun-tegun,ترتݢون ـ تݢون
+|,tegur,تݢور
+|,teguran,تݢورن
+|,teh,تيه
+|,teisme,تيئيسمى
+|,teja,تيجا
+|,teji,تيجي
+|,tek,تيق
+|,teka,تکا
+|,tekaan,تکاءن
+|,teka-teki,تکا ـ تکي
+|,terteka,ترتکا
+|,tekad,تيکد
+|,tekah,تکه
+|,tekak,تکق
+|,tekal,تکل
+|,tekam,تکم
+|,tekan,تکن
+|,tekanan,تکنن
+|,tertekan,ترتکن
+|,tertekan-tekan,ترتکن ـ تکن
+|,tekang,تکڠ
+|,tekap,تکڤ
+|,tekapan,تکڤن
+|,tertekap,ترتکڤ
+|,tekat,تکت
+|,tekatan,تکتن
+|,tekat-menekat,تکت ـ منکت
+|,tekawang (tengkawang),تکاوڠ
+|,tekek,تيکيق
+|,tekelek,تيکليک
+|,teken,تيکن
+|,tekenan,تيکنن
+|,teker,تيکير
+|,tekeran,تيکيرن
+|,teki,تکي
+|,tekidanto,تيکيدنتو
+|,tekiding,تکيديڠ
+|,tekis,تکيس
+|,teknetium  ,تيکنيتيوم
+|,teknik,تيکنيک
+|,teknikal,تيکنيکل
+|,teknokrasi,تيکنوکراسي
+|,teknokrat,تيکنوکرت
+|,teknologi,تيکنولوݢي
+|,teko,تيکو
+|,tekoan,تيکوان
+|,tekoh,تيکوه
+|,tekokak,تکوکق
+|,tekong,تيکوڠ
+|,tekoran,تيکورن
+|,tekpi,تيقڤي
+|,tekpo,تيقڤو
+|,teks,تيکس
+|,teksi,تيکسي
+|,tekstil,تيکستيل
+|,teskstur,تيکستور
+|,tekte,تيقتي
+|,tektek,تيقتيق
+|,tektek-bengek,تيقتيق ـ بڠيق
+|,teku,تکو
+|,tekua,تکوا
+|,tekuk,تکوق
+|,tekukan,تکوقن
+|,tekukur,تکوکور
+|,tekun,تکون
+|,tekung,تکوڠ
+|,tekup,تکوڤ
+|,tekur,تکور
+|,tekuyung,تکويوڠ
+|,tekwando,تيکوندو
+|,tekyan,تيقيان
+|,tel,تيل
+|,tela (rumah),تلا
+|,tela (dapur-dapur),تيلا
+|,telaah,تلاعه
+|,telabang,تلابڠ
+|,telabat,تلابت
+|,teladan,تلادن
+|,telaga,تلاݢ
+|,telagah,تلاݢه
+|,telah,تله
+|,telahan,تلهن
+|,telak,تلق
+|,telakan,تلاکن
+|,telampung,تلمڤوڠ
+|,telan,تلن
+|,tertelan,ترتلن
+|,telancang,تلنچڠ
+|,telancung,تلنچوڠ
+|,telang,تلڠ
+|,telangkai,تلڠکاي
+|,telangkup,تلڠکوڤ
+|,telanjang,تلنجڠ
+|,tertelanjang,ترتلنجڠ
+|,telanjur,تلنجور
+|,telantar,تلنتر
+|,telap,تلڤ
+|,telapa,تلاڤ
+|,telapak,تلاڤق
+|,telapakan,تلاڤقن
+|,telas,تلس
+|,telasan,تلسن
+|,telat,تلت
+|,telatah,تلاته
+|,telatai,تلاتاي
+|,telatap,تلاتڤ
+|,telaten,تلاتين
+|,telau,تلاو
+|,tele,تيلي
+|,tele-tele,تيلي٢
+|,teledek,تيليديق
+|,teledera,تيليدرا
+|,teledor,تليدور
+|,telefaks,تيليفکس
+|,telefilem,تيليفيلم
+|,telefon,تيليفون
+|,telefoni,تيليفوني
+|,telefonis,تيليفونيس
+|,telefoto,تيليفوتو
+|,telefotografi,تيليفوتوݢرافي
+|,telegraf,تيليݢرف
+|,telegrafi,تيليݢرافي
+|,telegram,تيليݢرم
+|,telegrapis,تيليݢراڤيس
+|,teleinfo,تيلياينفو
+|,telek (telak),تلق
+|,telekan,تلکن
+|,telekap,تلکڤ
+|,telekom,تيليکوم
+|,telekomunikasi,تيليکومونيکاسي
+|,teleks,تيليکس
+|,teleku,تلکو
+|,telekuiz,تيليکوءيز
+|,telekung,تلکوڠ
+|,telekup,تلکوڤ
+|,telemetri,تيليمتري
+|,telempap,تلمڤڤ
+|,telempong (caklempong),تليمڤوڠ
+|,telenan,تلنن
+|,teleng (sj tumbuhan),تلڠ
+|,teleng (senget),تيليڠ
+|,terteleng,ترتيليڠ
+|,terteleng-teleng,ترتيليڠ ـ تيليڠ
+|,telengkoh (selekoh),تليڠکوه
+|,telentang,تلنتڠ
+|,tertelentang,ترتلنتڠ
+|,teleologi,تيليولوݢي
+|,telepa (telap),تلڤا
+|,telepati,تيليڤاتي
+|,telepemasaran,تيليڤماسرن
+|,teleperbankan,تيليڤربڠکن
+|,teleperubatan,تيليڤراوبتن
+|,telepok,تليڤوق
+|,teleprinter,تيليڤرينتر
+|,telepuk,تلڤوق
+|,telerang,تليرڠ
+|,teles,تلس
+|,telesan,تلسن
+|,telesidang,تيليسيدڠ
+|,teleskop,تيليسکوڤ
+|,teleskopi,تيليسکوڤي
+|,teletaip,تيليتاءيڤ
+|,teleteks,تيليتيکس
+|,teleton,تيليتون
+|,televisyen,تيليۏيشن
+|,telik,تليق
+|,telikung,تليکوڠ
+|,telimpuh,تليمڤوه
+|,telinak,تلينق
+|,telinga,تليڠا
+|,telingkah,تليڠکه
+|,telingkuh,تليڠکوه
+|,telingkung,تليڠکوڠ
+|,telisik (selisik),تليسيق
+|,teliti,تليتي
+|,telor,تيلور
+|,telotak,تلوتق
+|,telu,تلو
+|,teluk,تلوق
+|,teluki,تلوکي
+|,telukup (telungkup),تلوکوڤ
+|,telungkup,تلوڠکوڤ
+|,tertelungkup,ترتلوڠکوڤ
+|,telunjuk,تلونجوق
+|,telur,تلور
+|,telurium,تيلوريوم
+|,telus,تلوس
+|,tertelus,ترتلوس
+|,telusur,تلوسور
+|,telut,تلوت
+|,telutuh,تلوتوه
+|,telutut,تلوتوت
+|,tem,تيم
+|,tema,تيما
+|,temaah,طمعا
+|,temabur,تمابور
+|,temah,تمه
+|,temaha,تماه
+|,temahak (tamak),تماهق
+|,temak,تمق
+|,temakang,تماکڠ
+|,temakul (tembakul),تماکول
+|,temalang,تمالڠ
+|,temali,تمالي
+|,temalung,تمالوڠ
+|,teman,تمن
+|,temandang,تمندڠ
+|,temangau,تماڠاو
+|,temara,تمارا
+|,temarang,تمارڠ
+|,temas,تمس
+|,temas-temas,تمس٢
+|,temat,تمت
+|,tematu (tembatu),تماتو
+|,temasya,تماش
+|,temayun,تمايون
+|,tembadau,تمباداو
+|,tembaga,تمباݢ
+|,tembak,تيمبق
+|,tembakan,تيمبقن
+|,tembak-menembak,تيمبق ـ منيمبق
+|,tertembak,ترتيمبق
+|,tembakang,تمباکڠ
+|,tembakau,تمباکاو
+|,tembakul,تمباکول
+|,tembam,تمبم
+|,tembang (sj puisi),تمبڠ
+|,tembang (sj ikan),تيمبڠ
+|,tembangau,تمباڠاو
+|,tembarau (teberau),تمباراو
+|,tembasah,تمباسه
+|,tembatar,تمباتر
+|,tembatu,تمباتو
+|,tembek,تيمبيق
+|,tembel,تيمبيل
+|,tembelan,تيمبيلن
+|,tembelah,تمبله
+|,tembelang,تمبلڠ
+|,tembelian,تمبليان
+|,tembeliung,تمبليوڠ
+|,tembelok,تمبيلوق
+|,tembera,تمبرا
+|,temberak,تمبيرق
+|,temberam,تمبرم
+|,temberang,تمبيرڠ
+|,temberek,تمبيريق
+|,tembereng,تمبيريڠ
+|,temberih,تمبريه
+|,tembikai,تمبيکاي
+|,tembikar,تمبيکر
+|,tembilang,تمبيلڠ
+|,tembilar,تمبيلر
+|,tembis,تمبيس
+|,tembok,تيمبوق
+|,tembokor (bokor),تمبوکور
+|,tembolok,تمبولوق
+|,tembosa,تمبوسا
+|,tembuk,تمبوق
+|,tembuku,تمبوکو
+|,tembung,تمبوڠ
+|,tertembung,ترتمبوڠ
+|,tembuni,تمبوني
+|,tembus,تمبوس
+|,tembusan,تمبوسن
+|,tertembus,ترتمبوس
+|,tembusak,تمبوسق
+|,tembusu,تمبوسو
+|,temea (tamak),طمعا
+|,temeh (remeh-temeh),تيميه
+|,temelung,تملوڠ
+|,temen,تمن
+|,temengalan,تمڠالن
+|,temenggang,تمڠݢڠ
+|,temenggung,تمڠݢوڠ
+|,temenung,تمنوڠ
+|,temerang,تمرڠ
+|,temesar,تمسر
+|,temetu,تمتو
+|,temiang,تمياڠ
+|,temikai (tembikai),تميکاي
+|,temilang,تميلڠ
+|,temilar,تميلر
+|,temilung,تميلوڠ
+|,temin,تمين
+|,temoleh,تموليه
+|,temolok (tembolok),تمولوق
+|,tempa,تمڤا
+|,tempaan,تمڤاءن
+|,tempah,تمڤه
+|,tempahan,تمڤهن
+|,tempala,تمڤالا
+|,tempang,تيمڤڠ
+|,tertempang-tempang,ترتيمڤڠ ـ تيمڤڠ
+|,tempap,تمڤڤ
+|,tempat,تمڤت
+|,tempatan,تمڤتن
+|,tempaus,تمڤاءوس
+|,tempawak,تمڤاوق
+|,tempawan,تمڤاون
+|,tempayak,تمڤايق
+|,tempayan,تمڤاين
+|,tempayang (kepayang),تمڤايڠ
+|,tempayung,تمڤايوڠ
+|,tempe,تيمڤي
+|,tempek,تيمڤيق
+|,tertempek,ترتيمڤيق
+|,tempel,تيمڤيل
+|,tempelan,تيمڤيلن
+|,tempel-menempel,تيمڤيل ـ منيمڤيل
+|,tertempel,ترتيمڤيل
+|,tempelak,تمڤلق
+|,tempelakan,تمڤلقن
+|,tempelas,تمڤلس
+|,tempeleng,تمڤيليڠ
+|,tempelengan,تمڤيليڠن
+|,temperamen,تمڤرامين
+|,temperas,تمڤرس
+|,temperatur,تيمڤراتور
+|,temperau,تمڤيراو
+|,temperek,تمڤيريق
+|,tempiar,تمڤيار
+|,tempias,تمڤياس
+|,tempik,تمڤيق
+|,tempikan,تمڤيقن
+|,tempilai,تمڤيلاي
+|,tempinah,تمڤينه
+|,tempinis,تمڤينيس
+|,tempiras,تمڤيرس
+|,tempisang,تمڤيسڠ
+|,templat,تمڤلت
+|,tempo,تيمڤو
+|,tempoh,تيمڤوه
+|,tempoi,تمڤوي
+|,tempolong,تمڤولوڠ
+|,temponek,تمڤونيق
+|,tempong,تيمڤوڠ
+|,temporok,تمڤوروق
+|,tempoyak,تمڤويق
+|,tempoyan,تمڤوين
+|,tempua,تمڤوا
+|,tempuan,تمڤوان
+|,tempuh (langgar),تمڤوه
+|,tempuhan,تمڤوهن
+|,tempuh-menempuh,تمڤوه ـ منمڤوه
+|,tertempuh,ترتمڤوه
+|,tempuh (masa),تيمڤوه
+|,tempuling,تمڤوليڠ
+|,tempulur,تمڤولور
+|,tempunai,تمڤوناي
+|,tempuni,تمڤوني
+|,tempur,تمڤور
+|,tempura,تيمڤورا
+|,tempuras (temperas),تمڤورس
+|,tempurung,تمڤوروڠ
+|,tempuyung,تمڤويوڠ
+|,temu,تمو
+|,temuan,تموان
+|,temucut,تموچوت
+|,temukus (kemukus),تموکوس
+|,temukut,تموکوت
+|,temulang,تمولڠ
+|,temuras,تمورس
+|,temurun,تمورون
+|,temut,تموت
+|,temut-temut,تموت٢
+|,tenaga,تناݢ
+|,tenahak,تناهق
+|,tenak,تنق
+|,tenam,تنم
+|,tenang (teduh),تنڠ
+|,tenang (bidik),تينڠ
+|,tenar,تنر
+|,tenat,تنت
+|,tenda,تيندا
+|,tendang,تندڠ
+|,tendangan,تندڠن
+|,tertendang,ترتندڠ
+|,tertendang-tendang,ترتندڠ ـ تندڠ
+|,tendas,تندس
+|,tendens,تيندينس
+|,tendensi,تيندنسي
+|,tender,تيندر
+|,tendon,تيندون
+|,teng,تيڠ
+|,tengadah,تڠاده
+|,tengah,تڠه
+|,tengahan,تڠهن
+|,tengak,تڠق
+|,tengalan,تڠالن
+|,tengar,تڠر
+|,tengara,تڠارا
+|,tengari,تڠاري
+|,tengas,تڠس
+|,tenggak,تڠݢق
+|,tenggala,تڠݢالا
+|,tenggalung,تڠݢالوڠ
+|,tenggang,تيڠݢڠ
+|,tenggang-menenggang,تيڠݢڠ ـ منيڠݢڠ
+|,tertenggang,ترتيڠݢڠ
+|,tenggar (lapang),تڠݢر
+|,tenggar (angkat),تيڠݢر
+|,tenggara,تڠݢارا
+|,tenggarung,تڠݢاروڠ
+|,tenggat,تڠݢت
+|,tenggayung,تڠݢايوڠ
+|,tenggek (tampi),تڠݢيق
+|,tenggek (duduk),تيڠݢيق
+|,tenggekan,تيڠݢيقن
+|,tertenggek,ترتيڠݢيق
+|,tenggelam,تڠݢلم
+|,tengger,تيڠݢير
+|,tenggeran,تيڠݢيرن
+|,tenggiling,تڠݢيليڠ
+|,tenggiri,تڠݢيري
+|,tenggorok,تڠݢوروق
+|,tenggorokan,تڠݢوروقن
+|,tengguli,تڠݢولي
+|,tenggulung (senggulung),تڠݢولوڠ
+|,tengik,تڠيق
+|,tengit (tengik),تڠيت
+|,tengkalak,تڠکالق
+|,tengkalang,تڠکالڠ
+|,tengkaluk,تڠکالوق
+|,tengkam,تڠکم
+|,tengkang,تڠکڠ
+|,tengkar,تڠکر
+|,tengkarap,تڠکارڤ
+|,tengkaras,تڠکارس
+|,tengkawang,تڠکاوڠ
+|,tengkek,تيڠکيق
+|,tengkel,تيڠکيل
+|,tengker (tengger),تيڠکير
+|,tengkerong,تڠکيروڠ
+|,tengkes,تيڠکيس
+|,tengking,تڠکيڠ
+|,tengkingan,تڠکيڠن
+|,tengkoh,تيڠکوه
+|,tengkolok,تڠکولوق
+|,tengkorak,تڠکورق
+|,tengku,تڠکو
+|,tengkujuh,تڠکوجوه
+|,tengkuk,تڠکوق
+|,tengkurap,تڠکورڤ
+|,tengkurup (tengkurap),تڠکوروڤ
+|,tengkuyung,تڠکويوڠ
+|,tengok,تيڠوق
+|,tertengok-tengok,ترتيڠوق ـ تيڠوق
+|,tengu,تڠو
+|,tenguh (lenguh),تڠوه
+|,tengung,تڠوڠ
+|,tengung-tenging,تڠوڠ ـ تڠيڠ
+|,tengteng,تيڠتيڠ
+|,tenik,تنيق
+|,tenis,تينيس
+|,tenjak (tirus),تنجق
+|,tenjak (tenjet),تينجق
+|,tenjet,تينجيت
+|,tenok,تينوق
+|,tenong,تينوڠ
+|,tenor,تينور
+|,tenpin,تينڤين
+|,tension,تينسيون
+|,tentampan,تنتمڤن
+|,tentang,تنتڠ
+|,tentangan,تنتڠن
+|,tertentang,ترتنتڠ
+|,tentatif,تينتاتيف
+|,tentawan,تنتاون
+|,tentayu,تنتايو
+|,tenteng,تينتيڠ
+|,tentera,تنترا
+|,tenteram,تنترم
+|,tentu,تنتو
+|,tertentu,ترتنتو
+|,tentuban (tuban-tuban),تنتوبن
+|,tentulang,تنتولڠ
+|,tenturun,تنتورون
+|,tenuk,تنوق
+|,tenun,تنون
+|,tenunan,تنونن
+|,tenung,تنوڠ
+|,tenungan,تنوڠن
+|,tenusu,تنوسو
+|,tenyeh,تيپيه
+|,tertenyeh,ترتيپيه
+|,teodolit,تيودوليت
+|,teokrasi,تيوکراسي
+|,teokrat,تيوکرت
+|,teokratik,تيوکراتيک
+|,teologi,تيولوݢي
+|,teorem,تيورم
+|,teoretikal,تيوريتيکل
+|,teoretikus,تيوريتيکوس
+|,teoretis,تيوريتيس
+|,teori,تيوري
+|,teosofi,تيوسوفي
+|,tep,تيڤ
+|,tepak (sj bunyi),تڤق
+|,tepak (sj bekas),تيڤق
+|,tepam,تڤم
+|,tepang,تڤڠ
+|,tepas,تڤس
+|,tepat,تڤت
+|,tepatan,تڤتن
+|,tepaut,تڤاءوت
+|,tepeh,تيڤيه
+|,tepek,تيڤيق
+|,tepekan,تيڤيقن
+|,tertepek,ترتيڤيق
+|,tepen,تيڤين
+|,teper,تيڤير
+|,tepes,تڤس
+|,tepet,تيڤيت
+|,tepi,تڤي
+|,tepian,تڤين
+|,terketepi,ترکتڤي
+|,tepinis (tempinis),تڤينيس
+|,tepis,تڤيس
+|,tepok (lapuk),تڤوق
+|,tepok (lumpuh),تيڤوق
+|,tepos,تيڤوس
+|,tepu,تڤو
+|,tepuk,تڤوق
+|,tepukan,تڤوقن
+|,tepung,تڤوڠ
+|,tepung-tepungan,تڤوڠ ـ تڤوڠن
+|,tepur,تڤور
+|,tepus,تڤوس
+|,ter,تير
+|,tera,ترا
+|,teraan,تراءن
+|,tertera,ترترا
+|,terabait,تيراباءيت
+|,teracak,تراچق
+|,terada,ترادا
+|,teradang,ترادڠ
+|,teraflops,تيرافلوڤس
+|,terai,تراي
+|,terajam,تراجم
+|,terajang,تراجڠ
+|,terterajang,ترتراجڠ
+|,teraju,تراجو
+|,terak,ترق
+|,terakup,تراکوڤ
+|,teral,ترل
+|,terala,ترالا
+|,teralak,ترالق
+|,terali,ترالي
+|,teraling,تراليڠ
+|,terambu,ترمبو
+|,terampil,ترمڤيل
+|,teran,ترن
+|,teranak,ترانق
+|,teranas,ترانس
+|,terang,ترڠ
+|,terang-benderang,ترڠ ـ بندرڠ
+|,terang-temaram,ترڠ ـ تمارم
+|,terang-temarang,ترڠ ـ تمارڠ
+|,terang-temerang,ترڠ ـ تمرڠ
+|,terang-tumerang,ترڠ ـ تومرڠ
+|,terang-terang,ترڠ٢
+|,terang-terangan,ترڠ ـ ترڠن
+|,terangkera,ترڠکيرا
+|,terangkik,ترڠکيق
+|,terantai,ترنتاي
+|,terap,ترڤ
+|,terapan,ترڤن
+|,terterap,ترترڤ
+|,teterapan,تترڤن
+|,terapai,تراڤاي
+|,terapang,تراڤڠ
+|,terapeutik,تيراڤيوتيک
+|,terapi (sj tumbuhan),تراڤي
+|,terapi (rawatan),تيراڤي
+|,teras,ترس
+|,terasi,تراسي
+|,terasul,تراسول
+|,taratai,تراتاي
+|,teratak,تراتق
+|,teratologi,تيراتولوݢي
+|,teratu,تراتو
+|,terau,تراو
+|,terawang,تراوڠ
+|,terawih (tarawih),تراويح
+|,terazo,ترازو
+|,terbak,تربق
+|,terban,تربن
+|,terbang,تربڠ
+|,terbis,تربيس
+|,terbit,تربيت
+|,terbitan,تربيتن
+|,terbium,تربيوم
+|,terbui,تربوي
+|,terbul,تربول
+|,terbus (tarbus),تربوس
+|,terbut,تربوت
+|,teremal,ترمل
+|,terembesi,ترمبسي
+|,terenang,ترنڠ
+|,terendak,تريندق
+|,terengkek,تريڠکيق
+|,terentang,ترنتڠ
+|,teres,تيريس
+|,teret,تيريت
+|,teretet,تريتيت
+|,terhal,ترحل
+|,teri,تري
+|,teriak,ترياق
+|,teriakan,ترياقن
+|,teriang,ترياڠ
+|,teriba,تريبا
+|,terigu,تريݢو
+|,terik,تريق
+|,terika (seterika),تريکا
+|,teriko,تريکو
+|,terilin,تريلين
+|,terima,تريما
+|,terimba,تريمبا
+|,tering,تيريڠ
+|,teringkit,تريڠکيت
+|,teripang,تريڤڠ
+|,teris,تريس
+|,terista,تريستا
+|,teriti,تريتي
+|,teritik,تريتيق
+|,teritip,تريتيڤ
+|,teriyaki,تيريياکي
+|,terjah,ترجه
+|,terjahan,ترجهن
+|,terjal,ترجل
+|,terjali (tajalli),ترجالي
+|,terjang,ترجڠ
+|,terjemah,ترجمه
+|,terjemahan,ترجمهن
+|,terjun,ترجون
+|,terjunan,ترجونن
+|,terka,ترک
+|,terkaan,ترکاءن
+|,terkam,ترکم
+|,terkaman,ترکمن
+|,terterkam,ترترکم
+|,terkap,ترکڤ
+|,terterkap,ترترکڤ
+|,terkul,ترکول
+|,terkup,ترکوڤ
+|,terlak,ترلق
+|,terlat (telat),ترلت
+|,terluh (reluh),ترلوه
+|,tereluh (reluh),ترلوه
+|,terma,ترما
+|,termal,ترمل
+|,termasa (temasya),ترماس
+|,terminal,ترمينل
+|,terminografi,ترمينوݢرافي
+|,terminologi,ترمينولوݢي
+|,termion,ترمييون
+|,termionik,ترمييونيک
+|,termodinamik,ترموديناميک
+|,termoelektrik,ترموايليکتريک
+|,termogandingan,ترموݢنديڠن
+|,termograf,ترموݢرف
+|,termogram,ترموݢرم
+|,termokimia,ترموکيميا
+|,termolisis,ترموليسيس
+|,termometer,ترموميتر
+|,termometri,ترموميتري
+|,termonasti,ترمونستي
+|,termonuklear,ترمونوکليار
+|,termoplastik,ترموڤلستيک
+|,termos,ترموس
+|,termostat,ترموستت
+|,termoterapi,ترموتيراڤي
+|,ternak,ترنق
+|,terobong,تروبوڠ
+|,terobos,تروبوس
+|,terok,تيروق
+|,teroka,تروک
+|,teromasa,تروماس
+|,teromba,ترومبا
+|,teromel,ترومل
+|,teromol,ترومول
+|,terompah,ترومڤه
+|,terong,تيروڠ
+|,terongko,تروڠکو
+|,teronok,ترونوق
+|,teropong,تروڤوڠ
+|,terteropong,ترتروڤوڠ
+|,terowong,تروووڠ
+|,terowongan,تروووڠن
+|,terpa,ترڤا
+|,terpaan,ترڤاءن
+|,terterpa,ترترڤا
+|,terpal,ترڤل
+|,terpas (tepas),ترڤس
+|,tertawa (tawa),ترتاوا
+|,tertib,ترتيب
+|,tertier,ترتيئر
+|,teruah,ترواه
+|,terubin,تروبين
+|,terubuk,تروبوق
+|,terubul,تروبول
+|,terubung,تروبوڠ
+|,terucuk,تروچوق
+|,terucukan,تروچوقن
+|,teruk,تروق
+|,terum,تروم
+|,terumbu,ترومبو
+|,terumbuh,ترومبوه
+|,teruna,ترونا
+|,terung,تروڠ
+|,teruntum,ترونتوم
+|,terup,تروڤ
+|,terus,تروس
+|,terusan,تروسن
+|,terus-menerus,تروس ـ منروس
+|,terus-terusan,تروس ـ تروسن
+|,terusi,تروسي
+|,terutup,تروتوڤ
+|,terwelu,ترويلو
+|,tes,تيس
+|,tesak,تسق
+|,tesaurus,تيساوروس
+|,tesis,تيسيس
+|,tesitura,تيسيتورا
+|,tesmak,تسمق
+|,testa,تيستا
+|,testamen,تيستامن
+|,testimoni,تيستيموني
+|,testimonial,تيستيمونيال
+|,testis,تيستيس
+|,testosteron,تيستوستيرون
+|,teta,تيتا
+|,tetabas,تتابس
+|,tetabu,تتابو
+|,tetaguk,تتاݢوق
+|,tetak,تتق
+|,tertetak,ترتتق
+|,tetakan,تتقن
+|,tetak-menetak,تتق ـ منتق
+|,tetal,تتل
+|,tetambak (tambak),تتمبق
+|,tetampah (tampah),تتمڤه
+|,tetampan,تتمڤن
+|,tetamu,تتامو
+|,tetangga (tangga),تتڠݢ
+|,tetani,تيتاني
+|,tetanus,تيتانوس
+|,tetap,تتڤ
+|,tetapan,تتڤن
+|,tetapi,تتاڤي
+|,tetar,تتر
+|,tetarak,تتارق
+|,tetarap,تتارڤ
+|,tetarik,تتاريق
+|,tetas,تتس
+|,tetawak,تتاوق
+|,tetebeng,تتيبيڠ
+|,teteguk,تتݢوق
+|,tetek,تيتيق
+|,tetek-bengek,تيتيق ـ بڠيق
+|,tetekkala,تيتيقکالا
+|,tetel,تيتيل
+|,tetelinga,تتليڠا
+|,tetemas,تتمس
+|,tetengah,تتڠه
+|,tetepung,تتڤوڠ
+|,teter,تيتير
+|,teterapan,تتراڤن
+|,teterapang,تتراڤڠ
+|,tetes,تيتيس
+|,tetesan,تيتيسن
+|,tetibar,تتيبر
+|,tetibau,تتيباو
+|,tetikus,تتيکوس
+|,tetingkap,تتيڠکڤ
+|,tetirah,تتيره
+|,tetiron,تتيرون
+|,tetiruk,تتيروق
+|,tetrahedron,تيتراهيدرون
+|,tetraklorida,تيتراکلوريدا
+|,tetrapod,تيتراڤود
+|,tetua,تتوا
+|,tetuan,تتوان
+|,tetuang,تتواڠ
+|,tetuban,تتوبن
+|,tetubuh,تتوبوه
+|,tetuhu,تتوهو
+|,tetulang,تتولڠ
+|,tetumpang,تتومڤڠ
+|,tetupai,تتوڤاي
+|,tewas,تيواس
+|,tertewas,ترتيواس
+|,teyan,تيين
+|,tezi (teji),تيزي
+|,thani,ثاني
+|,therm,ترم
+|,tiada,تياد
+|,tiadakan,تياداکن
+|,tiaga (niaga),تياݢ
+|,tiah,تياه
+|,tiak,تياق
+|,tiam,تيام
+|,tiamina,تيامينا
+|,tian,تيان
+|,tiang,تياڠ
+|,tiap,تياڤ
+|,tiap-tiap,تياڤ٢
+|,tiara,تيارا
+|,tiarap,تيارڤ
+|,tertiarap,ترتيارڤ
+|,tias,تياس
+|,tiasa (sentiasa),تياسا
+|,tib,طب
+|,tiba,تيبا
+|,tiba-tiba,تيبا٢
+|,tibai,تيباي
+|,tiban,تيبن
+|,tibi,تيبي
+|,tibia,تيبيا
+|,tidak,تيدق
+|,tidak-tidak,تيدق٢
+|,tidur,تيدور
+|,tertidur,ترتيدور
+|,tidur-tidur,تيدور٢
+|,tifa,تيفا
+|,tifoid,تيفوءيد
+|,tifus,تيفوس
+|,tiga,تيݢ
+|,tiga-tiga,تيݢ٢
+|,tiagari,تياݢاري
+|,tihang,تيهڠ
+|,tijak,تيجق
+|,tijarah,تجارة
+|,tik,تيق
+|,tika,تيک
+|,tika-tika,تيک٢
+|,tikai,تيکاي
+|,tikai-pangkai,تيکاي ـ ڤڠکاي
+|,tikal,تيکل
+|,tikam,تيکم
+|,tertikam,ترتيکم
+|,tikaman,تيکمن
+|,tikam-menikam,تيکم ـ منيکم
+|,tikar,تيکر
+|,tikas,تيکس
+|,tike,تيکي
+|,tiket,تيکيت
+|,tikim,تيکيم
+|,tikpi,تيقڤي
+|,tiku,تيکو
+|,tikung,تيکوڠ
+|,tikus,تيکوس
+|,tilam,تيلم
+|,tilan,تيلن
+|,tilapia,تيلاڤيا
+|,tilawah,تلاوة
+|,tilawatil Quran,تلاوة القرءان
+|,tilde,تيلدي
+|,tile,تيلى
+|,tilik,تيليق
+|,tertilik,ترتيليق
+|,tilikan,تيليقن
+|,tilik-menilik,تيليق ـ منيليق
+|,tim,تيم
+|,timah,تيمه
+|,timah-timah,تيمه٢
+|,timang,تيمڠ
+|,timangan,تيمڠن
+|,timang-timangan,تيمڠ ـ تيمڠن
+|,timarah,تيماره
+|,timba,تيمبا
+|,tertimba,ترتيمبا
+|,timbal,تيمبل
+|,timbalan,تيمبلن
+|,timbal-menimbal,تيمبل ـ منيمبل
+|,timbang,تيمبڠ
+|,timbangan,تيمبڠن
+|,timbang-menimbang,تيمبڠ ـ منيمبڠ
+|,timbau,تيمباو
+|,timbel,تيمبل
+|,timbre,تيمبرى
+|,timbrung,تيمبروڠ
+|,timbuk,تيمبوق
+|,timbul,تيمبول
+|,tertimbul,ترتيمبول
+|,timbulan,تيمبولن
+|,timbun,تيمبون
+|,tertimbun,ترتيمبون
+|,timbunan,تيمبونن
+|,timburu,تيمبورو
+|,timbus,تيمبوس
+|,tertimbus,ترتيمبوس
+|,timbusan,تيمبوسن
+|,timpa,تيمڤا
+|,tertimpa,ترتيمڤا
+|,timpaan,تيمڤاءن
+|,timpa-bertimpa,تيمڤا ـ برتيمڤا
+|,timpa-menimpa,تيمڤا ـ منيمڤا
+|,timpak,تيمڤق
+|,timpal,تيمڤل
+|,timpalan,تيمڤلن
+|,timpani,تيمڤاني
+|,timpanum,تيمڤانوم
+|,timpas,تيمڤس
+|,timpuh,تيمڤوه
+|,timpuhan,تيمڤوهن
+|,timpuk,تيمڤوق
+|,timpus,تيمڤوس
+|,timu,تيمو
+|,timu-timu,تيمو٢
+|,timun (mentimun),تيمون
+|,timun-timun,تيمون٢
+|,timur,تيمور
+|,tin,تين
+|,tinak,تينق
+|,tindak,تيندق
+|,tindakan,تيندقن
+|,tindan,تيندن
+|,tertindan,ترتيندن
+|,tindan-tindih,تيندن ـ تينديه
+|,tindas,تيندس
+|,tertindas,ترتيندس
+|,tindasan,تيندسن
+|,tindawan,تينداون
+|,tindih,تينديه
+|,tertindih,ترتينديه
+|,tindihan,تينديهن
+|,tindih-bertindih,تينديه ـ برتينديه
+|,tindih-menindih,تينديه ـ منينديه
+|,tindik,تينديق
+|,tindis,تينديس
+|,tertindis,ترتينديس
+|,ting,تيڠ
+|,ting-tong,تيڠ ـ توڠ
+|,tinga,تيڠا
+|,tingau,تيڠاو
+|,tinggal,تيڠݢل
+|,tertinggal,ترتيڠݢل
+|,tinggalan,تيڠݢلن
+|,tinggam,تيڠݢم
+|,tinggang,تيڠݢڠ
+|,tinggi,تيڠݢي
+|,tertinggi,ترتيڠݢي
+|,tinggung,تيڠݢوڠ
+|,tingi,تيڠي
+|,tingkah,تيڠکه
+|,tingkahan,تيڠکهن
+|,tingkah-meningkah,تيڠکه ـ منيڠکه
+|,tingkal,تيڠکل
+|,tingkalak,تيڠکالق
+|,tingkap,تيڠکڤ
+|,tingkapan,تيڠکڤن
+|,tingkarah,تيڠکاره
+|,tingkarang,تيڠکارڠ
+|,tingkarap (tengkarap),تيڠکارڤ
+|,tingkas,تيڠکس
+|,tingkat,تيڠکت
+|,tetingkat,تتيڠکت
+|,tingkatan,تيڠکتن
+|,tingkat-tingkat,تيڠکت٢
+|,tingkep,تيڠکڤ
+|,tingkil,تيڠکيل
+|,tingkir,تيڠکير
+|,tingkis,تيڠکيس
+|,tingkrang,تيڠکرڠ
+|,tingkuh,تيڠکوه
+|,tingting,تيڠتيڠ
+|,tingtong,تيڠتوڠ
+|,tinja,تينجا
+|,tinjak,تينجق
+|,tinjau,تينجاو
+|,tinjauan,تينجاوان
+|,tinjau-meninjau,تينجاو ـ منينجاو
+|,tinju,تينجو
+|,tinta,تينتا
+|,tinting,تينتيڠ
+|,tintingan,تينتيڠن
+|,tintir,تينتير
+|,tintong,تينتوڠ
+|,tip,تيڤ
+|,tipa,تيڤا
+|,tipai,تيڤاي
+|,tipak,تيڤق
+|,tipar,تيڤر
+|,tipe (tipa),تيڤى
+|,tipen (tepen),تيڤين
+|,tipikal,تيڤيکل
+|,tipis,تيڤيس
+|,tertipis,ترتيڤيس
+|,tipografi,تيڤوݢرافي
+|,tipologi,تيفولوݢي
+|,tipu,تيڤو
+|,tertipu,ترتيڤو
+|,tipuan,تيڤوان
+|,tipus,تيڤوس
+|,tir,تير
+|,tirah,تيره
+|,tirai,تيراي
+|,tirai-mirai,تيراي ـ ميراي
+|,tirak,تيرق
+|,tirakat,تيراکت
+|,tiram,تيرم
+|,tirani,تيراني
+|,tiras,تيرس
+|,tirau,تيراو
+|,tiri,تيري
+|,tiris,تيريس
+|,tiris-miris,تيريس ـ ميريس
+|,tirisan,تيريسن
+|,tirjup,تيرجوڤ
+|,tirkah,ترکة
+|,tirkat,ترکة
+|,tiroid,تيرويد
+|,tiroidektomi,تيرويديکتومي
+|,tiroiditis,تيرويديتيس
+|,tiroksina,تيروکسينا
+|,tiru,تيرو
+|,tertiru-tiru,ترتيرو ـ تيرو
+|,tiruan,تيروان
+|,tiru-tiruan,تيرو ـ تيروان
+|,tiruk,تيروق
+|,tirus,تيروس
+|,tis,تيس
+|,tisik,تيسيق
+|,tisikan,تيسيقن
+|,tisu,تيسو
+|,titah,تيته
+|,titanit,تيتانيت
+|,titanium,تيتانيوم
+|,titar,تيتر
+|,tertitar-titar,ترتيتر ـ تيتر
+|,titi,تيتي
+|,titian,تيتين
+|,titiang,تيتياڠ
+|,titih (petitih),تيتيه
+|,titik,تيتيق
+|,tertitik,ترتيتيق
+|,titikan,تيتيقن
+|,titimangsa,تيتيمڠسا
+|,titinada,تيتينادا
+|,titip,تيتيڤ
+|,titipan,تيتيڤن
+|,titir,تيتير
+|,titiran,تيتيرن
+|,titis,تيتيس
+|,titisan,تيتيسن
+|,titisara,تيتيسارا
+|,titit,تيتيت
+|,tituler,تيتولير
+|,tiub,تيوب
+|,tiung,تيوڠ
+|,tiup,تيوڤ
+|,tertiup,ترتيوڤ
+|,tiupan,تيوڤن
+|,tiup-tiup,تيوڤ٢
+|,tmesis,تميسيس
+|,tiwikrama,تيويکراما
+|,toaha,تواها
+|,tobak,توبق
+|,tobat (taubat),توبة
+|,tobji,توبجي
+|,toblos,توبلوس
+|,toboh,توبوه
+|,tobralko,توبرلکو
+|,tobros,توبروس
+|,tocang,توچڠ
+|,toclait,توچلاءيت
+|,toda,تودا
+|,todak,تودق
+|,todang,تودڠ
+|,todi,تودي
+|,todong,تودوڠ
+|,tofi,توفي
+|,toga,توݢ
+|,togak,توݢق
+|,togal,توݢل
+|,togan,توݢن
+|,togel,توݢيل
+|,togok,توݢوق
+|,tohmah,توهمه
+|,tohmahan,توهمهن
+|,tohok,توهوق
+|,tohor,توهور
+|,tojah,توجه
+|,tertojah,ترتوجه
+|,tojang,توجڠ
+|,tojin,توجين
+|,tojoh (tojah),توجوه
+|,tojok,توجوق
+|,tok,توق
+|,tok-tok,توق٢
+|,tokak,توکق
+|,tertokak,ترتوکق
+|,tokakan,توکقن
+|,tokak-takik,توکق ـ تاکيق
+|,tokak-tokik,توکق ـ توکيق
+|,tokcan,توقچن
+|,tokeh,توکيه
+|,tokek,توکيق
+|,token,توکن
+|,toko,توکو
+|,tokografi,توکوݢرافي
+|,tokoh,توکوه
+|,tokok,توکوق
+|,tokokan,توکوقن
+|,tokok-menokok,توکوق ـ منوکوق
+|,tokong,توکوڠ
+|,tokpekong (topekong),توقڤيکوڠ
+|,toksemia,توکسيميا
+|,toksik,توکسيک
+|,toksikologi,توکسيکولوݢي
+|,toksin,توکسين
+|,toksoplasmosis,توکسوڤلسموسيس
+|,toktok,توقتوق
+|,tol,تول
+|,tolak,تولق
+|,tertolak,ترتولق
+|,tolakan,تولقن
+|,tolak-menolak,تولق ـ منولق
+|,tolap,تولڤ
+|,toleh,توليه
+|,tertoleh,ترتوليه
+|,tertoleh-toleh,ترتوليه ـ توليه
+|,tolek (torek),توليق
+|,toleran,تولرن
+|,toleransi,تولرنسي
+|,tolo (tulu),تولو
+|,tolok,تولوق
+|,tolol,تولول
+|,tolong,تولوڠ
+|,tertolong,ترتولوڠ
+|,tolongan,تولوڠن
+|,tolong-bertolong,تولوڠ ـ برتولوڠ
+|,tolong-menolong,تولوڠ ـ منولوڠ
+|,tolor,تولور
+|,toluena,تولوءينا
+|,tom,توم
+|,toman,تومن
+|,tomat,تومت
+|,tomato,توماتو
+|,tombak,تومبق
+|,tertombak,ترتومبق
+|,tomboi,تومبوي
+|,tombok,تومبوق
+|,tombol,تومبول
+|,tombola,تومبولا
+|,tombong,تومبوڠ
+|,tomigan,توميݢن
+|,tomografi,توموݢرافي
+|,tomoi,توموي
+|,tomong,توموڠ
+|,tompel,تومڤيل
+|,tompok,تومڤوق
+|,tertompok,ترتومڤوق
+|,tompokan,تومڤوقن
+|,tomtom (tamtam),تومتوم
+|,tomyam,توميام
+|,ton,تون
+|,tonceng,تونچيڠ
+|,toncet,تونچيت
+|,tondeh,تونديه
+|,tonem,تونيم
+|,tonetik,تونيتيک
+|,tong,توڠ
+|,tonggak,توڠݢق
+|,tonggek,توڠݢيق
+|,tertonggek,ترتوڠݢيق
+|,tertonggek-tonggek,ترتوڠݢيق ـ توڠݢيق
+|,tonggeng,توڠݢيڠ
+|,tertonggeng,ترتوڠݢيڠ
+|,tonggeret,توڠݢيريت
+|,tonggok,توڠݢوق
+|,tertonggok,ترتوڠݢوق
+|,tonggong,توڠݢوڠ
+|,tonggos,توڠݢوس
+|,tongkah,توڠکه
+|,tongkahan,توڠکهن
+|,tongkan,توڠکن
+|,tongkang,توڠکڠ
+|,tongkat,توڠکت
+|,tertongkat,ترتوڠکت
+|,tongkeng,توڠکيڠ
+|,tongkok,توڠکوق
+|,tongkol,توڠکول
+|,tongkong,توڠکوڠ
+|,tongkrong,توڠکروڠ
+|,tongo (tongong),توڠو
+|,tongol,توڠول
+|,tongong,توڠوڠ
+|,tongsan,توڠسن
+|,tongset,توڠسيت
+|,tongtong,توڠتوڠ
+|,tonik,تونيک
+|,tonil,تونيل
+|,tonjeng,تونجيڠ
+|,tonjok,تونجوق
+|,tonjol,تونجول
+|,tertonjol,ترتونجول
+|,tertonjol-tonjol,ترتونجول ـ تونجول
+|,tonjolan,تونجولن
+|,tonometer,تونوميتر
+|,tonsil,تونسيل
+|,tonsilektomi,تونسيليکتومي
+|,tonsilitis,تونسيليتيس
+|,tonto,تونتو
+|,tonton,تونتون
+|,tertonton,ترتونتون
+|,tontonan,تونتونن
+|,tonyoh,توپوه
+|,tertonyoh,ترتوپوه
+|,tonyok,توپوق
+|,top,توڤ
+|,top-top,توڤ٢
+|,topah (tufah),توڤه
+|,topak,توڤق
+|,topang,توڤڠ
+|,topangan,توڤڠن
+|,topaz,توڤز
+|,topdal,توڤدل
+|,topek,توڤيق
+|,topekong,توڤيکوڠ
+|,topeng,توڤيڠ
+|,topes,توڤيس
+|,topi,توڤي
+|,topiari,توڤياري
+|,topik,توڤيک
+|,topo,توڤو
+|,topografi,توڤوݢرافي
+|,topologi,توڤولوݢي
+|,topong,توڤوڠ
+|,toponimi,توڤونيمي
+|,top,توڤ
+|,top-top,توڤ٢
+|,tor,تور
+|,torak,تورق
+|,torak-torak,تورق٢
+|,toraks,تورکس
+|,toreh,توريه
+|,tertoreh,ترتوريه
+|,torehan,توريهن
+|,torek,توريق
+|,torium,توريوم
+|,tork,تورک
+|,tornado,تورنادو
+|,toro,تورو
+|,torpedir,تورڤدير
+|,torpedo,تورڤيدو
+|,torso,تورسو
+|,tort,تورت
+|,tos,توس
+|,tose,توسي
+|,toslet (toclait),توسليت
+|,total,توتل
+|,totalisator,توتاليساتور
+|,totalitarian,توتاليتاريان
+|,totalitarianisme,توتاليتاريانيسمى
+|,totaliter,توتاليتير
+|,totalitet,توتاليتيت
+|,totem,توتيم
+|,totet,توتيت
+|,toti,توتي
+|,totok,توتوق
+|,totol,توتول
+|,toya,تويا
+|,toyah,تويه
+|,toyak,تويق
+|,toyoh,تويوه
+|,toyol,تويول
+|,tra,ترا
+|,tradisi,تراديسي
+|,tradisional,تراديسيونل
+|,tradisionalis,تراديسيوناليس
+|,tradisionalisme,تراديسيوناليسمى
+|,trafik,ترافيک
+|,tragedi,تراݢيدي
+|,tragik,تراݢيک
+|,tragikomedi,تراݢيکوميدي
+|,tragikomik,تراݢيکوميک
+|,tragis,تراݢيس
+|,trai,تراي
+|,trailer (treler),ترايلر
+|,trajektori,تراجيکتوري
+|,trak,ترک
+|,trakea,تراکيا
+|,trakeitis,تراکياتيس
+|,trakeostromi,تراکيوسترومي
+|,trakoma,تراکوما
+|,traktat,ترکتت
+|,traktir,ترکتير
+|,traktor,ترکتور
+|,trampil (terampil),ترمڤيل
+|,trampolin,ترمڤولين
+|,transaksi,ترنسکسي
+|,transduser,ترنسدوسر
+|,transeksual,ترنسيکسوال
+|,transenden,ترنسيندن
+|,transendental,ترنسيندينتل
+|,transformasi,ترنسفورماسي
+|,transformer,ترنسفورمر
+|,transfusi,ترنسفوسي
+|,transisi,ترنسيسي
+|,transistor,ترنسيستور
+|,transit,ترنسيت
+|,transitif,ترنسيتيف
+|,transito,ترنسيتو
+|,transkrip,ترنسکريڤ
+|,transkripsi,ترنسکريڤسي
+|,transliterasi,ترنسليتراسي
+|,transmigran,ترنسميݢرن
+|,transmigrasi,ترنسميݢراسي
+|,transmisi,ترنسميسي
+|,transmutasi,ترنسموتاسي
+|,transnasional,ترنسناسيونل
+|,transonik,ترنسونيک
+|,transparensi,ترسڤارينسي
+|,transpirasi,ترنسڤيراسي
+|,transponder,ترنسڤوندر
+|,transpor,ترنسڤور
+|,transvestisme,ترنسۏيستيسمى
+|,trapezium,تراڤيزيوم
+|,tras,ترس
+|,trauma,تراوما
+|,traumatik,تراوماتيک
+|,travelator,تراۏلاتور
+|,travelog,تراۏلوݢ
+|,trayek,تراييک
+|,trek,تريک
+|,treler,تريلر
+|,trem,تريم
+|,tremolo,تريمولو
+|,tren,ترين
+|,trend,تريند
+|,trengkas,تريڠکس
+|,tres,تريس
+|,tri,تري
+|,triatlon,ترياتلون
+|,triatom,ترياتوم
+|,tribahasa,تريبهاس
+|,tribrata,تريبراتا
+|,tribulan,تريبولن
+|,tribunal,تريبونل
+|,tribune,تريبونى
+|,trica,تريچا
+|,triftong,تريفتوڠ
+|,trigon,تريݢون
+|,trigonometri,تريݢونوميتري
+|,trihujung,تريهوجوڠ
+|,trik,تريک
+|,trikaki,تريکاکي
+|,triko,تريکو
+|,trikologi,تريکولوݢي
+|,trikopati,تريکوڤاتي
+|,trikotomi,تريکوتومي
+|,trilion,تريليون
+|,trilipat,تريليڤت
+|,trilogi,تريلوݢي
+|,trimaran,تريمارن
+|,trimatra,تريماترا
+|,trimurti,تريمورتي
+|,trindil,ترينديل
+|,trinitas,ترينيتس
+|,triniti,ترينيتي
+|,trinitrotoluena,ترينيتروتولوينا
+|,trinomial,ترينوميال
+|,trio,تريو
+|,trioksid,تريئوکسيد
+|,triolet,تريوليت
+|,terubah,تروبه
+|,terubat,تراوبت
+|,terubati,تراوبتي
+|,terucap,تراوچڤ
+|,terucapkan,تراوچڤکن
+|,terucul,تراوچول
+|,teruit,تراوءيت
+|,teruja,تراوجا
+|,terujar,تراوجر
+|,teruji,تراوجي
+|,terukir,تراوکير
+|,terukur,تراوکور
+|,terulang,تراولڠ
+|,terulung,تراولوڠ
+|,terumbang-ambing,تراومبڠ ـ امبيڠ
+|,terumbang-umbang,تراومبڠ ـ اومبڠ
+|,terumpamakan,تراومڤاماکن
+|,terumpil,تراومڤيل
+|,terumum,ترعموم
+|,terundang,تراوندڠ
+|,terundi,تراوندي
+|,terundur,تراوندور
+|,terunggul,تراوڠݢول
+|,terungkai,تراوڠکاي
+|,terungkap,تراوڠکڤ
+|,terungkap-ungkap,تراوڠکڤ ـ اوڠکڤ
+|,terungkit,تراوڠکيت
+|,terunjuk,تراونجوق
+|,terunjur,تراونجور
+|,teruntai,تراونتاي
+|,teruntil-until,تراونتيل ـ اونتيل
+|,teruntuk,تراونتوق
+|,terupam,تراوڤم
+|,terupaya,تراوڤاي
+|,terurai,تراوراي
+|,terurus,تراوروس
+|,terusik,تراوسيق
+|,terusir,تراوسير
+|,terusung,تراوسوڠ
+|,terutama,تراوتام
+|,terutusan,تراوتوسن
+|,terwalak,ترولق
+|,terwarta,ترورتا
+|,terwujud,تروجود
+|,teryak-yak,تريق ـ يق
+|,
