@@ -1,0 +1,9 @@
+{
+  "id": "e6c21f3c-4238-4df4-882e-10aa0486861c",
+  "name": "Kalimat",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
